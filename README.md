@@ -10,6 +10,8 @@ Diese Website ist für uns alle im R(athaus)4tel, also dem HOWOGE-Neubaugebiet m
 
 Wir haben eine [Signal-Gruppe](https://signal.group/#CjQKIH_QzkCZarTEQ8ui77oGbukM5sSfXmsmIAJ1DgL3D4ZJEhBPmCSrY6RZ_i5Brv38SNmT) (Kurz-Link: http://s.r4tel.de) eingerichtet, in der wir uns über unsere Wohnsituation, das direkte Umfeld, und für uns relevante Neuigkeiten unterhalten.
 
+![QR-Code mit Link zur Signal-Gruppe](/assets/qr-code.jpg)
+
 Ein paar Hinweise:
 * Bitte denkt immer daran, dass die HOWOGE, auch wenn sie aufgrund der Größe etwas an Bürokratie krankt und einiges durchaus verbesserbar wäre, uns allen grundsätzlich wohlgesonnen ist und keineswegs mit einem der kommerziellen Immobilienhaie vergleichbar ist. Geht also bitte nicht grundsätzlich davon aus, dass man uns etwas Böses will, sondern davon dass noch nicht alles perfekt ist. Das Glas ist halb voll, niucht halb leer.
 * Wir sind eine schnell wachsende Gruppe - bitte beschränkt Eure Nachrichten auf Infos die für alle relevant sein könnten.
