@@ -34,9 +34,9 @@ Ein paar Hinweise:
 * Havarie-Notdienst (ALBA):\
   [030 / 54 64 4023](tel:+493054644023)\
   (auch für Warmwasserausfälle)
-* Hausmeister:\
+* [Hausmeister](https://www.howoge.de/mieterservice/services-fuer-mieter/hausmeister.html):\
   Name und Rufnummer des Hausmeisters sind hier aus Datenschutzgründen nicht veröffentlicht. Bitte unter 'Weitere Infos und Öffnungszeiten' recherchieren.
-* Mobile Hausmeister (Nebenzeit):\
+* [Mobile Hausmeister](https://www.howoge.de/mieterservice/services-fuer-mieter/mobiler-hausmeister.html) (Nebenzeit):\
   [030 / 54 64 1300](tel:+493054641300)
 * [HOWOGE Wärme](https://www.howoge.de/unternehmen/tochterunternehmen/howoge-waerme-gmbh.html):\
   * Ansprechpartner Warmwasser:\
@@ -47,6 +47,7 @@ Ein paar Hinweise:
     eMail: [strom-energie@howoge.de](mailto:strom-energie@howoge.de)
   * Zentrale:\
     [030 / 54 64 3601](tel:+493054643601) (Fax -3602)
+* [Kiezhelfer](https://www.howoge.de/mieterservice/services-fuer-mieter/kiezhelfer.html)
 * [HOWOGE-Mieterportal](https://mieterportal.howoge.de/nc/mieterportal/willkommen/meine-wohnung.html)
 * [HOWOGE-Mieterrat](https://www.howoge-mieterrat.com/)
 * [Mieterbeirat (in Gründung?)](https://www.howoge.de/mieterservice/mieterbeiraete.html)
