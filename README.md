@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Willkommen auf r4tel.de!
 
-You can use the [editor on GitHub](https://github.com/mornau/r4tel-website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Diese Website ist für uns alle im R(athaus)4tel, also dem HOWOGE-Neubaugebiet mit den Adressen Rathausstr. 14-17 in Berlin-Lichtenberg. (*)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+\* Falls sich der Wunsch dazu ergibt, ist eine Erweiterung auf die angrenzenden Nachbarn nicht ausgeschlossen.
 
-### Markdown
+### Wichtige Infos und Links
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### HOWOGE
+* Kundenzentrum Alt-Lichtenberg: [+49 30 54 64 3000](tel:+493054643000)
+* Technischer Kundendienst (ALBA): [+49 30 54 64 4000](tel:+493054644000), '3' drücken für Alt-Lichtenberg
+* Havarie-Notdienst (ALBA): [+49 30 54 64 4023](tel:+493054644023) (auch für Warmwasserausfälle)
+* Hausmeister: Name und Rufnummer des Hausmeisters sind hier aus Datenschutzgründen nicht veröffentlicht. Bitte im Mieterportal nachsehen oder in der Signal-Gruppe nachfragen.
+* HOWOGE Wärme: [+49 30 54 64 3680](tel:+493054643680) - Nur Mailbox. Bitte immer zuerst den technischen Kundendienst kontaktieren!
+* [HOWOGE-Mieterportal](https://mieterportal.howoge.de/nc/mieterportal/willkommen/meine-wohnung.html)
 
-```markdown
-Syntax highlighted code block
+#### Bezirksamt
+* [Bezirksamt Lichtenberg](https://www.berlin.de/ba-lichtenberg/)
+* [Corona-Infos](https://www.berlin.de/ba-lichtenberg/aktuelles/artikel.905911.php)
+* Corona-Hotline (Beratung): 030 / 90 28 28 28
 
-# Header 1
-## Header 2
-### Header 3
+### Änderungen
 
-- Bulleted
-- List
+* 16.01.2021: Erste Website aufgebaut - mehr kommt bald!
 
-1. Numbered
-2. List
+### Mitmachen
 
-**Bold** and _Italic_ and `Code` text
+#### Signal-Gruppe
+An sich solltest Du eigentlich schon alles machen können. Falls nicht, bitte einen der Admins Dich auch zu einem zu machen.
 
-[Link](url) and ![Image](src)
-```
+#### Website r4tel.de
+r4tel.de wird derzeit auf GitHub Pages gehostet. Wenn Du magst, mach einfach einen Issue auf dem [GitHub-Repository](https://github.com/mornau/r4tel-website) auf, dann bekommst Du Schreibrechte. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Beim Editieren gibt es momentan nur Folgendes zu beachten:
+* Keine externen Inhalte einbetten, sondern diese in diesem GitHub-Repository hosten
+* Nur Inhalte einbetten für die Du das Copyright hast, oder die CC-0 lizenziert sind (andere Lizenzen könne wir diskutieren, bitte einen Issue erstellen).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mornau/r4tel-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Links:
+* [GitHub Pages-Dokumentation](https://docs.github.com/categories/github-pages-basics/)
