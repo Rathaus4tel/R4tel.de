@@ -37,11 +37,19 @@ Ein paar Hinweise:
 * Hausmeister:\
   Name und Rufnummer des Hausmeisters sind hier aus Datenschutzgründen nicht veröffentlicht. Bitte unter 'Weitere Infos und Öffnungszeiten' recherchieren.
 * Mobile Hausmeister (Nebenzeit):\
-  [030 - 54 64 13 00](tel:+493054641300)
-* HOWOGE Wärme:\
-  [030 / 54 64 3680](tel:+493054643680)\
-  Nur Mailbox. Bitte immer zuerst den technischen Kundendienst kontaktieren!
+  [030 / 54 64 1300](tel:+493054641300)
+* [HOWOGE Wärme](https://www.howoge.de/unternehmen/tochterunternehmen/howoge-waerme-gmbh.html):\
+  * Ansprechpartner Warmwasser:\
+    [030 / 54 64 3680](tel:+493054643680)\
+    Notfallkontakt. Nur Mailbox. Bitte immer zuerst den technischen Kundendienst kontaktieren!
+  * Ansprechpartner Mieterstrom (Solarenergie):\
+    [030 / 54 64 3670](tel:+493054643670) (Fax -3602)\
+    eMail: [strom-energie@howoge.de](mailto:strom-energie@howoge.de)
+  * Zentrale:\
+    [030 / 54 64 3601](tel:+493054643601) (Fax -3602)
 * [HOWOGE-Mieterportal](https://mieterportal.howoge.de/nc/mieterportal/willkommen/meine-wohnung.html)
+* [HOWOGE-Mieterrat](https://www.howoge-mieterrat.com/)
+* [Mieterbeirat (in Gründung?)](https://www.howoge.de/mieterservice/mieterbeiraete.html)
 * Weitere Infos und Öffnungszeiten:\
   [HOWOGE.de: Ansprechpartner für Mieter](https://www.howoge.de/mieterservice/ansprechpartner-fuer-mieter.html)
 
