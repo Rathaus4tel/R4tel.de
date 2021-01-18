@@ -8,11 +8,12 @@ Diese Website ist für uns alle im R(athaus)4tel, also dem HOWOGE-Neubaugebiet m
 
 ## Signal-Gruppe
 
-Wir haben eine [Signal-Gruppe](https://signal.group/#CjQKIH_QzkCZarTEQ8ui77oGbukM5sSfXmsmIAJ1DgL3D4ZJEhBPmCSrY6RZ_i5Brv38SNmT) (Kurz-Link: [s.r4tel.de](http://s.r4tel.de)) eingerichtet, in der wir uns über unsere Wohnsituation, das direkte Umfeld, und für uns relevante Neuigkeiten unterhalten.
+Wir haben eine [Signal-Gruppe](https://signal.group/#CjQKIH_QzkCZarTEQ8ui77oGbukM5sSfXmsmIAJ1DgL3D4ZJEhBPmCSrY6RZ_i5Brv38SNmT) (Kurz-Link: [s.r4tel.de](http://s.r4tel.de)) eingerichtet, in der wir uns über unsere Wohnsituation, das direkte Umfeld, und für uns relevante Neuigkeiten unterhalten. Alle Anwohner sind hier herzlich eingeladen!
 
 ![QR-Code mit Link zur Signal-Gruppe](/assets/qr-code.jpg)
 
 Ein paar Hinweise:
+* Wer Unterstützung mit der Einrichtung der Gruppe auf dem Handy / Tab braucht, kann sich gerne unter +49 176 40456304 (per Telefon, SMS, Signal) an Moritz wenden.
 * Für Signal gibt es auch eine [Desktop-App für Windows/OS X/Linux](https://signal.org/de/download/), die man *begleitend* zur App-Installation auf dem Smartphone/Tablet einrichten kann.
 * Derzeit sind wir alle Admins der Signal-Gruppe. Solange niemand über die Bande schlägt soll das auch so bleiben, denn die Gruppe lebt von unser aller Mitwirkung. Neue Gruppenmitglieder sollten auch als Admins eingerichtet werden.
 * Wir sind eine schnell wachsende Gruppe - bitte beschränkt Eure Nachrichten auf Infos die für viele relevant sein könnten - aber die sind sehr willkommen!
