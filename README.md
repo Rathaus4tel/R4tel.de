@@ -13,12 +13,13 @@ Wir haben eine [Signal-Gruppe](https://signal.group/#CjQKIH_QzkCZarTEQ8ui77oGbuk
 ![QR-Code mit Link zur Signal-Gruppe](/assets/qr-code.jpg)
 
 Ein paar Hinweise:
-* Bitte denkt immer daran, dass die HOWOGE, auch wenn sie aufgrund der Größe etwas an Bürokratie krankt und einiges durchaus verbesserbar wäre, uns allen grundsätzlich wohlgesonnen ist und keineswegs mit einem der kommerziellen Immobilienhaie vergleichbar ist. Geht also bitte nicht grundsätzlich davon aus, dass man uns etwas Böses will, sondern davon dass noch nicht alles perfekt ist. Das Glas ist halb voll, niucht halb leer.
-* Wir sind eine schnell wachsende Gruppe - bitte beschränkt Eure Nachrichten auf Infos die für alle relevant sein könnten.
+* Für Signal gibt es auch eine [Desktop-App für Windows/OS X/Linux](https://signal.org/de/download/), die man *begleitend* zur App-Installation auf dem Smartphone/Tablet einrichten kann.
+* Derzeit sind wir alle Admins der Signal-Gruppe. Solange niemand über die Bande schlägt soll das auch so bleiben, denn die Gruppe lebt von unser aller Mitwirkung. Neue Gruppenmitglieder sollten auch als Admins eingerichtet werden.
+* Wir sind eine schnell wachsende Gruppe - bitte beschränkt Eure Nachrichten auf Infos die für viele relevant sein könnten - aber die sind sehr willkommen!
 * Ihr könnt gerne weitere Gruppen für spezifischere Themen erstellen und sie auf r4tel.de verlinken.
 * Bitte denkt daran, dass in der Gruppe auch Minderjährige Anwesend sind und verhaltet Euch entsprechend
-* Derzeit sind wir alle Admins der Signal-Gruppe. Solange niemand über die Bande schlägt soll das auch so bleiben, denn die Gruppe lebt von unser aller Mitwirkung. Neue Gruppenmitglieder sollten auch als Admins eingerichtet werden.
-* Für Signal gibt es auch eine [Desktop-App für Windows/OS X/Linux](https://signal.org/de/download/), die man *begleitend* zur App-Installation auf dem Smartphone/Tablet einrichten kann.
+* Bitte denkt immer daran, dass die HOWOGE, auch wenn sie aufgrund der Größe etwas an Bürokratie krankt und einiges durchaus verbesserbar wäre, uns allen grundsätzlich wohlgesonnen ist und keineswegs mit einem der kommerziellen Immobilienhaie vergleichbar ist. Geht also bitte nicht grundsätzlich davon aus, dass man uns 'ausrauben' will, sondern eher davon, dass noch nicht alles perfekt ist. Das Glas ist halb voll, nicht halb leer.
+* Wir sind eine non-kommerzielle Gruppe, bitte missbraucht die Gruppe nicht für werbliche Zwecke. Falls ihr etwas anbietet, was lokalen Bezug hat, könnt ihr aber gerne *mal* darauf hinweisen.
 
 ## Wichtige Infos und Links
 
