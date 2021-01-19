@@ -27,7 +27,7 @@ Wir haben eine [Signal-Gruppe](https://signal.group/#CjQKIH_QzkCZarTEQ8ui77oGbuk
   Bitte denkt immer daran, dass die HOWOGE, auch wenn sie aufgrund der Größe etwas an Bürokratie krankt und einiges durchaus verbesserbar wäre, uns allen grundsätzlich wohlgesonnen ist und keineswegs mit einem der kommerziellen Immobilienhaie vergleichbar ist. Geht also bitte nicht grundsätzlich davon aus, dass man uns 'ausrauben' will, sondern eher davon, dass noch nicht alles perfekt ist. Das Glas ist halb voll, nicht halb leer.
   * Kommerz:\
   Wir sind eine non-kommerzielle Gruppe, bitte missbraucht die Gruppe nicht für werbliche Zwecke. Falls ihr etwas anbietet, was lokalen Bezug hat, könnt ihr aber gerne *mal* darauf hinweisen.
-* Technisches und Administratives:\
+* Technisches und Administratives:
   * Signal auf Desktop/Laptop:\
   Für Signal gibt es auch eine [Desktop-App für Windows/OS X/Linux](https://signal.org/de/download/), die man *begleitend* zur App-Installation auf dem Smartphone/Tablet einrichten kann.
   * Technische Unterstützung:\
@@ -60,7 +60,7 @@ Wir haben eine [Signal-Gruppe](https://signal.group/#CjQKIH_QzkCZarTEQ8ui77oGbuk
   Name und Rufnummer des Hausmeisters sind hier aus Datenschutzgründen nicht veröffentlicht. Bitte unter 'Weitere Infos und Öffnungszeiten' recherchieren.
 * [Mobile Hausmeister](https://www.howoge.de/mieterservice/services-fuer-mieter/mobiler-hausmeister.html) (Nebenzeit):\
   [030 / 54 64 1300](tel:+493054641300)
-* [HOWOGE Wärme](https://www.howoge.de/unternehmen/tochterunternehmen/howoge-waerme-gmbh.html):\
+* [HOWOGE Wärme](https://www.howoge.de/unternehmen/tochterunternehmen/howoge-waerme-gmbh.html):
   * Ansprechpartner Warmwasser:\
     [030 / 54 64 3680](tel:+493054643680)\
     Notfallkontakt. Nur Mailbox. Bitte immer zuerst den technischen Kundendienst kontaktieren!
