@@ -89,6 +89,37 @@ Bei Störungen der Warmwasserversorgung bitte unbedingt die Havariehotline konta
 ### Stromversorgung
 Die Stromversorgung geschieht über den von Dir gewählten Anbieter. Die HOWOGE bietet auf den Dächern der Wohnungen erzeugten Mieterstrom an. Als lokal erzeugter grüner Strom ist der besonders sinnvoll und im Vergleich zu anderen Anbietern von grünem Strom ist er durchaus attraktiv. Billiger geht's nur mit Kohlestrom.
 
+## Umfragen
+Wir haben ein paar Umfragen erstellt - es wäre prima wenn Du Dich (gerne auch anonym) beteiligen würdest!
+
+[Welchem Geschlecht ordnest Du Dich zu?](https://www.systemli.org/poll/#/poll/XUl5s5gkPV/participation?encryptionKey=J1Kgrdtt5PP5A9mCUBg2ZDrQH9aJyNjQKp8dawq2)
+
+[Zu welcher Altersklasse gehörst Du?](https://www.systemli.org/poll/#/poll/LIYEixlXY1/participation?encryptionKey=YG7yAMIrmNdEGC2EuMrs3JIIggbv4UR85kI7sXLg)
+
+[Wieviele Personen leben in Deinem Haushalt?](https://www.systemli.org/poll/#/poll/kVhNFvaj3H/participation?encryptionKey=TYZ34nLQRg1PAgaAskdBeljdtUmMwY6PCkIPej5v)
+
+[Hättest Du Lust auf ein Online-Meeting mit Audio-/Video?](https://www.systemli.org/poll/#/poll/hc2lsQQLko/participation?encryptionKey=30tKVlxDljMe7fbZCgnKZL0S2SwhCShFeW8MOIEk)
+
+[Welche Themen möchtest Du in einem Online-Meeting der Gruppe besprechen?](https://www.systemli.org/poll/#/poll/DxD0stQVEi/participation?encryptionKey=WhZsMArEMAtHWneYMezlhA3OUUA3r4kKNqfUvab7)
+
+[Sollten wir weitere Gruppen für Fremdsprachen erstellen?](https://www.systemli.org/poll/#/poll/TRptCTZlEP/participation?encryptionKey=4XK7Tg9DPmPaCAHXcMj59F7WpFFJhvnU6q4z2mbq)\
+Should we have a group in English?\
+¿Deberíamos tener un grupo en español?\
+Türkçe bir grubumuz olmalı mı?\
+Ma komek me bi kurdî heye?\
+هل يجب أن تكون لدينا مجموعة باللغة العربية؟\
+Devrions-nous avoir un groupe en français?\
+Czy powinniśmy mieć grupę po polsku?
+
+[Welchen Internetzugangsanbieter nutzt Du zuhause?](https://www.systemli.org/poll/#/poll/zeHLOqNYzU/participation?encryptionKey=g7pk98rbMgR9cewnNySn9oK5yygj6dY4FtH0Dwxz)
+
+[Dein/e NachbarIn klingelt und fragt ob er/sie Deine Leiter für einen Abend ausleihen darf. Darf er/sie?](https://www.systemli.org/poll/#/poll/KtY9gq9Rkh/participation?encryptionKey=z20QICYJCadHWLB6BIdYWEYcehb5aBQS3yZnMLb4)
+
+[Wie wichtig ist Dir Religion?](https://www.systemli.org/poll/#/poll/OY6t8oO7iS/participation?encryptionKey=7Cy8dXd73ozQmOSY4ORrApUVVdzrJPh3aENclYG7)
+
+[Wie wichtig ist Dir Politik?](https://www.systemli.org/poll/#/poll/Cw3Ng709GJ/participation?encryptionKey=Wk0dS00WBVU6Hxdqb5dxlZeoLVtTFDzLZzQFAhEL)
+
+[Wenn Du könntest, würdest Du Dich *jetzt* gegen Covid 19 impfen lassen?](https://www.systemli.org/poll/#/poll/DOKmdt74HX/participation?encryptionKey=YuJaXG2WBDSp4XYZyDl2pa8QriC0Vjy9E5xIV2UK)
 
 ## Mitmachen
 
