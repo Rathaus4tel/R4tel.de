@@ -89,6 +89,30 @@ Bei Störungen der Warmwasserversorgung bitte unbedingt die Havariehotline konta
 ### Stromversorgung
 Die Stromversorgung geschieht über den von Dir gewählten Anbieter. Die HOWOGE bietet auf den Dächern der Wohnungen erzeugten Mieterstrom an. Als lokal erzeugter grüner Strom ist der besonders sinnvoll und im Vergleich zu anderen Anbietern von grünem Strom ist er durchaus attraktiv. Billiger geht's nur mit Kohlestrom.
 
+### Müllabholung
+
+* [BSR Abfuhrkalender](https://www.bsr.de/abfuhrkalender-20520.php)
+* [BSR Feiertagsregelungen](https://www.bsr.de/feiertagsregelungen-21790.php)
+* [BSR App mit Abfuhrkalender](https://www.bsr.de/bsr-app-21371.php)
+
+* [ALBA Berlin Abfuhrkalender](https://berlin.alba.info/service/abfallkalender/abfuhrtermine/)
+* [ALBA Berlin App mit Abfuhrkalender](https://berlin.alba.info/service/abfallkalender/)
+* [ALBA Berlin Feiertagsregelungen](https://berlin.alba.info/fileadmin/user_upload/ALBA_Berlin/pdf/Feiertagsentsorgung_2021.pdf)
+
+#### R14/15
+Hausmüll: freitags in geraden Kalenderwochen\
+Bio: donnerstags in ungeraden Kalenderwochen\
+Papier + Wertstoffe (ALBA): wöchentlich dienstags
+
+(Stand: 15.01.2020)
+
+#### Frankfurter Allee Nord (HOWOGE)
+Hausmüll: FFA montags + donnerstags\
+Bio: wöchentlich donnerstags\
+Papier + Wertstoffe (ALBA): unbekannt, bitte bei ALBA erfragen
+
+(Stand: 15.01.2020)
+
 ## Umfragen
 Wir haben ein paar Umfragen erstellt - es wäre prima wenn Du Dich (gerne auch anonym) beteiligen würdest!
 
@@ -120,30 +144,6 @@ Czy powinniśmy mieć grupę po polsku?
 [Wie wichtig ist Dir Politik?](https://www.systemli.org/poll/#/poll/Cw3Ng709GJ/participation?encryptionKey=Wk0dS00WBVU6Hxdqb5dxlZeoLVtTFDzLZzQFAhEL)
 
 [Wenn Du könntest, würdest Du Dich *jetzt* gegen Covid 19 impfen lassen?](https://www.systemli.org/poll/#/poll/DOKmdt74HX/participation?encryptionKey=YuJaXG2WBDSp4XYZyDl2pa8QriC0Vjy9E5xIV2UK)
-
-### Müllabholung
-
-* [BSR Abfuhrkalender](https://www.bsr.de/abfuhrkalender-20520.php)
-* [BSR Feiertagsregelungen](https://www.bsr.de/feiertagsregelungen-21790.php)
-* [BSR App mit Abfuhrkalender](https://www.bsr.de/bsr-app-21371.php)
-
-* [ALBA Berlin Abfuhrkalender](https://berlin.alba.info/service/abfallkalender/abfuhrtermine/)
-* [ALBA Berlin App mit Abfuhrkalender](https://berlin.alba.info/service/abfallkalender/)
-* [ALBA Berlin Feiertagsregelungen](https://berlin.alba.info/fileadmin/user_upload/ALBA_Berlin/pdf/Feiertagsentsorgung_2021.pdf)
-
-#### R14/15
-Hausmüll: freitags in geraden Kalenderwochen\
-Bio: donnerstags in ungeraden Kalenderwochen\
-Papier + Wertstoffe (ALBA): wöchentlich dienstags
-
-(Stand: 15.01.2020)
-
-#### Frankfurter Allee Nord (HOWOGE)
-Hausmüll: FFA montags + donnerstags\
-Bio: wöchentlich donnerstags\
-Papier + Wertstoffe (ALBA): unbekannt, bitte bei ALBA erfragen
-
-(Stand: 15.01.2020)
 
 ## Mitmachen
 
