@@ -91,24 +91,26 @@ Die Stromversorgung geschieht über den von Dir gewählten Anbieter. Die HOWOGE 
 
 ### Müllabholung
 
-* [BSR Abfuhrkalender](https://www.bsr.de/abfuhrkalender-20520.php)
-* [BSR Feiertagsregelungen](https://www.bsr.de/feiertagsregelungen-21790.php)
-* [BSR App mit Abfuhrkalender](https://www.bsr.de/bsr-app-21371.php)
+**BSR**
+* [Abfuhrkalender](https://www.bsr.de/abfuhrkalender-20520.php)
+* [Feiertagsregelungen](https://www.bsr.de/feiertagsregelungen-21790.php)
+* [App mit Abfuhrkalender](https://www.bsr.de/bsr-app-21371.php)
 
-* [ALBA Berlin Abfuhrkalender](https://berlin.alba.info/service/abfallkalender/abfuhrtermine/)
-* [ALBA Berlin App mit Abfuhrkalender](https://berlin.alba.info/service/abfallkalender/)
-* [ALBA Berlin Feiertagsregelungen](https://berlin.alba.info/fileadmin/user_upload/ALBA_Berlin/pdf/Feiertagsentsorgung_2021.pdf)
+**ALBA Berlin**
+* [Abfuhrkalender](https://berlin.alba.info/service/abfallkalender/abfuhrtermine/)
+* [App mit Abfuhrkalender](https://berlin.alba.info/service/abfallkalender/)
+* [Feiertagsregelungen](https://berlin.alba.info/fileadmin/user_upload/ALBA_Berlin/pdf/Feiertagsentsorgung_2021.pdf)
 
 #### R14/15
-Hausmüll: freitags in geraden Kalenderwochen\
-Bio: donnerstags in ungeraden Kalenderwochen\
+Hausmüll (BSR): freitags in geraden Kalenderwochen\
+Bio (BSR): donnerstags in ungeraden Kalenderwochen\
 Papier + Wertstoffe (ALBA): wöchentlich dienstags
 
 (Stand: 15.01.2020)
 
 #### Frankfurter Allee Nord (HOWOGE)
-Hausmüll: FFA montags + donnerstags\
-Bio: wöchentlich donnerstags\
+Hausmüll (BSR): FFA montags + donnerstags\
+Bio (BSR): wöchentlich donnerstags\
 Papier + Wertstoffe (ALBA): unbekannt, bitte bei ALBA erfragen
 
 (Stand: 15.01.2020)
