@@ -4,16 +4,28 @@
 
 Diese Website ist für uns alle im R(athaus)4tel, dem HOWOGE-Neubaugebiet in Berlin-Lichtenberg mit den Adressen Rathausstr. 11a-f, 12, 14-17 und Frankfurter Allee 133, 135 und 137.
 
+## Austausch über Signal
 
-## Aktuelle Themen
+Um uns über für uns HOWOGE-Mieter relevante Neuigkeiten zu unterhalten und die Anonymität der Großstadt etwas aufzubrechen, haben wir mehrere Gruppen über den kostenlosen und privatsphärefreundlichen Messaging-Dienst [Signal](https://signal.org/de/) eingerichtet. Als AnwohnerIn bist Du herzlich eingeladen!
 
-## Signal-Gruppe
+QR-Code mit Link zur Signal-Hauptgruppe - einfach mit dem Handy scannen:
 
-Wir haben eine [Signal-Gruppe](https://signal.group/#CjQKIH_QzkCZarTEQ8ui77oGbukM5sSfXmsmIAJ1DgL3D4ZJEhBPmCSrY6RZ_i5Brv38SNmT) (Kurz-Link: [s.r4tel.de](http://s.r4tel.de)) eingerichtet, in der wir uns über unsere Wohnsituation, das direkte Umfeld, und für uns relevante Neuigkeiten unterhalten. Alle Anwohner sind hier herzlich eingeladen!
+![QR-Code mit Link zur Signal-Hauptgruppe](/assets/qr-code.jpg)
 
-![QR-Code mit Link zur Signal-Gruppe](/assets/qr-code.jpg)
+### Liste der Signal-Gruppen
+* [r4tel](https://signal.group/#CjQKIH_QzkCZarTEQ8ui77oGbukM5sSfXmsmIAJ1DgL3D4ZJEhBPmCSrY6RZ_i5Brv38SNmT)  (Kurz-Link: [s.r4tel.de](http://s.r4tel.de)): Hauptgruppe für alle HOWOGE-Mieter im Rathausviertel
+* [r4tel - R14](https://signal.group/#CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT): Gruppe für Bewohner der Rathausstraße 14
 
 ### How to Signal
+* Einführung in Signal
+  * [Erste Schritte](https://support.signal.org/hc/de/sections/360001602712-Signal-Messengers-Grundlagen)
+  * [Gruppenunterhaltungen](https://support.signal.org/hc/de/articles/360007319331-Gruppenunterhaltungen)
+  * [Signal-Support](https://support.signal.org/hc/de)
+  * Wer gerne Unterstützung bei der Einrichtung von Signal auf dem Handy / Tab / PC hätte, kann sich gerne unter +49 176 40456304 (per Telefon, SMS, Signal) an Moritz wenden. Wenn Du Dich durch diese Form der Kommunikation ausgeschlossen fühlst, melde Dich bitte ebenfalls, gerne mit Verbesserungsvorschlägen. 
+* TeilnehmerInnen:
+  * Alle BewohnerInnen der o.a. Adressen sind hier herzlich eingeladen!
+  * HOWOGE-MitarbeiterInnen: Wir freuen uns, wenn die Hausmeister ebenfalls beitreten. Andere HOWOGE-Mitarbeiter, soweit nicht Anwohner, bitten wir von einer Teilnahme abzusehen. Teilnehmende HOWOGE-MitarbeiterInnen bitten wir davon abzusehen, Namen und Rufnummern der BewohnerInnen innerhalb der HOWOGE weiter zu geben, es sei denn, es wurde für den jeweiligen Einzelfall eine Einwilligung erteilt.
+  * Alle anderen Personengruppen bitten wir von einer Teilnahme abzusehen.
 * Inhalte:
   * Adresskürzel:\
   Es wäre prima, wenn Du den ersten Buchstaben der Straße und die Hausnummer angibst, z.B. "R14" für "Rathausstr. 14", und zwar:
@@ -26,19 +38,17 @@ Wir haben eine [Signal-Gruppe](https://signal.group/#CjQKIH_QzkCZarTEQ8ui77oGbuk
   * Kritik:\
   Bitte denkt immer daran, dass die HOWOGE, auch wenn sie aufgrund der Größe etwas an Bürokratie krankt und einiges durchaus verbesserbar wäre, uns allen grundsätzlich wohlgesonnen ist und keineswegs mit einem der kommerziellen Immobilienhaie vergleichbar ist. Geht also bitte nicht grundsätzlich davon aus, dass man uns 'ausrauben' will, sondern eher davon, dass noch nicht alles perfekt ist. Das Glas ist halb voll, nicht halb leer.
   * Kommerz:\
-  Wir sind eine non-kommerzielle Gruppe, bitte missbraucht die Gruppe nicht für werbliche Zwecke. Falls ihr etwas anbietet, was lokalen Bezug hat, könnt ihr aber gerne *mal* darauf hinweisen.
+  Wir sind eine non-kommerzielle Gruppe, bitte missbraucht die Gruppe nicht für werbliche Zwecke - das gilt auch für Kunden-werben-Kunden-Programme. Falls ihr etwas anbietet oder nutzt, was lokalen Bezug hat, könnt ihr aber gerne *mal* darauf hinweisen.
 * Technisches und Administratives:
   * Signal auf Desktop/Laptop:\
   Für Signal gibt es auch eine [Desktop-App für Windows/OS X/Linux](https://signal.org/de/download/), die man *begleitend* zur App-Installation auf dem Smartphone/Tablet einrichten kann.
-  * Technische Unterstützung:\
-  Wer Unterstützung mit der Einrichtung der Signal-Gruppe auf dem Handy / Tab / PC braucht, kann sich gerne unter +49 176 40456304 (per Telefon, SMS, Signal) an Moritz wenden.
   * Gruppen-Admins:\
   Derzeit sind wir alle Admins der Signal-Gruppe. Solange niemand über die Bande schlägt soll das auch so bleiben, denn die Gruppe lebt von unser aller Mitwirkung. Neue Gruppenmitglieder sollten auch als Admins eingerichtet werden, bitte helft alle dabei mit Neueinsteieger zu Admins zu machen.
 * Fokus und Wachstum:
   * Wachstum *dieser* Gruppe:\
   Falls sich der Wunsch dazu ergibt, können wir die Gruppe gerne auch auf die angrenzenden Nachbarn erweitern. Grundsätzlich ist es aber wohl sinnvoll, sich auf HOWOGE-Gebäude zu beschränken, denn da sitzen wir alle im gleichen Boot.
   * Weitere Gruppen:\
-  Wenn wir weiter wachsen, macht es vielleicht Sinn, neue Gruppen pro Haus aufzumachen (zusätzlich zu dieser zentralen Gruppe), oder Gruppen in anderen Sprachen anzulegen. Wenn Du eine solche Gruppe anlegst, sag bitte Bescheid, damit sie auf der Website verlinkt werden kann.
+  Wenn wir weiter wachsen, macht es vielleicht Sinn, neue Gruppen pro Haus aufzumachen (zusätzlich zu dieser zentralen Gruppe), oder Gruppen in anderen Sprachen anzulegen. Wenn Du eine solche Gruppe anlegst, sag gerne in der großen Gruppe Bescheid, damit sie hier auf der Website verlinkt werden kann.
 
 ## Wichtige Infos und Links
 
@@ -102,29 +112,38 @@ Die Stromversorgung geschieht über den von Dir gewählten Anbieter. Die HOWOGE 
 * [Feiertagsregelungen](https://berlin.alba.info/fileadmin/user_upload/ALBA_Berlin/pdf/Feiertagsentsorgung_2021.pdf)
 
 #### R14/15
-Hausmüll (BSR): freitags in geraden Kalenderwochen\
-Bio (BSR): donnerstags in ungeraden Kalenderwochen\
-Papier + Wertstoffe (ALBA): wöchentlich dienstags
+Hausmüll (BSR):\
+freitags in geraden Kalenderwochen
+
+Bio (BSR):\
+donnerstags in ungeraden Kalenderwochen
+
+Papier + Wertstoffe (ALBA):\
+wöchentlich dienstags
 
 (Stand: 15.01.2020)
 
 #### Frankfurter Allee Nord (HOWOGE)
-Hausmüll (BSR): FFA montags + donnerstags\
-Bio (BSR): wöchentlich donnerstags\
-Papier + Wertstoffe (ALBA): unbekannt, bitte bei ALBA erfragen
+Hausmüll (BSR):\
+montags + donnerstags
+
+Bio (BSR):\
+wöchentlich donnerstags
+
+Papier + Wertstoffe (ALBA):\
+unbekannt, bitte bei ALBA erfragen, dann hier updaten
 
 (Stand: 15.01.2020)
 
 ## Umfragen
-Wir haben ein paar Umfragen erstellt - es wäre prima wenn Du Dich (gerne auch anonym) beteiligen würdest!
+Es wäre prima wenn Du Dich (gerne auch anonym) an diesen Umfragen beteiligen würdest - so lernen wir uns besser kennen!
+Du kannst gerne weitere hinzufügen (gerne auch über https://www.systemli.org/poll/).
 
 [Welchem Geschlecht ordnest Du Dich zu?](https://www.systemli.org/poll/#/poll/XUl5s5gkPV/participation?encryptionKey=J1Kgrdtt5PP5A9mCUBg2ZDrQH9aJyNjQKp8dawq2)
 
 [Zu welcher Altersklasse gehörst Du?](https://www.systemli.org/poll/#/poll/LIYEixlXY1/participation?encryptionKey=YG7yAMIrmNdEGC2EuMrs3JIIggbv4UR85kI7sXLg)
 
 [Wieviele Personen leben in Deinem Haushalt?](https://www.systemli.org/poll/#/poll/kVhNFvaj3H/participation?encryptionKey=TYZ34nLQRg1PAgaAskdBeljdtUmMwY6PCkIPej5v)
-
-[Hättest Du Lust auf ein Online-Meeting mit Audio-/Video?](https://www.systemli.org/poll/#/poll/hc2lsQQLko/participation?encryptionKey=30tKVlxDljMe7fbZCgnKZL0S2SwhCShFeW8MOIEk)
 
 [Welche Themen möchtest Du in einem Online-Meeting der Gruppe besprechen?](https://www.systemli.org/poll/#/poll/DxD0stQVEi/participation?encryptionKey=WhZsMArEMAtHWneYMezlhA3OUUA3r4kKNqfUvab7)
 
@@ -149,7 +168,7 @@ Czy powinniśmy mieć grupę po polsku?
 
 ## Mitmachen
 
-### Signal-Gruppe
+### Signal-Gruppen
 An sich solltest Du eigentlich schon alles machen können. Falls nicht, bitte einen der Admins Dich auch zu einem zu machen.
 
 ### Website r4tel.de
