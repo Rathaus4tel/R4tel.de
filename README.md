@@ -155,6 +155,7 @@ Ma komek me bi kurdî heye?\
 هل يجب أن تكون لدينا مجموعة باللغة العربية؟\
 Devrions-nous avoir un groupe en français?\
 Czy powinniśmy mieć grupę po polsku?
+Ska vi ha en grupp på svenska?
 
 [Welchen Internetzugangsanbieter nutzt Du zuhause?](https://www.systemli.org/poll/#/poll/zeHLOqNYzU/participation?encryptionKey=g7pk98rbMgR9cewnNySn9oK5yygj6dY4FtH0Dwxz)
 
