@@ -13,7 +13,8 @@ QR-Code mit Link zur Signal-Hauptgruppe - einfach mit dem Handy scannen:
 ![QR-Code mit Link zur Signal-Hauptgruppe](/assets/qr-code.jpg)
 
 ### Liste der Signal-Gruppen
-* [r4tel](https://signal.group/#CjQKIH_QzkCZarTEQ8ui77oGbukM5sSfXmsmIAJ1DgL3D4ZJEhBPmCSrY6RZ_i5Brv38SNmT) (Kurz-Link: [s.r4tel.de](http://s.r4tel.de) oder [signal.r4tel.de](http://signal.r4tel.de)): Hauptgruppe für alle HOWOGE-Mieter im Rathausviertel
+* [r4tel](https://signal.group/#CjQKIH_QzkCZarTEQ8ui77oGbukM5sSfXmsmIAJ1DgL3D4ZJEhBPmCSrY6RZ_i5Brv38SNmT) (Kurz-Link: [s.r4tel.de](http://s.r4tel.de) oder [signal.r4tel.de](http://signal.r4tel.de)): Hauptgruppe für alle HOWOGE-Mieter im Rathausviertel - bitte nur wichtige Nachrichten!
+* [r4tel - Chat](https://signal.group/#CjQKIFC8zOeMywxbvfgFBnuEzbml4EnKhg6_Bio3gEbF8GYpEhB8Pzjfd-daNi7oGc1dWniE) (Kurz-Link: [chat.s.r4tel.de](http://r14.s.r4tel.de)): Social Chat für alle HOWOGE-Mieter im Rathausviertel - über alles was anliegt
 * [r4tel - R14](https://signal.group/#CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT) (Kurz-Link: [r14.s.r4tel.de](http://r14.s.r4tel.de)): Gruppe für Bewohner der Rathausstraße 14
 
 ### How to Signal
@@ -32,9 +33,9 @@ QR-Code mit Link zur Signal-Hauptgruppe - einfach mit dem Handy scannen:
     * entweder hinter Deinem Signal-Profilnamen
     * oder im Chat, wann immer Du Dich beteiligst.
   * Nachrichtenfrequenz:\
-  Wir sind eine schnell wachsende Gruppe - bitte beschränkt Eure Nachrichten auf Infos die für viele relevant sein könnten - aber die sind sehr willkommen! Wenn momentan zu viele Nachrichten ankommen kannst Du in den Gruppeneinstellungen die Benachrichtigungen für eine Weile (Stunden, Tage, 1 Woche) deaktivieren. 
+  Wir sind eine schnell wachsende Gruppe - bitte beschränkt Eure Nachrichten *in der Hauptgruppe* auf Infos die für viele relevant sind - aber die sind sehr willkommen! Für alles andere eignen sich der Chat und die separaten Gruppen zu den einzelnen Hausnummern. Wenn momentan zu viele Nachrichten ankommen, kannst Du in den Gruppeneinstellungen die Benachrichtigungen für eine Weile (1 Stunde bis 1 Jahr) deaktivieren. 
   * Form:\
-  Bitte denkt daran, dass in der Gruppe auch Minderjährige Anwesend sind und verhaltet Euch entsprechend
+  Bitte denkt daran, dass in der Gruppe auch Minderjährige anwesend sind und verhaltet Euch entsprechend.
   * Kritik:\
   Bitte denkt immer daran, dass die HOWOGE, auch wenn sie aufgrund der Größe etwas an Bürokratie krankt und einiges durchaus verbesserbar wäre, uns allen grundsätzlich wohlgesonnen ist und keineswegs mit einem der kommerziellen Immobilienhaie vergleichbar ist. Geht also bitte nicht grundsätzlich davon aus, dass man uns 'ausrauben' will, sondern eher davon, dass noch nicht alles perfekt ist. Das Glas ist halb voll, nicht halb leer.
   * Kommerz:\
@@ -43,12 +44,12 @@ QR-Code mit Link zur Signal-Hauptgruppe - einfach mit dem Handy scannen:
   * Signal auf Desktop/Laptop:\
   Für Signal gibt es auch eine [Desktop-App für Windows/OS X/Linux](https://signal.org/de/download/), die man *begleitend* zur App-Installation auf dem Smartphone/Tablet einrichten kann.
   * Gruppen-Admins:\
-  Derzeit sind wir alle Admins der Signal-Gruppe. Solange niemand über die Bande schlägt soll das auch so bleiben, denn die Gruppe lebt von unser aller Mitwirkung. Neue Gruppenmitglieder sollten auch als Admins eingerichtet werden, bitte helft alle dabei mit Neueinsteieger zu Admins zu machen.
+  Derzeit sind wir alle Admins der Signal-Gruppen, das heißt alle können alles. Solange niemand über die Bande schlägt soll das auch so bleiben, denn die Gruppe lebt von unser aller Mitwirkung. Neue Gruppenmitglieder sollten auch als Admins eingerichtet werden, bitte helft alle dabei mit Neueinsteieger zu Admins zu machen und sie bei den ersten Schritten zu unterstützen.
 * Fokus und Wachstum:
   * Wachstum *dieser* Gruppe:\
   Falls sich der Wunsch dazu ergibt, können wir die Gruppe gerne auch auf die angrenzenden Nachbarn erweitern. Grundsätzlich ist es aber wohl sinnvoll, sich auf HOWOGE-Gebäude zu beschränken, denn da sitzen wir alle im gleichen Boot.
   * Weitere Gruppen:\
-  Wenn wir weiter wachsen, macht es vielleicht Sinn, neue Gruppen pro Haus aufzumachen (zusätzlich zu dieser zentralen Gruppe), oder Gruppen in anderen Sprachen anzulegen. Wenn Du eine solche Gruppe anlegst, sag gerne in der großen Gruppe Bescheid, damit sie hier auf der Website verlinkt werden kann.
+  Es kann durchaus Sinn machen für einzelne Häuser (Hausnummern) und Themen (z.B. nh Hotel, Wallbox) neue Gruppen pro Haus aufzumachen (zusätzlich zu dieser zentralen Gruppe), oder Gruppen in anderen Sprachen anzulegen. Wenn Du eine solche Gruppe anlegst, sag gerne in der großen Gruppe Bescheid, damit Interessierte beitreten und wir die Gruppe hier auf der Website verlinken können.
 
 ## Wichtige Infos und Links
 
