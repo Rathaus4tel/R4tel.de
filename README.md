@@ -19,7 +19,7 @@ QR-Code mit Link zur Signal-Hauptgruppe - einfach mit dem Handy scannen:
 * [r4tel](https://signal.group/#CjQKIH_QzkCZarTEQ8ui77oGbukM5sSfXmsmIAJ1DgL3D4ZJEhBPmCSrY6RZ_i5Brv38SNmT) (Kurz-Link: [s.r4tel.de](http://s.r4tel.de) oder [signal.r4tel.de](http://signal.r4tel.de)): Hauptgruppe für alle HOWOGE-Mieter im Rathausviertel - bitte nur wichtige Nachrichten!
 
 #### Hausnummer-Gruppen
-* [r4tel - R14](https://signal.group/#CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT) (Kurz-Link: [r14.s.r4tel.de](http://r14.s.r4tel.de)): Für Bewohner der Rathausstraße 14
+* [R14](https://signal.group/#CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT) (Kurz-Link: [r14.s.r4tel.de](http://r14.s.r4tel.de)): Für Bewohner der Rathausstraße 14
 
 #### Themen-Gruppen
 * [Lüftung](https://signal.group/#CjQKIIe_Ibmw7Nh2b1J3wxf7mzmeWTJ11s0nhdaNWoIxdtRXEhCfJww30UdAPA0W9B_-2U8v): Die in den Häusern installierten Lüftungsanlage(n)
