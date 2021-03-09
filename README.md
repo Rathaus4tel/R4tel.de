@@ -2,7 +2,10 @@
 
 <img src="https://mieterportal.howoge.de/typo3temp/_processed_/3/b/csm_20286101-fotoaussen-default_c0cbf56dd9.jpg" alt="Bild des HOWOGE-Neubaus an der Rathausstraße" class="inline"/>
 
-Diese Website ist für uns alle im R(athaus)4tel, dem HOWOGE-Neubaugebiet in Berlin-Lichtenberg mit den Adressen Rathausstr. 11a-f, 12, 14-17 und Frankfurter Allee 133, 135 und 137.
+Diese Website ist für uns alle im R(athaus)4tel, dem HOWOGE-Neubaugebiet in Berlin-Lichtenberg mit den Adressen 
+
+* Rathausstr. 11a-f, 12, 14 - 17 und 
+* Frankfurter Allee 133, 135 und 137.
 
 ## Austausch über Signal
 
@@ -176,8 +179,6 @@ Ska vi ha en grupp på svenska?
 [Wie wichtig ist Dir Religion?](https://www.systemli.org/poll/#/poll/OY6t8oO7iS/participation?encryptionKey=7Cy8dXd73ozQmOSY4ORrApUVVdzrJPh3aENclYG7)
 
 [Wie wichtig ist Dir Politik?](https://www.systemli.org/poll/#/poll/Cw3Ng709GJ/participation?encryptionKey=Wk0dS00WBVU6Hxdqb5dxlZeoLVtTFDzLZzQFAhEL)
-
-[Wenn Du könntest, würdest Du Dich *jetzt* gegen Covid 19 impfen lassen?](https://www.systemli.org/poll/#/poll/DOKmdt74HX/participation?encryptionKey=YuJaXG2WBDSp4XYZyDl2pa8QriC0Vjy9E5xIV2UK)
 
 ## Mitmachen
 
