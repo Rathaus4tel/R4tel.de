@@ -14,16 +14,19 @@ QR-Code mit Link zur Signal-Hauptgruppe - einfach mit dem Handy scannen:
 
 ### Liste der Signal-Gruppen
 
-#### Hauptgruppen
-* [r4tel - Chat](https://signal.group/#CjQKIFC8zOeMywxbvfgFBnuEzbml4EnKhg6_Bio3gEbF8GYpEhB8Pzjfd-daNi7oGc1dWniE) (Kurz-Link: [chat.s.r4tel.de](http://r14.s.r4tel.de)): Social Chat für alle HOWOGE-Mieter im Rathausviertel - über alles was anliegt
-* [r4tel](https://signal.group/#CjQKIH_QzkCZarTEQ8ui77oGbukM5sSfXmsmIAJ1DgL3D4ZJEhBPmCSrY6RZ_i5Brv38SNmT) (Kurz-Link: [s.r4tel.de](http://s.r4tel.de) oder [signal.r4tel.de](http://signal.r4tel.de)): Hauptgruppe für alle HOWOGE-Mieter im Rathausviertel - bitte nur wichtige Nachrichten!
+#### Hauptgruppe
+* [r4tel](https://signal.group/#CjQKIH_QzkCZarTEQ8ui77oGbukM5sSfXmsmIAJ1DgL3D4ZJEhBPmCSrY6RZ_i5Brv38SNmT) (Kurz-Link: [s.r4tel.de](http://s.r4tel.de) oder [signal.r4tel.de](http://signal.r4tel.de)): \
+Hauptgruppe für alle HOWOGE-Mieter im Rathausviertel
 
 #### Hausnummer-Gruppen
-* [R14](https://signal.group/#CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT) (Kurz-Link: [r14.s.r4tel.de](http://r14.s.r4tel.de)): Für Bewohner der Rathausstraße 14
+* [R14](https://signal.group/#CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT) (Kurz-Link: [r14.s.r4tel.de](http://r14.s.r4tel.de)): \
+Für Bewohner der Rathausstraße 14 (und Interessierte der Hauptgruppe)
 
 #### Themen-Gruppen
-* [Lüftung](https://signal.group/#CjQKIIe_Ibmw7Nh2b1J3wxf7mzmeWTJ11s0nhdaNWoIxdtRXEhCfJww30UdAPA0W9B_-2U8v): Die in den Häusern installierten Lüftungsanlage(n)
-* [E-Mobilität](https://signal.group/#CjQKIBbaJLU2Gc0zmWhTnz4hpGWYFOz71D27NOkgeOY_KLHsEhBnEmglzZU1hd4i6dCdflsR): E-Mobilität und Wallboxen in den Tiefgaragen
+* [Lüftung](https://signal.group/#CjQKIIe_Ibmw7Nh2b1J3wxf7mzmeWTJ11s0nhdaNWoIxdtRXEhCfJww30UdAPA0W9B_-2U8v): \
+Alles über die in den Häusern installierten Lüftungsanlage(n)
+* [E-Mobilität](https://signal.group/#CjQKIBbaJLU2Gc0zmWhTnz4hpGWYFOz71D27NOkgeOY_KLHsEhBnEmglzZU1hd4i6dCdflsR): \
+E-Mobilität und Wallboxen (installierte Ladevorrichtungen) in den Tiefgaragen
 
 ### How to Signal
 * Einführung in Signal
@@ -38,10 +41,10 @@ QR-Code mit Link zur Signal-Hauptgruppe - einfach mit dem Handy scannen:
 * Inhalte:
   * Adresskürzel:\
   Es wäre prima, wenn Du den ersten Buchstaben der Straße und die Hausnummer angibst, z.B. "R14" für "Rathausstr. 14", und zwar:
-    * entweder hinter Deinem Signal-Profilnamen
+    * entweder in Deinem Signal-Profilnamen (der ist allerdings nur global für Signal setzbar)
     * oder im Chat, wann immer Du Dich beteiligst.
   * Nachrichtenfrequenz:\
-  Wir sind eine schnell wachsende Gruppe - bitte beschränkt Eure Nachrichten *in der Hauptgruppe* auf Infos die für viele relevant sind - aber die sind sehr willkommen! Für alles andere eignen sich der Chat und die separaten Gruppen zu den einzelnen Hausnummern. Wenn momentan zu viele Nachrichten ankommen, kannst Du in den Gruppeneinstellungen die Benachrichtigungen für eine Weile (1 Stunde bis 1 Jahr) deaktivieren. 
+  Wir freuen uns über Eure Beteiligung! Bitte bedenkt, dass Eure Nachrichten in der Hauptgruppe an über 100 Bewohner (~4 Schulklassen) gehen. Infos und Diskussionen, die zwar wichtig, aber wahrscheinlich nicht für alle relevant sind, die für viele relevant sind - aber die sind sehr willkommen! Für alles andere eignen sich der Chat und die separaten Gruppen zu den einzelnen Hausnummern. Wenn momentan zu viele Nachrichten ankommen, kannst Du in den Gruppeneinstellungen die Benachrichtigungen für eine Weile (1 Stunde bis 1 Jahr) deaktivieren. 
   * Form:\
   Bitte denkt daran, dass in der Gruppe auch Minderjährige anwesend sind und verhaltet Euch entsprechend.
   * Kritik:\
@@ -182,14 +185,24 @@ Ska vi ha en grupp på svenska?
 An sich solltest Du eigentlich schon alles machen können. Falls nicht, bitte einen der Admins Dich auch zu einem zu machen.
 
 ### Website r4tel.de
-r4tel.de wird derzeit / bisher auf GitHub als reine README.md gehostet. Wir suchen noch mehr Leute denen wir schon mal Schreibrechte einräumen können - ganz ohne etwas machen zu *müssen* (*dürfen* schon). Wenn Du magst, mach einfach einen Issue auf dem GitHub-Repository auf oder meld Dich bei einem der Contributors oder in der Signal-Gruppe mit Deinem GitHub-Accountnamen, dann nehmen wir Dich sehr gerne mit auf!
+r4tel.de wird derzeit / bisher auf GitHub als reine README.md gehostet. Das ist zweckmäßig aber nicht gerade schön, und es schließt leider die Bearbeitung durch Bewohner ohne GitHub-Grundkenntnisse aus. Aber so muss es nicht bleiben!
+
+Wir suchen noch mehr Leute, die wir in die GitHub-Organization einladen können, um:
+* selbst etwas beizutragen, z.B.
+  * inhaltliche, gestalterische und technische Veränderungen / komplette Neuaufbauten der Website - wir sind da wirklich für (fast) alles offen - in deinem eigenen Tempo (wird nie fertig? auch ok!)
+  * uns zu organisieren, etwas Struktur hinein zu bringen, immer unter der Prämisse, dass wir das alle nur neben anderen Vollzeit-Engagements (Beruf, Familienarbeit etc.) leisten und "alles kann, nix muss".
+  * neben der Website noch andere Services einzurichten, die gut unter die r4tel.de-Domain passen (z.B. ein Webforum, E-Mail-Hosting, einen Dateiaustausch etc.) - virtuelle Server ("VPS") können kostenfrei bereit gestellt werden
+* einfach nur als 'Backup' bereit zu stehen, falls die bisher Beitragenden nicht (mehr) erreichbar sein sollten (hierzu ist kein technisches Verständnis nötig)
+
+Klingt das nach was, was Du mal probieren könntest? Dann meld Dich gerne in der Signal-Gruppe, mach einen Issue auf dem GitHub-Repository auf oder meld Dich bei einem der Contributors. Falls Du schon einen hast, nenn uns bitte Deinen GitHub-Accountnamen, ansonsten unterstützen wir gerne bei der Einrichtung eines Accounts.
 
 Beim Editieren bitte beachten:
-* Externe Inhalte ausschließlich von folgenden Organisationen einbetten: HOWOGE, berlin.de
+* Externe Inhalte ausschließlich von folgenden Organisationen einbetten (weitere können wir gerne diskutieren!): HOWOGE, berlin.de
 * Besser als externe Inhalte einzubinden ist es, eigene Inhalte zu erstellen und diese ins GitHub-Repository zu laden (und dann von dort einzubinden). Aber:
   * Nur Inhalte hochladen, für die Du das Copyright hast, oder die CC-0 lizenziert sind (andere Lizenzen können wir diskutieren, bitte einen Issue erstellen). 
   * Für jeden Upload in der Datei (anlegen, falls sie nicht existiert) /COPYING sowohl Copyright-Owner als auch Lizenz dokumentieren.
 
 Links:
 * [R4tel.de GitHub-Repository](https://github.com/Rathaus4tel/r4tel.de)
+* [Letzte Änderungen](https://github.com/Rathaus4tel/r4tel.de/commits/main)
 * [GitHub Pages-Dokumentation](https://docs.github.com/categories/github-pages-basics/)
