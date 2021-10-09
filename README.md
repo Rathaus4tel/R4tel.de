@@ -1,6 +1,6 @@
 ## Willkommen im Rathausviertel!
 
-<img src="https://mieterportal.howoge.de/typo3temp/_processed_/3/b/csm_20286101-fotoaussen-default_c0cbf56dd9.jpg" alt="Bild des HOWOGE-Neubaus an der Rathausstraße" class="inline"/>
+<img src="https://www.quartier-am-rathauspark.de/fileadmin/ffa/Hotspot_Nachhaltigkeit/Nachhaltigkeit_6_1.jpg" alt="Bild des Rathaus Lichtenberg, im Hintergrund der HOWOGE-Turm" class="inline"/>
 
 Diese Website ist für uns alle im R(athaus)4tel, dem HOWOGE-Neubaugebiet in Berlin-Lichtenberg mit den Adressen 
 
