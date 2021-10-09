@@ -4,8 +4,9 @@
 
 Diese Website ist für uns alle im R(athaus)4tel, dem HOWOGE-Neubaugebiet in Berlin-Lichtenberg mit den Adressen 
 
-* Rathausstr. 11a-f, 12, 14 - 17 und 
-* Frankfurter Allee 133, 135 und 137.
+* Möllendorfstr. 1-3
+* Frankfurter Allee 129, 131, 133, 135 und 137
+* Rathausstr. 11a-f, 12, 14 - 17
 
 ## Austausch über Signal
 
@@ -26,10 +27,12 @@ Hauptgruppe für alle HOWOGE-Mieter im Rathausviertel
 Für Bewohner der Rathausstraße 14 (und Interessierte der Hauptgruppe)
 
 #### Themen-Gruppen
-* [Lüftung](https://signal.group/#CjQKIIe_Ibmw7Nh2b1J3wxf7mzmeWTJ11s0nhdaNWoIxdtRXEhCfJww30UdAPA0W9B_-2U8v): \
-Alles über die in den Häusern installierten Lüftungsanlage(n)
 * [E-Mobilität](https://signal.group/#CjQKIBbaJLU2Gc0zmWhTnz4hpGWYFOz71D27NOkgeOY_KLHsEhBnEmglzZU1hd4i6dCdflsR): \
 E-Mobilität und Wallboxen (installierte Ladevorrichtungen) in den Tiefgaragen
+* [Lüftung](https://signal.group/#CjQKIIe_Ibmw7Nh2b1J3wxf7mzmeWTJ11s0nhdaNWoIxdtRXEhCfJww30UdAPA0W9B_-2U8v): \
+Alles über die in 'unseren' Häusern installierten Lüftungsanlagen
+* [Rathaustiere](https://signal.group/#CjQKIC2WoOENHhHterGi4otCuK8f1zG-KwNpWpCPbdTDETZJEhCsNKp3ySzzFC3s7S6xuv5j): \
+Menschen mit Tieren und Tierfreund:innen; zum Austausch und (gegenseitigen) Aufpassen auf unsere Haustiere; English speaking pet lovers welcome!
 
 ### How to Signal
 * Einführung in Signal
@@ -44,10 +47,10 @@ E-Mobilität und Wallboxen (installierte Ladevorrichtungen) in den Tiefgaragen
 * Inhalte:
   * Adresskürzel:\
   Es wäre prima, wenn Du den ersten Buchstaben der Straße und die Hausnummer angibst, z.B. "R14" für "Rathausstr. 14", und zwar:
-    * entweder in Deinem Signal-Profilnamen (der ist allerdings nur global für Signal setzbar)
+    * entweder in Deinem Signal-Profil (das ist allerdings nur global für Signal setzbar)
     * oder im Chat, wann immer Du Dich beteiligst.
   * Nachrichtenfrequenz:\
-  Wir freuen uns über Eure Beteiligung! Bitte bedenkt, dass Eure Nachrichten in der Hauptgruppe an über 100 Bewohner (~4 Schulklassen) gehen. Infos und Diskussionen, die zwar wichtig, aber wahrscheinlich nicht für alle relevant sind, die für viele relevant sind - aber die sind sehr willkommen! Für alles andere eignen sich der Chat und die separaten Gruppen zu den einzelnen Hausnummern. Wenn momentan zu viele Nachrichten ankommen, kannst Du in den Gruppeneinstellungen die Benachrichtigungen für eine Weile (1 Stunde bis 1 Jahr) deaktivieren. 
+  Wir freuen uns über Eure Beiträge! Bitte bedenkt, dass Eure Nachrichten in der Hauptgruppe an über 100 Bewohner (~4 Schulklassen) gehen. Für Themen, die nur für ein paar von uns interessant sind, kann es deshalb Sinn machen, eine neue Untergruppe zu erstellen (und im Hauptkanal und hier darauf hinzuweisen). Wenn für dein Gefühl momentan zu viele Nachrichten ankommen, kannst Du in den Gruppeneinstellungen die Benachrichtigungen für eine Weile (1 Stunde bis 1 Jahr) deaktivieren. 
   * Form:\
   Bitte denkt daran, dass in der Gruppe auch Minderjährige anwesend sind und verhaltet Euch entsprechend.
   * Kritik:\
@@ -100,6 +103,10 @@ E-Mobilität und Wallboxen (installierte Ladevorrichtungen) in den Tiefgaragen
 * [Mieterbeirat (in Gründung?)](https://www.howoge.de/mieterservice/mieterbeiraete.html)
 * Weitere Infos und Öffnungszeiten:\
   [HOWOGE.de: Ansprechpartner für Mieter](https://www.howoge.de/mieterservice/ansprechpartner-fuer-mieter.html)
+* HOWOGE-Präsentationen:
+  * ["Quartier am Rathauspark"](https://www.quartier-am-rathauspark.de/)
+  * [Neubau Frankfurter Allee 135](https://www.howoge.de/wohnungsbau/neubauprojekte/frankfurter-allee-135.html)
+  * [Neubau Rathausstraße 11-12](https://www.howoge.de/wohnungsbau/neubauprojekte/rathausstrasse.html)
 
 #### Bezirksamt
 * [Bezirksamt Lichtenberg](https://www.berlin.de/ba-lichtenberg/)
@@ -150,40 +157,10 @@ unbekannt, bitte bei ALBA erfragen, dann hier updaten
 
 (Stand: 15.01.2020)
 
-## Umfragen
-Es wäre prima wenn Du Dich (gerne auch anonym) an diesen Umfragen beteiligen würdest - so lernen wir uns besser kennen!
-Du kannst gerne weitere hinzufügen (gerne auch über https://www.systemli.org/poll/).
-
-[Welchem Geschlecht ordnest Du Dich zu?](https://www.systemli.org/poll/#/poll/XUl5s5gkPV/participation?encryptionKey=J1Kgrdtt5PP5A9mCUBg2ZDrQH9aJyNjQKp8dawq2)
-
-[Zu welcher Altersklasse gehörst Du?](https://www.systemli.org/poll/#/poll/LIYEixlXY1/participation?encryptionKey=YG7yAMIrmNdEGC2EuMrs3JIIggbv4UR85kI7sXLg)
-
-[Wieviele Personen leben in Deinem Haushalt?](https://www.systemli.org/poll/#/poll/kVhNFvaj3H/participation?encryptionKey=TYZ34nLQRg1PAgaAskdBeljdtUmMwY6PCkIPej5v)
-
-[Welche Themen möchtest Du in einem Online-Meeting der Gruppe besprechen?](https://www.systemli.org/poll/#/poll/DxD0stQVEi/participation?encryptionKey=WhZsMArEMAtHWneYMezlhA3OUUA3r4kKNqfUvab7)
-
-[Sollten wir weitere Gruppen für Fremdsprachen erstellen?](https://www.systemli.org/poll/#/poll/TRptCTZlEP/participation?encryptionKey=4XK7Tg9DPmPaCAHXcMj59F7WpFFJhvnU6q4z2mbq)\
-Should we have a group in English?\
-¿Deberíamos tener un grupo en español?\
-Türkçe bir grubumuz olmalı mı?\
-Ma komek me bi kurdî heye?\
-هل يجب أن تكون لدينا مجموعة باللغة العربية؟\
-Devrions-nous avoir un groupe en français?\
-Czy powinniśmy mieć grupę po polsku?\
-Ska vi ha en grupp på svenska?
-
-[Welchen Internetzugangsanbieter nutzt Du zuhause?](https://www.systemli.org/poll/#/poll/zeHLOqNYzU/participation?encryptionKey=g7pk98rbMgR9cewnNySn9oK5yygj6dY4FtH0Dwxz)
-
-[Dein/e NachbarIn klingelt und fragt ob er/sie Deine Leiter für einen Abend ausleihen darf. Darf er/sie?](https://www.systemli.org/poll/#/poll/KtY9gq9Rkh/participation?encryptionKey=z20QICYJCadHWLB6BIdYWEYcehb5aBQS3yZnMLb4)
-
-[Wie wichtig ist Dir Religion?](https://www.systemli.org/poll/#/poll/OY6t8oO7iS/participation?encryptionKey=7Cy8dXd73ozQmOSY4ORrApUVVdzrJPh3aENclYG7)
-
-[Wie wichtig ist Dir Politik?](https://www.systemli.org/poll/#/poll/Cw3Ng709GJ/participation?encryptionKey=Wk0dS00WBVU6Hxdqb5dxlZeoLVtTFDzLZzQFAhEL)
-
 ## Mitmachen
 
 ### Signal-Gruppen
-An sich solltest Du eigentlich schon alles machen können. Falls nicht, bitte einen der Admins Dich auch zu einem zu machen.
+An sich solltest Du eigentlich schon alles machen können. Falls nicht, bitte eine(n) der Admins Dich auch zu einem zu machen.
 
 ### Website r4tel.de
 r4tel.de wird derzeit / bisher auf GitHub als reine README.md gehostet. Das ist zweckmäßig aber nicht gerade schön, und es schließt leider die Bearbeitung durch Bewohner ohne GitHub-Grundkenntnisse aus. Aber so muss es nicht bleiben!
