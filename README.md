@@ -4,9 +4,10 @@
 
 Diese Website ist für uns alle im R(athaus)4tel, dem HOWOGE-Neubaugebiet in Berlin-Lichtenberg mit den Adressen 
 
-* Möllendorfstr. 1-3
-* Frankfurter Allee 129, 131, 133, 135 und 137
 * Rathausstr. 11a-f, 12, 14 - 17
+* Frankfurter Allee 129, 131, 133, 135 und 137
+* Möllendorffstr. 1-3
+* Stefan-Heym-Platz 1
 
 ## Austausch über Signal
 
@@ -133,29 +134,55 @@ Die Stromversorgung geschieht über den von Dir gewählten Anbieter. Die HOWOGE 
 * [App mit Abfuhrkalender](https://berlin.alba.info/service/abfallkalender/)
 * [Feiertagsregelungen](https://berlin.alba.info/fileadmin/user_upload/ALBA_Berlin/pdf/Feiertagsentsorgung_2021.pdf)
 
-#### R14/15
+#### Rathausstraße 11, 11a-f
+unbekannt (bitte bei HOWOGE Versorger befragen, dann Termine bei diesem erfragen, dann hier updaten)
+
+(Stand: 12.10.2021)
+
+#### Rathausstraße 12, 12a
+unbekannt (bitte bei HOWOGE Versorger befragen, dann Termine bei diesem erfragen, dann hier updaten)
+
+(Stand: 12.10.2021)
+
+#### Rathausstraße 14-15
+Die Sammelstelle (Unterflurbodenlagerung) befindet sich im Hinterhof zwischen Frankfurter Allee 147-149 (alter Hochhauskomplex) und Frankfurter Allee 15-17 (Neubau). Die Biotonne steht gegebenenfalls etwas abseits.
+
 Hausmüll (BSR):\
 freitags in geraden Kalenderwochen
+
+Wertstoffe (ALBA):\
+wöchentlich donnerstags
 
 Bio (BSR):\
 donnerstags in ungeraden Kalenderwochen
 
-Papier + Wertstoffe (ALBA):\
-wöchentlich dienstags
+Papier:\
+unbekannt (bitte bei HOWOGE Versorger befragen, dann Termine bei diesem erfragen, dann hier updaten)
 
-(Stand: 15.01.2020)
+(Stand: 12.10.2021)
 
-#### Frankfurter Allee Nord (HOWOGE)
+#### Rathausstraße 16-17
+unbekannt (bitte bei HOWOGE Versorger befragen, dann Termine bei diesem erfragen, dann hier updaten)
+
+(Stand: 12.10.2021)
+
+#### Frankfurter Allee 129, 131, 133, 135 und 137
 Hausmüll (BSR):\
 montags + donnerstags
+
+Wertstoffe (ALBA):\
+unbekannt (bitte bei HOWOGE Versorger befragen, dann Termine bei diesem erfragen, dann hier updaten)
 
 Bio (BSR):\
 wöchentlich donnerstags
 
-Papier + Wertstoffe (ALBA):\
-unbekannt, bitte bei ALBA erfragen, dann hier updaten
+Papier:\
+unbekannt (bitte bei HOWOGE Versorger befragen, dann Termine bei diesem erfragen, dann hier updaten)
 
-(Stand: 15.01.2020)
+Glas:\
+unbekannt (bitte bei HOWOGE Versorger befragen, dann Termine bei diesem erfragen, dann hier updaten)
+
+(Stand: 12.10.2021)
 
 ## Mitmachen
 
