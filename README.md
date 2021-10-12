@@ -122,7 +122,7 @@ Bei Störungen der Warmwasserversorgung bitte unbedingt die Havariehotline konta
 ### Stromversorgung
 Die Stromversorgung geschieht über den von Dir gewählten Anbieter. Die HOWOGE bietet auf den Dächern der Wohnungen erzeugten Mieterstrom an. Als lokal erzeugter grüner Strom ist der besonders sinnvoll und im Vergleich zu anderen Anbietern von grünem Strom ist er durchaus attraktiv. Billiger geht's nur mit Kohlestrom.
 
-### Müllabholung
+### Müllentsorgung, Recycling
 
 **BSR**
 * [Abfuhrkalender](https://www.bsr.de/abfuhrkalender-20520.php)
@@ -135,12 +135,12 @@ Die Stromversorgung geschieht über den von Dir gewählten Anbieter. Die HOWOGE 
 * [Feiertagsregelungen](https://berlin.alba.info/fileadmin/user_upload/ALBA_Berlin/pdf/Feiertagsentsorgung_2021.pdf)
 
 #### Rathausstraße 11, 11a-f
-unbekannt (bitte bei HOWOGE Versorger befragen, dann Termine bei diesem erfragen, dann hier updaten)
+unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
 
 (Stand: 12.10.2021)
 
 #### Rathausstraße 12, 12a
-unbekannt (bitte bei HOWOGE Versorger befragen, dann Termine bei diesem erfragen, dann hier updaten)
+unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
 
 (Stand: 12.10.2021)
 
@@ -157,12 +157,15 @@ Bio (BSR):\
 donnerstags in ungeraden Kalenderwochen
 
 Papier:\
-unbekannt (bitte bei HOWOGE Versorger befragen, dann Termine bei diesem erfragen, dann hier updaten)
+unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
+
+Glas:\
+Siehe Frankfurter Allee - diese Container sind unverschlossen, zur gemeinsamen Nutzung vorgesehen.
 
 (Stand: 12.10.2021)
 
 #### Rathausstraße 16-17
-unbekannt (bitte bei HOWOGE Versorger befragen, dann Termine bei diesem erfragen, dann hier updaten)
+unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
 
 (Stand: 12.10.2021)
 
@@ -171,16 +174,16 @@ Hausmüll (BSR):\
 montags + donnerstags
 
 Wertstoffe (ALBA):\
-unbekannt (bitte bei HOWOGE Versorger befragen, dann Termine bei diesem erfragen, dann hier updaten)
+unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
 
 Bio (BSR):\
 wöchentlich donnerstags
 
 Papier:\
-unbekannt (bitte bei HOWOGE Versorger befragen, dann Termine bei diesem erfragen, dann hier updaten)
+unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
 
 Glas:\
-unbekannt (bitte bei HOWOGE Versorger befragen, dann Termine bei diesem erfragen, dann hier updaten)
+unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
 
 (Stand: 12.10.2021)
 
