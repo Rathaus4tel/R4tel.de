@@ -2,7 +2,7 @@
 
 <img src="https://www.quartier-am-rathauspark.de/fileadmin/ffa/Hotspot_Nachhaltigkeit/Nachhaltigkeit_6_1.jpg" alt="Bild des Rathaus Lichtenberg, im Hintergrund der HOWOGE-Turm" class="inline"/>
 
-Diese Website ist für uns alle im R(athaus)4tel, dem HOWOGE-Neubaugebiet in Berlin-Lichtenberg mit den Adressen 
+Diese Website ist für uns alle im [R(athaus)4tel](https://www.openstreetmap.org/#map=19/52.51372/13.47996), dem HOWOGE-Neubaugebiet in Berlin-Lichtenberg mit den Adressen 
 
 * Rathausstr. 11a-f, 12, 14 - 17
 * Frankfurter Allee 129, 131, 133, 135 und 137
