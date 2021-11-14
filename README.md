@@ -23,7 +23,7 @@ QR-Code mit Link zur Signal-Hauptgruppe - einfach mit dem Handy scannen:
 * [R4tel](https://signal.group/#CjQKIG0xkFOmaz3In9XdYeFPJGzr72Cx3t_cXabVaYFJbC6IEhArz8wXbuvihQPkjuiyyozl) - Die aktuelle Hauptgruppe, gegründet im November 2021. Aufnahme nur nach Anmeldung - bitte habt bis zu 48 Stunden Geduld!
 * [R4tel internationals](https://signal.group/#CjQKIFw-NdWfy_Od4WuJ9hI60YNOzvYU1kB1fhCwupB5GJ2GEhCFLlQ-6U2VrVBitUknxnDO) - Internatioal group, for English (and possibly more?)
 * [R4tel - 2020 - unmoderated](https://signal.group/#CjQKIH_QzkCZarTEQ8ui77oGbukM5sSfXmsmIAJ1DgL3D4ZJEhBPmCSrY6RZ_i5Brv38SNmT) (Kurz-Link: [s.r4tel.de](http://s.r4tel.de) oder [signal.r4tel.de](http://signal.r4tel.de)): \
-Hauptgruppe für alle HOWOGE-Mieter im Rathausviertel
+Frühere Hauptgruppe
 
 #### Hausnummer-Gruppen
 * [R14](https://signal.group/#CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT) (Kurz-Link: [r14.s.r4tel.de](http://r14.s.r4tel.de)): \
