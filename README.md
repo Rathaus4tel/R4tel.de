@@ -2,7 +2,7 @@
 
 <img src="https://www.quartier-am-rathauspark.de/fileadmin/ffa/Hotspot_Nachhaltigkeit/Nachhaltigkeit_6_1.jpg" alt="Bild des Rathaus Lichtenberg, im Hintergrund der HOWOGE-Turm" class="inline"/>
 
-Diese Website ist für uns alle im [R(athaus)4tel](https://www.openstreetmap.org/#map=19/52.51372/13.47996), dem HOWOGE-Neubaugebiet in Berlin-Lichtenberg mit den Adressen 
+Diese Website ist für alle im [R(athaus)4tel](https://www.openstreetmap.org/#map=19/52.51372/13.47996), dem HOWOGE-Neubaugebiet in Berlin-Lichtenberg mit den Adressen 
 
 * Rathausstr. 11a-f, 12, 14 - 17
 * Frankfurter Allee 129, 131, 133, 135 und 137
@@ -15,12 +15,14 @@ Um uns über für uns HOWOGE-Mieter relevante Neuigkeiten zu unterhalten und die
 
 QR-Code mit Link zur Signal-Hauptgruppe - einfach mit dem Handy scannen:
 
-![QR-Code mit Link zur Signal-Hauptgruppe](/assets/qr-code.jpg)
+![r4tel_qrcode1](https://user-images.githubusercontent.com/3409697/141701452-c8af1535-3626-4d85-94e7-a03d444d3e62.png) - currently outdated!
 
 ### Liste der Signal-Gruppen
 
-#### Hauptgruppe
-* [r4tel](https://signal.group/#CjQKIH_QzkCZarTEQ8ui77oGbukM5sSfXmsmIAJ1DgL3D4ZJEhBPmCSrY6RZ_i5Brv38SNmT) (Kurz-Link: [s.r4tel.de](http://s.r4tel.de) oder [signal.r4tel.de](http://signal.r4tel.de)): \
+#### Hauptgruppen
+* [R4tel](https://signal.group/#CjQKIG0xkFOmaz3In9XdYeFPJGzr72Cx3t_cXabVaYFJbC6IEhArz8wXbuvihQPkjuiyyozl) - Die aktuelle Hauptgruppe, gegründet im November 2021. Aufnahme nur nach Anmeldung - bitte habt bis zu 48 Stunden Geduld!
+* [R4tel internationals](https://signal.group/#CjQKIFw-NdWfy_Od4WuJ9hI60YNOzvYU1kB1fhCwupB5GJ2GEhCFLlQ-6U2VrVBitUknxnDO) - Internatioal group, for English (and possibly more?)
+* [R4tel - 2020 - unmoderated](https://signal.group/#CjQKIH_QzkCZarTEQ8ui77oGbukM5sSfXmsmIAJ1DgL3D4ZJEhBPmCSrY6RZ_i5Brv38SNmT) (Kurz-Link: [s.r4tel.de](http://s.r4tel.de) oder [signal.r4tel.de](http://signal.r4tel.de)): \
 Hauptgruppe für alle HOWOGE-Mieter im Rathausviertel
 
 #### Hausnummer-Gruppen
