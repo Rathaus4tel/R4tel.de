@@ -1,61 +1,74 @@
 ## Willkommen im Rathausviertel!
 
-<img src="https://www.quartier-am-rathauspark.de/fileadmin/ffa/Hotspot_Nachhaltigkeit/Nachhaltigkeit_6_1.jpg" alt="Bild des Rathaus Lichtenberg, im Hintergrund der HOWOGE-Turm" class="inline"/>
+[![Foto: Rathaus Lichtenberg, im Hintergrund der HOWOGE-Turm](https://www.quartier-am-rathauspark.de/fileadmin/ffa/Hotspot_Nachhaltigkeit/Nachhaltigkeit_6_1.jpg)](https://www.openstreetmap.org/#map=19/52.51372/13.47996) \
+Foto: Rathaus Lichtenberg, im Hintergrund der HOWOGE-Turm
 
-Diese Website ist für alle im [R(athaus)4tel](https://www.openstreetmap.org/#map=19/52.51372/13.47996), dem HOWOGE-Neubaugebiet in Berlin-Lichtenberg mit den Adressen 
+Das *R(athaus)4tel* ist das [HOWOGE](https://www.howoge.de)-Neubaugebiet in [Berlin - (Alt) Lichtenberg (Frankfurter Allee Nord)](https://www.openstreetmap.org/#map=19/52.51372/13.47996) mit den Adressen 
 
 * Rathausstr. 11a-f, 12, 14 - 17
 * Frankfurter Allee 129, 131, 133, 135 und 137
 * Möllendorffstr. 1-3
 * Stefan-Heym-Platz 1
 
-## Austausch über Signal
+## Worum geht's?
 
-Um uns über für uns HOWOGE-Mieter relevante Neuigkeiten zu unterhalten und die Anonymität der Großstadt etwas aufzubrechen, haben wir mehrere Gruppen über den kostenlosen und privatsphärefreundlichen Messaging-Dienst [Signal](https://signal.org/de/) eingerichtet. Als AnwohnerIn bist Du herzlich eingeladen!
+Wir, die Bewohner\*innen und Mieter\*innen die großstädtische Anonymität in unserem Kiez etwas aufbrechen, und uns über lokal relevante Neuigkeiten austauschen. Dazu betreiben wir mehrere Chats und diese Website.
 
-QR-Code mit Link zur Signal-Hauptgruppe - einfach mit dem Handy scannen:
+### Chats
 
-![r4tel_qrcode1](https://user-images.githubusercontent.com/3409697/141701452-c8af1535-3626-4d85-94e7-a03d444d3e62.png) - currently outdated!
-
-### Liste der Signal-Gruppen
+Über den kostenlosen und privatsphärefreundlichen Messaging-Dienst [Signal](https://signal.org/de/) haben wir mehrere Chatgruppen eingerichtet. Als Anwohner\*in bist Du herzlich eingeladen!
 
 #### Hauptgruppen
-* [R4tel](https://signal.group/#CjQKIG0xkFOmaz3In9XdYeFPJGzr72Cx3t_cXabVaYFJbC6IEhArz8wXbuvihQPkjuiyyozl) - Die aktuelle Hauptgruppe, gegründet im November 2021. Aufnahme nur nach Anmeldung - bitte habt bis zu 48 Stunden Geduld!
-* [R4tel internationals](https://signal.group/#CjQKIFw-NdWfy_Od4WuJ9hI60YNOzvYU1kB1fhCwupB5GJ2GEhCFLlQ-6U2VrVBitUknxnDO) - Internatioal group, for English (and possibly more?)
-* [R4tel - 2020 - unmoderated](https://signal.group/#CjQKIH_QzkCZarTEQ8ui77oGbukM5sSfXmsmIAJ1DgL3D4ZJEhBPmCSrY6RZ_i5Brv38SNmT) (Kurz-Link: [s.r4tel.de](http://s.r4tel.de) oder [signal.r4tel.de](http://signal.r4tel.de)): \
-Frühere Hauptgruppe
 
-#### Hausnummer-Gruppen
-* [R14](https://signal.group/#CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT) (Kurz-Link: [r14.s.r4tel.de](http://r14.s.r4tel.de)): \
-Für Bewohner der Rathausstraße 14 (und Interessierte der Hauptgruppe)
+Neue Hauptgruppe (11/2021) - einfach mit dem Handy scannen:
+
+[![QR-Code der Hauptgruppe - zum Teilnehmen einfach anklicken](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&&data=https%3A%2F%2Fsignal.group%2F%23CjQKIG0xkFOmaz3In9XdYeFPJGzr72Cx3t_cXabVaYFJbC6IEhArz8wXbuvihQPkjuiyyozl)](https://signal.group/#CjQKIG0xkFOmaz3In9XdYeFPJGzr72Cx3t_cXabVaYFJbC6IEhArz8wXbuvihQPkjuiyyozl)
+
+* [R4tel](https://signal.group/#CjQKIG0xkFOmaz3In9XdYeFPJGzr72Cx3t_cXabVaYFJbC6IEhArz8wXbuvihQPkjuiyyozl) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&&data=https%3A%2F%2Fsignal.group%2F%23CjQKIG0xkFOmaz3In9XdYeFPJGzr72Cx3t_cXabVaYFJbC6IEhArz8wXbuvihQPkjuiyyozl) - [join.r4tel.de](http://join.r4tel.de)): \
+Die aktuelle Hauptgruppe, gegründet im November 2021. \
+Aufnahme nach Anmeldung - bitte habt bis zu 48 Stunden Geduld.
+* [R4tel internationals](https://signal.group/#CjQKIFw-NdWfy_Od4WuJ9hI60YNOzvYU1kB1fhCwupB5GJ2GEhCFLlQ-6U2VrVBitUknxnDO) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&&data=https%3A%2F%2Fsignal.group%2F%23CjQKIFw-NdWfy_Od4WuJ9hI60YNOzvYU1kB1fhCwupB5GJ2GEhCFLlQ-6U2VrVBitUknxnDO) - [int.r4tel.de](http://int.r4tel.de)): \
+International group, English (and possibly more?)
 
 #### Themen-Gruppen
-* [E-Mobilität](https://signal.group/#CjQKIBbaJLU2Gc0zmWhTnz4hpGWYFOz71D27NOkgeOY_KLHsEhBnEmglzZU1hd4i6dCdflsR): \
+* [E-Mobilität](https://signal.group/#CjQKIBbaJLU2Gc0zmWhTnz4hpGWYFOz71D27NOkgeOY_KLHsEhBnEmglzZU1hd4i6dCdflsR) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&&data=https%3A%2F%2Fsignal.group%2F%23CjQKIBbaJLU2Gc0zmWhTnz4hpGWYFOz71D27NOkgeOY_KLHsEhBnEmglzZU1hd4i6dCdflsR) - [emob.r4tel.de](http://emob.r4tel.de)): \
 E-Mobilität und Wallboxen (installierte Ladevorrichtungen) in den Tiefgaragen
-* [Lüftung](https://signal.group/#CjQKIIe_Ibmw7Nh2b1J3wxf7mzmeWTJ11s0nhdaNWoIxdtRXEhCfJww30UdAPA0W9B_-2U8v): \
+* [Lüftung](https://signal.group/#CjQKIIe_Ibmw7Nh2b1J3wxf7mzmeWTJ11s0nhdaNWoIxdtRXEhCfJww30UdAPA0W9B_-2U8v) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&&data=https%3A%2F%2Fsignal.group%2F%23CjQKIIe_Ibmw7Nh2b1J3wxf7mzmeWTJ11s0nhdaNWoIxdtRXEhCfJww30UdAPA0W9B_-2U8v) - [luft.r4tel.de](http://luft.r4tel.de)): \
 Alles über die in 'unseren' Häusern installierten Lüftungsanlagen
-* [Rathaustiere](https://signal.group/#CjQKIC2WoOENHhHterGi4otCuK8f1zG-KwNpWpCPbdTDETZJEhCsNKp3ySzzFC3s7S6xuv5j): \
-Menschen mit Tieren und Tierfreund:innen; zum Austausch und (gegenseitigen) Aufpassen auf unsere Haustiere; English speaking pet lovers welcome!
+* [Rathaustiere](https://signal.group/#CjQKIC2WoOENHhHterGi4otCuK8f1zG-KwNpWpCPbdTDETZJEhCsNKp3ySzzFC3s7S6xuv5j) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&&data=https%3A%2F%2Fsignal.group%2F%23CjQKIC2WoOENHhHterGi4otCuK8f1zG-KwNpWpCPbdTDETZJEhCsNKp3ySzzFC3s7S6xuv5j) - [tiere.r4tel.de](http://tiere.r4tel.de)): \
+Menschen mit Tieren und Tierfreund:innen\
+Zum Austausch und (gegenseitigen) Aufpassen auf unsere Haustiere. English speaking pet lovers welcome!
+
+#### Hausnummer-Gruppen
+* [R14](https://signal.group/#CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&&data=https%3A%2F%2Fsignal.group%2F%23CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT) - [r14.r4tel.de](http://r14.r4tel.de)): \
+(Kurz-Link: ): \
+Für Bewohner der Rathausstraße 14 (und Interessierte der Hauptgruppen)
+
+#### Ehemalige Gruppen ####
+* [R4tel - unmoderiert](https://signal.group/#CjQKIH_QzkCZarTEQ8ui77oGbukM5sSfXmsmIAJ1DgL3D4ZJEhBPmCSrY6RZ_i5Brv38SNmT): \
+Frühere Hauptgruppe
+* R4tel Chat (ohne Link)
 
 ### How to Signal
 * Einführung in Signal
   * [Erste Schritte](https://support.signal.org/hc/de/sections/360001602712-Signal-Messengers-Grundlagen)
   * [Gruppenunterhaltungen](https://support.signal.org/hc/de/articles/360007319331-Gruppenunterhaltungen)
   * [Signal-Support](https://support.signal.org/hc/de)
-  * Wer gerne Unterstützung bei der Einrichtung von Signal auf dem Handy / Tab / PC hätte, kann sich gerne unter +49 176 40456304 (per Telefon, SMS, Signal) an Moritz wenden. Wenn Du Dich durch diese Form der Kommunikation ausgeschlossen fühlst, melde Dich bitte ebenfalls, gerne mit Verbesserungsvorschlägen. 
-* TeilnehmerInnen:
-  * Alle BewohnerInnen der o.a. Adressen sind hier herzlich eingeladen!
-  * HOWOGE-MitarbeiterInnen: Wir freuen uns, wenn die Hausmeister ebenfalls beitreten. Andere HOWOGE-Mitarbeiter, soweit nicht Anwohner, bitten wir von einer Teilnahme abzusehen. Teilnehmende HOWOGE-MitarbeiterInnen bitten wir davon abzusehen, Namen und Rufnummern der BewohnerInnen innerhalb der HOWOGE weiter zu geben, es sei denn, es wurde für den jeweiligen Einzelfall eine Einwilligung erteilt.
+  * Wer gerne Unterstützung bei der Einrichtung von Signal auf dem Handy / Tab / PC hätte, ist herzlich eingeladen, sich unter der am Ende dieser Seite angegebenen Kontaktdaten (per Telefon, SMS, Signal) zu melden. Wenn du dich durch diese Form der Kommunikation ausgeschlossen fühlst, melde dich bitte ebenfalls, gerne mit Verbesserungsvorschlägen. 
+* Wer macht mit?
+  * Alle BewohnerInnen der o.a. Adressen sind hier herzlich eingeladen! Die neue Hauptgruppe (2021) ist moderiert - es kann dazu kommen, dass Einzelne vorübergehend von der Gruppe ausgeschlossen werden.
+  * HOWOGE-Mitarbeiter\*innen: Wir freuen uns, wenn die Hausmeister\*innen ebenfalls beitreten. Andere HOWOGE-Mitarbeiter\*innen, soweit nicht Anwohner\*innen, bitten wir von einer Teilnahme abzusehen. Teilnehmende HOWOGE-Mitarbeiter\*innen bitten wir davon abzusehen, Namen und Rufnummern der Gruppenteilnehmer\*innen innerhalb der HOWOGE weiter zu geben, es sei denn, es wurde für den jeweiligen Einzelfall eine Einwilligung erteilt.
   * Alle anderen Personengruppen bitten wir von einer Teilnahme abzusehen.
-* Inhalte:
-  * Adresskürzel:\
-  Es wäre prima, wenn Du den ersten Buchstaben der Straße und die Hausnummer angibst, z.B. "R14" für "Rathausstr. 14", und zwar:
-    * entweder in Deinem Signal-Profil (das ist allerdings nur global für Signal setzbar)
-    * oder im Chat, wann immer Du Dich beteiligst.
+* Inhalte, Themen und Form:
+  * Themen: Bitte beschränke dich auf Themen, die direkt mit unserem Zusammenleben im Kiez und unseren Mietverhältnissen in Zusammenhang stehen.
+  * Umgang: Bitte versetz dich in die Situation von anderen Teilnehmer\*innen - vermeide polarisierende Themen wie Weltanschauung, Politik, Religion und alles, was dazu geeignet ist, den Gruppenzusammenhalt zu stören.
+  * Konflikte: Die Administrator\*innen der Gruppe haben die Möglichkeit und die Aufgabe, Mitglieder, die den hier formulierten Kriterien zuwider laufen oder die Gruppe nachhaltig stören, vorübergehend auszuschließen. Bei Mobbing oder Streitfragen kontaktiere bitte immer eine\*n der Gruppenadmins direkt, um das Thema zu besprechen und eine Klärung herbeizuführen, diskutiere es nicht in der Gruppe aus.
   * Nachrichtenfrequenz:\
-  Wir freuen uns über Eure Beiträge! Bitte bedenkt, dass Eure Nachrichten in der Hauptgruppe an über 100 Bewohner (~4 Schulklassen) gehen. Für Themen, die nur für ein paar von uns interessant sind, kann es deshalb Sinn machen, eine neue Untergruppe zu erstellen (und im Hauptkanal und hier darauf hinzuweisen). Wenn für dein Gefühl momentan zu viele Nachrichten ankommen, kannst Du in den Gruppeneinstellungen die Benachrichtigungen für eine Weile (1 Stunde bis 1 Jahr) deaktivieren. 
-  * Form:\
-  Bitte denkt daran, dass in der Gruppe auch Minderjährige anwesend sind und verhaltet Euch entsprechend.
+  Wir freuen uns über Eure Beiträge! Bitte bedenkt, dass Eure Nachrichten in der Hauptgruppe an über 100 Bewohner (~4 Schulklassen) gehen. Für Themen, die nur für ein paar von uns interessant sind, kann es deshalb Sinn machen, eine neue Untergruppe zu erstellen (und im Hauptkanal und hier darauf hinzuweisen). Wenn für dein Gefühl momentan zu viele Nachrichten ankommen, kannst Du in den Gruppeneinstellungen die Benachrichtigungen für eine Weile (oder durchgägngig) deaktivieren.
+  * Adresskürzel:\
+  Wann immer du eine Nachricht schreibst, bei der der Ortsbezug relevant ist, gib bitte deine Straße und die Hausnummer an, z.B. als "R14" für "Rathausstr. 14". Du kannst dieses Kürzel auch in Deinem Signal-Profil eintragen (das Profil gilt allerdings gruppenübergreifend).
+  * Jugendschutz:\
+  Bitte denk daran, dass in der Gruppe auch Minderjährige anwesend sind und verhalte dich entsprechend.
   * Kritik:\
   Bitte denkt immer daran, dass die HOWOGE, auch wenn sie aufgrund der Größe etwas an Bürokratie krankt und einiges durchaus verbesserbar wäre, uns allen grundsätzlich wohlgesonnen ist und keineswegs mit einem der kommerziellen Immobilienhaie vergleichbar ist. Geht also bitte nicht grundsätzlich davon aus, dass man uns 'ausrauben' will, sondern eher davon, dass noch nicht alles perfekt ist. Das Glas ist halb voll, nicht halb leer.
   * Kommerz:\
@@ -65,11 +78,11 @@ Menschen mit Tieren und Tierfreund:innen; zum Austausch und (gegenseitigen) Aufp
   Für Signal gibt es auch eine [Desktop-App für Windows/OS X/Linux](https://signal.org/de/download/), die man *begleitend* zur App-Installation auf dem Smartphone/Tablet einrichten kann.
   * Gruppen-Admins:\
   Derzeit sind wir alle Admins der Signal-Gruppen, das heißt alle können alles. Solange niemand über die Bande schlägt soll das auch so bleiben, denn die Gruppe lebt von unser aller Mitwirkung. Neue Gruppenmitglieder sollten auch als Admins eingerichtet werden, bitte helft alle dabei mit Neueinsteieger zu Admins zu machen und sie bei den ersten Schritten zu unterstützen.
-* Fokus und Wachstum:
+* Weiterentwicklung und Vergrößerung:
   * Wachstum *dieser* Gruppe:\
   Falls sich der Wunsch dazu ergibt, können wir die Gruppe gerne auch auf die angrenzenden Nachbarn erweitern. Grundsätzlich ist es aber wohl sinnvoll, sich auf HOWOGE-Gebäude zu beschränken, denn da sitzen wir alle im gleichen Boot.
   * Weitere Gruppen:\
-  Es kann durchaus Sinn machen für einzelne Häuser (Hausnummern) und Themen (z.B. nh Hotel, Wallbox) neue Gruppen pro Haus aufzumachen (zusätzlich zu dieser zentralen Gruppe), oder Gruppen in anderen Sprachen anzulegen. Wenn Du eine solche Gruppe anlegst, sag gerne in der großen Gruppe Bescheid, damit Interessierte beitreten und wir die Gruppe hier auf der Website verlinken können.
+  Es kann durchaus Sinn machen für einzelne Wohngebäude (Hausnummern), Themen (die nicht alle interessieren, z.B. Haustiere, Parkplätze) und Sprachen neue Gruppen zu erstellen. Wenn Du eine solche Gruppe anlegst, sag gerne in der großen Gruppe Bescheid, damit Interessierte beitreten und wir die Gruppe hier auf der Website verlinken können.
 
 ## Wichtige Infos und Links
 
@@ -149,19 +162,19 @@ unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfr
 #### Rathausstraße 14-15
 Die Sammelstelle (Unterflurbodenlagerung) befindet sich im Hinterhof zwischen Frankfurter Allee 147-149 (alter Hochhauskomplex) und Frankfurter Allee 15-17 (Neubau). Die Biotonne steht gegebenenfalls etwas abseits.
 
-Hausmüll (BSR):\
+_Hausmüll (BSR):_\
 freitags in geraden Kalenderwochen
 
-Wertstoffe (ALBA):\
+_Wertstoffe (ALBA):_\
 wöchentlich donnerstags
 
-Bio (BSR):\
+_Bio (BSR):_\
 donnerstags in ungeraden Kalenderwochen
 
-Papier:\
+_Papier:_\
 unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
 
-Glas:\
+_Glas:_\
 Siehe Frankfurter Allee - diese Container sind unverschlossen, zur gemeinsamen Nutzung vorgesehen.
 
 (Stand: 12.10.2021)
@@ -172,19 +185,19 @@ unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfr
 (Stand: 12.10.2021)
 
 #### Frankfurter Allee 129, 131, 133, 135 und 137
-Hausmüll (BSR):\
+_Hausmüll (BSR):_\
 montags + donnerstags
 
-Wertstoffe (ALBA):\
+_Wertstoffe (ALBA):_\
 unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
 
-Bio (BSR):\
+_Bio (BSR):_\
 wöchentlich donnerstags
 
-Papier:\
+_Papier:_\
 unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
 
-Glas:\
+_Glas:_\
 unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
 
 (Stand: 12.10.2021)
@@ -192,19 +205,22 @@ unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfr
 ## Mitmachen
 
 ### Signal-Gruppen
+* Moderierte Gruppen:\
+Bewirb dich gerne direkt bei einer/m der Gruppen-Administrator\*innen.
+
+* Unmoderierte Gruppen:\
 An sich solltest Du eigentlich schon alles machen können. Falls nicht, bitte eine(n) der Admins Dich auch zu einem zu machen.
 
 ### Website r4tel.de
-r4tel.de wird derzeit / bisher auf GitHub als reine README.md gehostet. Das ist zweckmäßig aber nicht gerade schön, und es schließt leider die Bearbeitung durch Bewohner ohne GitHub-Grundkenntnisse aus. Aber so muss es nicht bleiben!
+r4tel.de wird derzeit / bisher auf GitHub als reine README.md gehostet. Das ist zweckmäßig, aber nicht gerade schön, und es schließt leider die Bearbeitung durch Bewohner ohne GitHub-Grundkenntnisse aus. Aber so muss es nicht bleiben!
 
-Wir suchen noch mehr Leute, die wir in die GitHub-Organization einladen können, um:
+Wir suchen noch mehr Leute um:
 * selbst etwas beizutragen, z.B.
   * inhaltliche, gestalterische und technische Veränderungen / komplette Neuaufbauten der Website - wir sind da wirklich für (fast) alles offen - in deinem eigenen Tempo (wird nie fertig? auch ok!)
-  * uns zu organisieren, etwas Struktur hinein zu bringen, immer unter der Prämisse, dass wir das alle nur neben anderen Vollzeit-Engagements (Beruf, Familienarbeit etc.) leisten und "alles kann, nix muss".
-  * neben der Website noch andere Services einzurichten, die gut unter die r4tel.de-Domain passen (z.B. ein Webforum, E-Mail-Hosting, einen Dateiaustausch etc.) - virtuelle Server ("VPS") können kostenfrei bereit gestellt werden
-* einfach nur als 'Backup' bereit zu stehen, falls die bisher Beitragenden nicht (mehr) erreichbar sein sollten (hierzu ist kein technisches Verständnis nötig)
+  * uns zu organisieren, etwas Struktur hinein zu bringen, immer in dem Wissen, dass wir alle das nur neben anderen Vollzeit-Engagements (Beruf, Familienarbeit, andere Engagements und Hobbies etc.) leisten und "alles kann, nix muss".
+  * neben der Website noch andere Services einzurichten, die gut unter die r4tel.de-Domain passen (z.B. ein Webforum, E-Mail-Hosting, einen Dateiaustausch etc.) - virtuelle Server ("VPS") können kostenfrei bereit gestellt werden.
 
-Klingt das nach was, was Du mal probieren könntest? Dann meld Dich gerne in der Signal-Gruppe, mach einen Issue auf dem GitHub-Repository auf oder meld Dich bei einem der Contributors. Falls Du schon einen hast, nenn uns bitte Deinen GitHub-Accountnamen, ansonsten unterstützen wir gerne bei der Einrichtung eines Accounts.
+Klingt das nach was, was du mal probieren könntest? Dann meld dich gerne in der Signal-Hauptgruppe ober bei den Administrator\*innen der Gruppe. Oder mach einen [Issue auf dem GitHub-Repository](https://github.com/Rathaus4tel/r4tel.de/issues) auf. Falls Du schon ein [GitHub-Konto](https://www.youtube.com/watch?v=3J_PmMdo9aI) hast, nenn uns bitte deinen Benutzernamen. Falls nicht, unterstützen wir gerne bei der [Einrichtung eines GitHub-Kontos](https://github.com/join).
 
 Beim Editieren bitte beachten:
 * Externe Inhalte ausschließlich von folgenden Organisationen einbetten (weitere können wir gerne diskutieren!): HOWOGE, berlin.de
@@ -216,3 +232,17 @@ Links:
 * [R4tel.de GitHub-Repository](https://github.com/Rathaus4tel/r4tel.de)
 * [Letzte Änderungen](https://github.com/Rathaus4tel/r4tel.de/commits/main)
 * [GitHub Pages-Dokumentation](https://docs.github.com/categories/github-pages-basics/)
+
+## Administrativer Kontakt
+Bei dringenden Fragen zur Administration der Website und Signal-Hauptgruppe bitte kontaktieren:
+
+Moritz Naumann\
+Rathausstr. 14\
+10367 Berlin
+
+Telefon- und Signal-Nummer:
+
+![Telefon](https://user-images.githubusercontent.com/3409697/141753365-dcf3e6ac-2c18-4723-b805-473dea7b9c12.jpg)
+
+Email:\
+`r4tel` auf der Domain `moritz-naumann.de`
