@@ -52,6 +52,7 @@ Für Signal gibt es auch eine [Desktop-App für Windows/Macs/Linux](https://sign
 * Wer gerne etwas Unterstützung bei der Einrichtung von Signal auf dem Handy / Tab / PC hätte, ist herzlich eingeladen, sich unter der am Ende dieser Seite angegebenen Kontaktdaten (per Telefon, SMS, Signal) zu melden. Wenn du dich durch diese Form der Kommunikation ausgeschlossen fühlst, melde dich bitte ebenfalls, gerne mit Verbesserungsvorschlägen.
 
 ## Chat-Policy
+-- English Below -- 
 
 ### Wer macht mit?
 * Alle Bewohner\*innen der oben angegebenen Adressen sind hier herzlich eingeladen!
@@ -89,6 +90,43 @@ Nicht alle Chats sind moderiert - bitte nutzt Common Sense und tragt gemeinsam a
   Falls sich der Wunsch dazu ergibt, können wir die Gruppen gerne auch auf die angrenzenden Nachbarn erweitern. Grundsätzlich ist es aber wohl sinnvoll, sich auf HOWOGE-Gebäude zu beschränken, denn da sitzen wir alle im gleichen Boot.
   * Weitere Gruppen\
   Es kann durchaus Sinn machen für einzelne Wohngebäude (Hausnummern), Themen (die nicht alle interessieren, z.B. Haustiere, Parkplätze) und Sprachen neue Gruppen zu erstellen. Wenn Du eine solche Gruppe anlegst, sag gerne in der großen Gruppe Bescheid, damit Interessierte beitreten und wir die Gruppe hier auf der Website verlinken können.
+  
+### Who is part of it?
+* All residents of the aforementioned address above are cordially invited
+* HOWOGE-staff: We’d be happy for the janitor/facility manager to join our group. As for other staff, please kindly refrain from joining our group. If a staff member joins this group, please do not share numbers or names of individual’s within the HOWOGE , unless individual approval was given beforehand.
+* As for other people we’d like to ask you not to join our group.
+
+### Topics
+Please keep the topics in this group relevant to our communal life and everything that revolves around it. 
+
+* Commerce\
+ We are a __non-commercial group__, please do not use this group for commercial purposes. This is also true for customers recruit customers-programs. However, if you use something that might be practical for people living in this area, feel free to mention it *once*.
+* Looking for/Offering\
+Flea-market type of messages are very welcome - if possible with a picture.
+
+### Basics
+* Message frequency\
+We are happy about any message! Please keep in mind though, that you are sending a message in the main group to more than 100 people (almost 4 school classes) at the same time. Topics that are only relevant to a few people at the time, could be split into a separate group - these should be mentioned in the main channel so other interested members can join those particular groups. If you feel like, there are to many messages incoming at a time, you can always pause or deactivate the notifications for this channel.
+* Manners\
+Before sending a message, please keep in mind how other could perceive it. Please avoid __polarising/sensitive topics__ such as your ideology, politics, religion and everything that could lead to clashes inside of the group.  __Insults__ and __Exclusion__ of any particular minority are not tolerated.
+* Youth protection\
+Please keep in mind, there might me minors in this group. Behave accordingly.
+* Critics\
+Please keep in mind that the HOWOGE, despite it being fairly big might have issues with bureaucratic problems and even though some things could be done better - only have our best interest in mind and can not be compared with other property sharks. So please do *not* assume that they want to ‘rob’ us but rather that they might not be perfect *yet*. The glass is half-full, not half-empty. 
+* Address abbreviation\
+Whenever you write a message, that might be relevant about a certain place, please mention the street and house number, such as “R14” for “Rathausstraße 14”. You can also add this abbreviation to your Signal-Profil. (However this means all of your contacts in Signal will see this abbreviation.)
+
+### Conflict solving
+* Main group\
+The administrators of the group have the possibility and the task, to remind members of the policies or our chat and if necessary also to remove them from the group if they do not refrain from heaving that way. In the case of mobbing or fights, please __contact one of the group admins directly__, so they can dissolve the fight. Do _not_ try to solve the discussion in the group.
+* Other Groups\
+Not all chats are moderated - so please use your common sense and try to make unmoderated groups successful.
+
+### Further Development and Growth
+* Growth of the groups
+If wanted, we could also open up the groups to surrounding neighbours. However, it might make sense to focus our groups onto the HOWOGE building as it might be more relevant to all of us.
+* Further Groups\
+It could be useful to create groups for separate buildings (house numbers), topics (that not everyone is interested in, such as Pets, Parking spots) and languages. If you create such a group, feel free to mention it in the big group so interested people can join. Furthermore we can also add a link on this page so other members might find it.
 
 ## Wichtige Infos und Links
 
