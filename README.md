@@ -54,12 +54,12 @@ Für Signal gibt es auch eine [Desktop-App für Windows/Macs/Linux](https://sign
 ## Chat-Policy
 
 ### Wer macht mit?
-* Alle BewohnerInnen der o.a. Adressen sind hier herzlich eingeladen! Die neue Hauptgruppe (2021) ist moderiert - es kann dazu kommen, dass Einzelne vorübergehend von der Gruppe ausgeschlossen werden.
+* Alle Bewohner\*innen der oben angegebenen Adressen sind hier herzlich eingeladen!
 * HOWOGE-Mitarbeiter\*innen: Wir freuen uns, wenn die Hausmeister\*innen ebenfalls beitreten. Andere HOWOGE-Mitarbeiter\*innen, soweit nicht Anwohner\*innen, bitten wir von einer Teilnahme abzusehen. Teilnehmende HOWOGE-Mitarbeiter\*innen bitten wir davon abzusehen, Namen und Rufnummern der Gruppenteilnehmer\*innen innerhalb der HOWOGE weiter zu geben, es sei denn, es wurde für den jeweiligen Einzelfall eine Einwilligung erteilt.
 * Alle anderen Personengruppen bitten wir von einer Teilnahme abzusehen.
-* 
+
 ### Themen
-Bitte beschränke dich auf Themen, die direkt mit unserem Zusammenleben im Kiez und unseren Mietverhältnissen in Zusammenhang stehen.
+Bitte beschränke dich auf Themen, die direkt mit unserem Zusammenleben im Kiez und unseren Mietverhältnissen (bzw. dem jeweiligen Gruppenthema) in Zusammenhang stehen.
 
 * Kommerz\
   Wir sind eine __non-kommerzielle Gruppe__, bitte missbraucht die Gruppe nicht für werbliche Zwecke - das gilt auch für Kunden-werben-Kunden-Programme. Falls ihr etwas anbietet oder nutzt, was lokalen Bezug hat, könnt ihr aber gerne *mal* darauf hinweisen.
@@ -79,11 +79,14 @@ Bitte beschränke dich auf Themen, die direkt mit unserem Zusammenleben im Kiez 
   Wann immer du eine Nachricht schreibst, bei der der Ortsbezug relevant ist, gib bitte deine Straße und die Hausnummer an, z.B. als "R14" für "Rathausstr. 14". Du kannst dieses Kürzel auch in Deinem Signal-Profil eintragen (das Profil gilt allerdings für all deine Signal-Gruppen und -Kontakte).
 
 ### Konfliktbehebung
-Die Administrator\*innen der Gruppe haben die Möglichkeit - und die Aufgabe -, Mitglieder, die den hier formulierten Kriterien zuwider laufen oder die Gruppe nachhaltig stören, vorübergehend auszuschließen, bei wiederholtem Missbrauch auch permanent. Bei Mobbing oder Streitfragen __kontaktiere bitte immer eine\*n der Gruppenadmins direkt__, um das Thema zu besprechen und eine Klärung herbeizuführen, diskutiere es _nicht_ in der Gruppe aus.
+* Hauptgruppe\
+Die Administrator\*innen der Hauptgruppe haben die Möglichkeit - und die Aufgabe -, Mitglieder, die den hier formulierten Policies zuwider laufen oder die Gruppe nachhaltig stören, vorübergehend auszuschließen, bei wiederholtem Missbrauch auch permanent. Bei Mobbing oder Streitfragen __kontaktiere bitte immer eine\*n der Gruppenadmins direkt__, um das Thema zu besprechen und eine Klärung herbeizuführen, diskutiere es _nicht_ in der Gruppe aus.
+* Andere Gruppen\
+Nicht alle Chats sind moderiert - bitte nutzt Common Sense und tragt gemeinsam auch zum Erfolg der unmoderiten Gruppen bei.
 
 ### Weiterentwicklung und Vergrößerung
-  * Wachstum *dieser* Gruppe\
-  Falls sich der Wunsch dazu ergibt, können wir die Gruppe gerne auch auf die angrenzenden Nachbarn erweitern. Grundsätzlich ist es aber wohl sinnvoll, sich auf HOWOGE-Gebäude zu beschränken, denn da sitzen wir alle im gleichen Boot.
+  * Wachstum der Gruppen\
+  Falls sich der Wunsch dazu ergibt, können wir die Gruppen gerne auch auf die angrenzenden Nachbarn erweitern. Grundsätzlich ist es aber wohl sinnvoll, sich auf HOWOGE-Gebäude zu beschränken, denn da sitzen wir alle im gleichen Boot.
   * Weitere Gruppen\
   Es kann durchaus Sinn machen für einzelne Wohngebäude (Hausnummern), Themen (die nicht alle interessieren, z.B. Haustiere, Parkplätze) und Sprachen neue Gruppen zu erstellen. Wenn Du eine solche Gruppe anlegst, sag gerne in der großen Gruppe Bescheid, damit Interessierte beitreten und wir die Gruppe hier auf der Website verlinken können.
 
@@ -119,7 +122,7 @@ Die Administrator\*innen der Gruppe haben die Möglichkeit - und die Aufgabe -, 
 * [Kiezhelfer](https://www.howoge.de/mieterservice/services-fuer-mieter/kiezhelfer.html)
 * [HOWOGE-Mieterportal](https://mieterportal.howoge.de/nc/mieterportal/willkommen/meine-wohnung.html)
 * [HOWOGE-Mieterrat](https://www.howoge-mieterrat.com/)
-* [Mieterbeirat (in Gründung?)](https://www.howoge.de/mieterservice/mieterbeiraete.html)
+* [Mieterbeirat (Alt-Lichtenberg)](https://www.howoge.de/mieterservice/mieterbeiraete.html)
 * Weitere Infos und Öffnungszeiten:\
   [HOWOGE.de: Ansprechpartner für Mieter](https://www.howoge.de/mieterservice/ansprechpartner-fuer-mieter.html)
 * HOWOGE-Präsentationen:
