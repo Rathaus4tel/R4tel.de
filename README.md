@@ -1,24 +1,22 @@
 ## Willkommen im Rathausviertel!
 
 [![Foto: Rathaus Lichtenberg, im Hintergrund der HOWOGE-Turm](https://www.quartier-am-rathauspark.de/fileadmin/ffa/Hotspot_Nachhaltigkeit/Nachhaltigkeit_6_1.jpg)](https://www.openstreetmap.org/#map=19/52.51372/13.47996) \
-Foto: Rathaus Lichtenberg, im Hintergrund der HOWOGE-Turm
+_Rathaus Lichtenberg, im Hintergrund der HOWOGE-Turm_
 
-Das *R(athaus)4tel* ist das [HOWOGE](https://www.howoge.de)-Neubaugebiet in [Berlin - (Alt) Lichtenberg (Frankfurter Allee Nord)](https://www.openstreetmap.org/#map=19/52.51372/13.47996) mit den Adressen 
+Willkommen im __Rathausviertel__ ('R4tel'), dem [HOWOGE](https://www.howoge.de)-Neubaugebiet in [Berlin - (Alt) Lichtenberg (Frankfurter Allee Nord)](https://www.openstreetmap.org/#map=19/52.51372/13.47996) mit den Adressen 
 
 * Rathausstr. 11a-f, 12, 14 - 17
 * Frankfurter Allee 129, 131, 133, 135 und 137
 * Möllendorffstr. 1-3
 * Stefan-Heym-Platz 1
 
-## Worum geht's?
-
 Wir, die Bewohner\*innen und Mieter\*innen die großstädtische Anonymität in unserem Kiez etwas aufbrechen, und uns über lokal relevante Neuigkeiten austauschen. Dazu betreiben wir mehrere Chats und diese Website.
 
-### Chats
+## Chatgruppen
 
 Über den kostenlosen und privatsphärefreundlichen Messaging-Dienst [Signal](https://signal.org/de/) haben wir mehrere Chatgruppen eingerichtet. Als Anwohner\*in bist Du herzlich eingeladen!
 
-#### Hauptgruppen
+### Hauptgruppen
 
 Neue Hauptgruppe (11/2021) - einfach mit dem Handy scannen:
 
@@ -30,7 +28,7 @@ Aufnahme nach Anmeldung - bitte habt bis zu 48 Stunden Geduld.
 * [R4tel internationals](https://signal.group/#CjQKIFw-NdWfy_Od4WuJ9hI60YNOzvYU1kB1fhCwupB5GJ2GEhCFLlQ-6U2VrVBitUknxnDO) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&&data=https%3A%2F%2Fsignal.group%2F%23CjQKIFw-NdWfy_Od4WuJ9hI60YNOzvYU1kB1fhCwupB5GJ2GEhCFLlQ-6U2VrVBitUknxnDO) - [int.r4tel.de](http://int.r4tel.de)): \
 International group, English (and possibly more?)
 
-#### Themen-Gruppen
+### Themengruppen
 * [E-Mobilität](https://signal.group/#CjQKIBbaJLU2Gc0zmWhTnz4hpGWYFOz71D27NOkgeOY_KLHsEhBnEmglzZU1hd4i6dCdflsR) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&&data=https%3A%2F%2Fsignal.group%2F%23CjQKIBbaJLU2Gc0zmWhTnz4hpGWYFOz71D27NOkgeOY_KLHsEhBnEmglzZU1hd4i6dCdflsR) - [emob.r4tel.de](http://emob.r4tel.de)): \
 E-Mobilität und Wallboxen (installierte Ladevorrichtungen) in den Tiefgaragen
 * [Lüftung](https://signal.group/#CjQKIIe_Ibmw7Nh2b1J3wxf7mzmeWTJ11s0nhdaNWoIxdtRXEhCfJww30UdAPA0W9B_-2U8v) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&&data=https%3A%2F%2Fsignal.group%2F%23CjQKIIe_Ibmw7Nh2b1J3wxf7mzmeWTJ11s0nhdaNWoIxdtRXEhCfJww30UdAPA0W9B_-2U8v) - [luft.r4tel.de](http://luft.r4tel.de)): \
@@ -39,49 +37,54 @@ Alles über die in 'unseren' Häusern installierten Lüftungsanlagen
 Menschen mit Tieren und Tierfreund:innen\
 Zum Austausch und (gegenseitigen) Aufpassen auf unsere Haustiere. English speaking pet lovers welcome!
 
-#### Hausnummer-Gruppen
+### Hausnummergruppen
 * [R14](https://signal.group/#CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&&data=https%3A%2F%2Fsignal.group%2F%23CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT) - [r14.r4tel.de](http://r14.r4tel.de)): \
 (Kurz-Link: ): \
 Für Bewohner der Rathausstraße 14 (und Interessierte der Hauptgruppen)
 
-#### Ehemalige Gruppen ####
-* [R4tel - unmoderiert](https://signal.group/#CjQKIH_QzkCZarTEQ8ui77oGbukM5sSfXmsmIAJ1DgL3D4ZJEhBPmCSrY6RZ_i5Brv38SNmT): \
-Frühere Hauptgruppe
-* R4tel Chat (ohne Link)
 
-### How to Signal
-* Einführung in Signal
-  * [Erste Schritte](https://support.signal.org/hc/de/sections/360001602712-Signal-Messengers-Grundlagen)
-  * [Gruppenunterhaltungen](https://support.signal.org/hc/de/articles/360007319331-Gruppenunterhaltungen)
-  * [Signal-Support](https://support.signal.org/hc/de)
-  * Wer gerne Unterstützung bei der Einrichtung von Signal auf dem Handy / Tab / PC hätte, ist herzlich eingeladen, sich unter der am Ende dieser Seite angegebenen Kontaktdaten (per Telefon, SMS, Signal) zu melden. Wenn du dich durch diese Form der Kommunikation ausgeschlossen fühlst, melde dich bitte ebenfalls, gerne mit Verbesserungsvorschlägen. 
-* Wer macht mit?
-  * Alle BewohnerInnen der o.a. Adressen sind hier herzlich eingeladen! Die neue Hauptgruppe (2021) ist moderiert - es kann dazu kommen, dass Einzelne vorübergehend von der Gruppe ausgeschlossen werden.
-  * HOWOGE-Mitarbeiter\*innen: Wir freuen uns, wenn die Hausmeister\*innen ebenfalls beitreten. Andere HOWOGE-Mitarbeiter\*innen, soweit nicht Anwohner\*innen, bitten wir von einer Teilnahme abzusehen. Teilnehmende HOWOGE-Mitarbeiter\*innen bitten wir davon abzusehen, Namen und Rufnummern der Gruppenteilnehmer\*innen innerhalb der HOWOGE weiter zu geben, es sei denn, es wurde für den jeweiligen Einzelfall eine Einwilligung erteilt.
-  * Alle anderen Personengruppen bitten wir von einer Teilnahme abzusehen.
-* Inhalte, Themen und Form:
-  * Themen: Bitte beschränke dich auf Themen, die direkt mit unserem Zusammenleben im Kiez und unseren Mietverhältnissen in Zusammenhang stehen.
-  * Umgang: Bitte versetz dich in die Situation von anderen Teilnehmer\*innen - vermeide polarisierende Themen wie Weltanschauung, Politik, Religion und alles, was dazu geeignet ist, den Gruppenzusammenhalt zu stören.
-  * Konflikte: Die Administrator\*innen der Gruppe haben die Möglichkeit und die Aufgabe, Mitglieder, die den hier formulierten Kriterien zuwider laufen oder die Gruppe nachhaltig stören, vorübergehend auszuschließen. Bei Mobbing oder Streitfragen kontaktiere bitte immer eine\*n der Gruppenadmins direkt, um das Thema zu besprechen und eine Klärung herbeizuführen, diskutiere es nicht in der Gruppe aus.
-  * Nachrichtenfrequenz:\
-  Wir freuen uns über Eure Beiträge! Bitte bedenkt, dass Eure Nachrichten in der Hauptgruppe an über 100 Bewohner (~4 Schulklassen) gehen. Für Themen, die nur für ein paar von uns interessant sind, kann es deshalb Sinn machen, eine neue Untergruppe zu erstellen (und im Hauptkanal und hier darauf hinzuweisen). Wenn für dein Gefühl momentan zu viele Nachrichten ankommen, kannst Du in den Gruppeneinstellungen die Benachrichtigungen für eine Weile (oder durchgägngig) deaktivieren.
-  * Adresskürzel:\
-  Wann immer du eine Nachricht schreibst, bei der der Ortsbezug relevant ist, gib bitte deine Straße und die Hausnummer an, z.B. als "R14" für "Rathausstr. 14". Du kannst dieses Kürzel auch in Deinem Signal-Profil eintragen (das Profil gilt allerdings gruppenübergreifend).
-  * Jugendschutz:\
+## Signal-Basics
+* [Erste Schritte](https://support.signal.org/hc/de/sections/360001602712-Signal-Messengers-Grundlagen)
+* [Gruppenunterhaltungen](https://support.signal.org/hc/de/articles/360007319331-Gruppenunterhaltungen)
+* [Offizieller Signal-Support](https://support.signal.org/hc/de)
+* Signal auf Desktop/Laptop:\
+Für Signal gibt es auch eine [Desktop-App für Windows/Macs/Linux](https://signal.org/de/download/), die man *zusätzlich* zur App auf dem Smartphone/Tablet einrichten kann.
+* Wer gerne etwas Unterstützung bei der Einrichtung von Signal auf dem Handy / Tab / PC hätte, ist herzlich eingeladen, sich unter der am Ende dieser Seite angegebenen Kontaktdaten (per Telefon, SMS, Signal) zu melden. Wenn du dich durch diese Form der Kommunikation ausgeschlossen fühlst, melde dich bitte ebenfalls, gerne mit Verbesserungsvorschlägen.
+
+## Chat-Policy
+
+### Wer macht mit?
+* Alle BewohnerInnen der o.a. Adressen sind hier herzlich eingeladen! Die neue Hauptgruppe (2021) ist moderiert - es kann dazu kommen, dass Einzelne vorübergehend von der Gruppe ausgeschlossen werden.
+* HOWOGE-Mitarbeiter\*innen: Wir freuen uns, wenn die Hausmeister\*innen ebenfalls beitreten. Andere HOWOGE-Mitarbeiter\*innen, soweit nicht Anwohner\*innen, bitten wir von einer Teilnahme abzusehen. Teilnehmende HOWOGE-Mitarbeiter\*innen bitten wir davon abzusehen, Namen und Rufnummern der Gruppenteilnehmer\*innen innerhalb der HOWOGE weiter zu geben, es sei denn, es wurde für den jeweiligen Einzelfall eine Einwilligung erteilt.
+* Alle anderen Personengruppen bitten wir von einer Teilnahme abzusehen.
+* 
+### Themen
+Bitte beschränke dich auf Themen, die direkt mit unserem Zusammenleben im Kiez und unseren Mietverhältnissen in Zusammenhang stehen.
+
+* Kommerz\
+  Wir sind eine __non-kommerzielle Gruppe__, bitte missbraucht die Gruppe nicht für werbliche Zwecke - das gilt auch für Kunden-werben-Kunden-Programme. Falls ihr etwas anbietet oder nutzt, was lokalen Bezug hat, könnt ihr aber gerne *mal* darauf hinweisen.
+* Suche/Biete\
+  Flohmarkt-ähnliche Nachrichten sind ab und zu gerne gesehen, am Besten mit Bild.
+
+### Grundlagen
+* Nachrichtenfrequenz\
+  Wir freuen uns über deine Beiträge! Bitte denk daran, dass deine Nachrichten in der Hauptgruppe an über 100 Bewohner (~4 Schulklassen) gehen. Für Themen, die nur für ein paar von uns interessant sind, macht es oft Sinn, eine neue Gruppe zu erstellen (und im Hauptkanal und hier darauf hinzuweisen). Wenn für dein Gefühl momentan zu viele Nachrichten ankommen, kannst Du in den Gruppeneinstellungen die Benachrichtigungen für eine Weile (oder durchgägngig) deaktivieren.
+* Kinderstube\
+  Bevor du etwas schreibst, dene bitte darüber nach, wie andere das aufnehmen werden. __Vermeide polarisierende Themen__ wie Weltanschauung, Politik, Religion und alles, was dazu geeignet ist, den Gruppenzusammenhalt zu stören. __Beleidigungen__ und __Ausgrenzung__ sind nicht akzeptabel.
+* Jugendschutz\
   Bitte denk daran, dass in der Gruppe auch Minderjährige anwesend sind und verhalte dich entsprechend.
-  * Kritik:\
-  Bitte denkt immer daran, dass die HOWOGE, auch wenn sie aufgrund der Größe etwas an Bürokratie krankt und einiges durchaus verbesserbar wäre, uns allen grundsätzlich wohlgesonnen ist und keineswegs mit einem der kommerziellen Immobilienhaie vergleichbar ist. Geht also bitte nicht grundsätzlich davon aus, dass man uns 'ausrauben' will, sondern eher davon, dass noch nicht alles perfekt ist. Das Glas ist halb voll, nicht halb leer.
-  * Kommerz:\
-  Wir sind eine non-kommerzielle Gruppe, bitte missbraucht die Gruppe nicht für werbliche Zwecke - das gilt auch für Kunden-werben-Kunden-Programme. Falls ihr etwas anbietet oder nutzt, was lokalen Bezug hat, könnt ihr aber gerne *mal* darauf hinweisen.
-* Technisches und Administratives:
-  * Signal auf Desktop/Laptop:\
-  Für Signal gibt es auch eine [Desktop-App für Windows/OS X/Linux](https://signal.org/de/download/), die man *begleitend* zur App-Installation auf dem Smartphone/Tablet einrichten kann.
-  * Gruppen-Admins:\
-  Derzeit sind wir alle Admins der Signal-Gruppen, das heißt alle können alles. Solange niemand über die Bande schlägt soll das auch so bleiben, denn die Gruppe lebt von unser aller Mitwirkung. Neue Gruppenmitglieder sollten auch als Admins eingerichtet werden, bitte helft alle dabei mit Neueinsteieger zu Admins zu machen und sie bei den ersten Schritten zu unterstützen.
-* Weiterentwicklung und Vergrößerung:
-  * Wachstum *dieser* Gruppe:\
+* Kritik\
+  Bitte denk immer daran, dass die HOWOGE, auch wenn sie aufgrund der Größe bestimmt etwas an Bürokratie krankt und das Eine oder Andere durchaus verbesserbar wäre, uns allen grundsätzlich wohlgesonnen ist und keineswegs mit einem der kommerziellen Immobilienhaie vergleichbar ist. Geht also bitte nicht grundsätzlich davon aus, dass man uns 'ausrauben' will, sondern eher davon, dass *noch* nicht alles perfekt ist. Das Glas ist halb voll, nicht halb leer.
+* Adresskürzel\
+  Wann immer du eine Nachricht schreibst, bei der der Ortsbezug relevant ist, gib bitte deine Straße und die Hausnummer an, z.B. als "R14" für "Rathausstr. 14". Du kannst dieses Kürzel auch in Deinem Signal-Profil eintragen (das Profil gilt allerdings für all deine Signal-Gruppen und -Kontakte).
+
+### Konfliktbehebung
+Die Administrator\*innen der Gruppe haben die Möglichkeit - und die Aufgabe -, Mitglieder, die den hier formulierten Kriterien zuwider laufen oder die Gruppe nachhaltig stören, vorübergehend auszuschließen, bei wiederholtem Missbrauch auch permanent. Bei Mobbing oder Streitfragen __kontaktiere bitte immer eine\*n der Gruppenadmins direkt__, um das Thema zu besprechen und eine Klärung herbeizuführen, diskutiere es _nicht_ in der Gruppe aus.
+
+### Weiterentwicklung und Vergrößerung
+  * Wachstum *dieser* Gruppe\
   Falls sich der Wunsch dazu ergibt, können wir die Gruppe gerne auch auf die angrenzenden Nachbarn erweitern. Grundsätzlich ist es aber wohl sinnvoll, sich auf HOWOGE-Gebäude zu beschränken, denn da sitzen wir alle im gleichen Boot.
-  * Weitere Gruppen:\
+  * Weitere Gruppen\
   Es kann durchaus Sinn machen für einzelne Wohngebäude (Hausnummern), Themen (die nicht alle interessieren, z.B. Haustiere, Parkplätze) und Sprachen neue Gruppen zu erstellen. Wenn Du eine solche Gruppe anlegst, sag gerne in der großen Gruppe Bescheid, damit Interessierte beitreten und wir die Gruppe hier auf der Website verlinken können.
 
 ## Wichtige Infos und Links
@@ -124,21 +127,23 @@ Frühere Hauptgruppe
   * [Neubau Frankfurter Allee 135](https://www.howoge.de/wohnungsbau/neubauprojekte/frankfurter-allee-135.html)
   * [Neubau Rathausstraße 11-12](https://www.howoge.de/wohnungsbau/neubauprojekte/rathausstrasse.html)
 
-#### Bezirksamt
+#### Bezirk
 * [Bezirksamt Lichtenberg](https://www.berlin.de/ba-lichtenberg/)
 * [Corona-Infos](https://www.berlin.de/ba-lichtenberg/aktuelles/artikel.905911.php)
 * Corona-Hotline (Beratung):\
   [030 / 90 28 28 28](tel:+493090282828)
 
-### Wasserversorgung
+### Ver- und Entsorgung
+#### Wasser
 Die Wasserversorgung geschieht zentral über die HOWOGE Wärme und von ihre Vetragspartner. In Deiner Wohnung befindet sich in der Wand des Abstellraums ein Wartungsschacht, hinter dem sich der Heizungsverteiler und die Wasserzähler befinden. Die Verbrauchsstände sind dort immer mit Stichtag 31.12. des Vorjahres ablesbar. Diese Werte werden durch die HOWOGE jährlich per Funk angerufen.
 Bei Störungen der Warmwasserversorgung bitte unbedingt die Havariehotline kontaktieren und in der Signal-Gruppe Bescheid geben. Bei längeren Ausfällen (>1 Tag) auch die Kundenzentrale Alt-Lichtenberg einschalten (ggf. Mietminderung beantragen).
 
-### Stromversorgung
-Die Stromversorgung geschieht über den von Dir gewählten Anbieter. Die HOWOGE bietet auf den Dächern der Wohnungen erzeugten Mieterstrom an. Als lokal erzeugter grüner Strom ist der besonders sinnvoll und im Vergleich zu anderen Anbietern von grünem Strom ist er durchaus attraktiv. Billiger geht's nur mit Kohlestrom.
+#### Strom
+Die Stromversorgung geschieht über den von Dir gewählten Anbieter. Die HOWOGE bietet auf den Dächern der Wohnungen erzeugten Mieterstrom an. Als lokal erzeugter grüner Strom ist der besonders sinnvoll und im Vergleich zu anderen Anbietern von grünem Strom ist er auch durchaus preislich attraktiv.
 
-### Müllentsorgung, Recycling
+#### Müllentsorgung, Recycling
 
+### Infos der Entsorger
 **BSR**
 * [Abfuhrkalender](https://www.bsr.de/abfuhrkalender-20520.php)
 * [Feiertagsregelungen](https://www.bsr.de/feiertagsregelungen-21790.php)
@@ -148,6 +153,8 @@ Die Stromversorgung geschieht über den von Dir gewählten Anbieter. Die HOWOGE 
 * [Abfuhrkalender](https://berlin.alba.info/service/abfallkalender/abfuhrtermine/)
 * [App mit Abfuhrkalender](https://berlin.alba.info/service/abfallkalender/)
 * [Feiertagsregelungen](https://berlin.alba.info/fileadmin/user_upload/ALBA_Berlin/pdf/Feiertagsentsorgung_2021.pdf)
+
+### Termine nach Wohnadresse
 
 #### Rathausstraße 11, 11a-f
 unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
