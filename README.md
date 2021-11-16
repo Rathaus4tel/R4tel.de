@@ -43,7 +43,7 @@ Zum Austausch und (gegenseitigen) Aufpassen auf unsere Haustiere. English speaki
 Für Bewohner der Rathausstraße 14 (und Interessierte der Hauptgruppen)
 
 
-## Signal-Basics
+## Signal kennenlernen
 * [Erste Schritte](https://support.signal.org/hc/de/sections/360001602712-Signal-Messengers-Grundlagen)
 * [Gruppenunterhaltungen](https://support.signal.org/hc/de/articles/360007319331-Gruppenunterhaltungen)
 * [Offizieller Signal-Support](https://support.signal.org/hc/de)
@@ -74,10 +74,12 @@ Bitte beschränke dich auf Themen, die direkt mit unserem Zusammenleben im Kiez 
   Bevor du etwas schreibst, dene bitte darüber nach, wie andere das aufnehmen werden. __Vermeide polarisierende Themen__ wie Weltanschauung, Politik, Religion und alles, was dazu geeignet ist, den Gruppenzusammenhalt zu stören. __Beleidigungen__ und __Ausgrenzung__ sind nicht akzeptabel.
 * Jugendschutz\
   Bitte denk daran, dass in der Gruppe auch Minderjährige anwesend sind und verhalte dich entsprechend.
-* Kritik\
-  Bitte denk immer daran, dass die HOWOGE, auch wenn sie aufgrund der Größe bestimmt etwas an Bürokratie krankt und das Eine oder Andere durchaus verbesserbar wäre, uns allen grundsätzlich wohlgesonnen ist und keineswegs mit einem der kommerziellen Immobilienhaie vergleichbar ist. Geht also bitte nicht grundsätzlich davon aus, dass man uns 'ausrauben' will, sondern eher davon, dass *noch* nicht alles perfekt ist. Das Glas ist halb voll, nicht halb leer.
+* Vorname in deinem Profil\
+  Bitte gib in deinem Signal-Profil deinen Vornamen an. Sollte Dich das in eine schwierige Situation bringen, wende Dich bitte an die Admins der Gruppe, dann finden wir eine andere Lösung.
 * Adresskürzel\
   Wann immer du eine Nachricht schreibst, bei der der Ortsbezug relevant ist, gib bitte deine Straße und die Hausnummer an, z.B. als "R14" für "Rathausstr. 14". Du kannst dieses Kürzel auch in Deinem Signal-Profil eintragen (das Profil gilt allerdings für all deine Signal-Gruppen und -Kontakte).
+* Kritik\
+  Bitte denk immer daran, dass die HOWOGE, auch wenn sie aufgrund der Größe bestimmt etwas an Bürokratie krankt und das Eine oder Andere durchaus verbesserbar wäre, uns allen grundsätzlich wohlgesonnen ist und keineswegs mit einem der kommerziellen Immobilienhaie vergleichbar ist. Geht also bitte nicht grundsätzlich davon aus, dass man uns 'ausrauben' will, sondern eher davon, dass *noch* nicht alles perfekt ist. Das Glas ist halb voll, nicht halb leer.
 
 ### Konfliktbehebung
 * Hauptgruppe\
@@ -111,10 +113,12 @@ We are happy about any message! Please keep in mind though, that you are sending
 Before sending a message, please keep in mind how other could perceive it. Please avoid __polarising/sensitive topics__ such as your ideology, politics, religion and everything that could lead to clashes inside of the group.  __Insults__ and __Exclusion__ of any particular minority are not tolerated.
 * Youth protection\
 Please keep in mind, there might me minors in this group. Behave accordingly.
-* Critics\
-Please keep in mind that the HOWOGE, despite it being fairly big might have issues with bureaucratic problems and even though some things could be done better - only have our best interest in mind and can not be compared with other property sharks. So please do *not* assume that they want to ‘rob’ us but rather that they might not be perfect *yet*. The glass is half-full, not half-empty. 
+* Given name in your profile\
+  Please update your Signal profile so that it provides (at least) your given name. If this puts you into a difficult situation, please contact the admins - we will then come up with an alternative.
 * Address abbreviation\
 Whenever you write a message, that might be relevant about a certain place, please mention the street and house number, such as “R14” for “Rathausstraße 14”. You can also add this abbreviation to your Signal-Profil. (However this means all of your contacts in Signal will see this abbreviation.)
+* Critics\
+Please keep in mind that the HOWOGE, despite it being fairly big might have issues with bureaucratic problems and even though some things could be done better - only have our best interest in mind and can not be compared with other property sharks. So please do *not* assume that they want to ‘rob’ us but rather that they might not be perfect *yet*. The glass is half-full, not half-empty.
 
 ### Conflict solving
 * Main group\
