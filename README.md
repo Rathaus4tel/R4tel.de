@@ -149,7 +149,7 @@ It could be useful to create groups for separate buildings (house numbers), topi
   [030 / 54 64 4023](tel:+493054644023)\
   (auch für Warmwasserausfälle)
 * [Hausmeister](https://www.howoge.de/mieterservice/services-fuer-mieter/hausmeister.html):\
-  Name und Rufnummer des Hausmeisters sind hier aus Datenschutzgründen nicht veröffentlicht. Bitte unter 'Weitere Infos und Öffnungszeiten' recherchieren.
+  Name und Rufnummer des Hausmeisters sind hier aus Datenschutzgründen nicht veröffentlicht. Bitte unter [Ansprechpartner für Mieter](https://www.howoge.de/mieterservice/ansprechpartner-fuer-mieter.html) recherchieren.
 * [Mobile Hausmeister](https://www.howoge.de/mieterservice/services-fuer-mieter/mobiler-hausmeister.html) (Nebenzeit):\
   [030 / 54 64 1300](tel:+493054641300)
 * [HOWOGE Wärme](https://www.howoge.de/unternehmen/tochterunternehmen/howoge-waerme-gmbh.html):
