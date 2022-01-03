@@ -80,6 +80,8 @@ Bitte beschränke dich auf Themen, die direkt mit unserem Zusammenleben im Kiez 
   Wann immer du eine Nachricht schreibst, bei der der Ortsbezug relevant ist, gib bitte deine Straße und die Hausnummer an, z.B. als "R14" für "Rathausstr. 14". Du kannst dieses Kürzel auch in Deinem Signal-Profil eintragen (das Profil gilt allerdings für all deine Signal-Gruppen und -Kontakte).
 * Kritik\
   Bitte denk immer daran, dass die HOWOGE, auch wenn sie aufgrund der Größe bestimmt etwas an Bürokratie krankt und das Eine oder Andere durchaus verbesserbar wäre, uns allen grundsätzlich wohlgesonnen ist und keineswegs mit einem der kommerziellen Immobilienhaie vergleichbar ist. Geht also bitte nicht grundsätzlich davon aus, dass man uns 'ausrauben' will, sondern eher davon, dass *noch* nicht alles perfekt ist. Das Glas ist halb voll, nicht halb leer.
+ * Fotos\
+  Fotos, auf denen Personen zu erkennen sind, können nur mit der ausdrücklichen Genehmigung der abgebildeten Personen veröffentlicht werden.
 
 ### Konfliktbehebung
 * Hauptgruppe\
@@ -119,6 +121,8 @@ Please keep in mind, there might me minors in this group. Behave accordingly.
 Whenever you write a message, that might be relevant about a certain place, please mention the street and house number, such as “R14” for “Rathausstraße 14”. You can also add this abbreviation to your Signal-Profil. (However this means all of your contacts in Signal will see this abbreviation.)
 * Critics\
 Please keep in mind that the HOWOGE, despite it being fairly big might have issues with bureaucratic problems and even though some things could be done better - only have our best interest in mind and can not be compared with other property sharks. So please do *not* assume that they want to ‘rob’ us but rather that they might not be perfect *yet*. The glass is half-full, not half-empty.
+* Pictures\
+  All pictures in which persons are recognizable may only be published with the permission of these persons. 
 
 ### Conflict solving
 * Main group\
