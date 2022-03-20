@@ -36,6 +36,8 @@ Alles über die in 'unseren' Häusern installierten Lüftungsanlagen
 * [Rathaustiere](https://signal.group/#CjQKIC2WoOENHhHterGi4otCuK8f1zG-KwNpWpCPbdTDETZJEhCsNKp3ySzzFC3s7S6xuv5j) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&&data=https%3A%2F%2Fsignal.group%2F%23CjQKIC2WoOENHhHterGi4otCuK8f1zG-KwNpWpCPbdTDETZJEhCsNKp3ySzzFC3s7S6xuv5j) - [tiere.r4tel.de](http://tiere.r4tel.de)): \
 Menschen mit Tieren und Tierfreund:innen\
 Zum Austausch und (gegenseitigen) Aufpassen auf unsere Haustiere. English speaking pet lovers welcome!
+* [Kleinanzeigen](https://signal.group/#CjQKIH-5r3u4OFVUklYo-DxjgWmqpSOz5j3YBXkuCD1x01stEhC2UvjcjElHWWr5cFIV8jDz) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&&data=https%3A%2F%2Fsignal.group%2F%23CjQKIH-5r3u4OFVUklYo-DxjgWmqpSOz5j3YBXkuCD1x01stEhC2UvjcjElHWWr5cFIV8jDz) - [markt.r4tel.de](http://markt.r4tel.de)): \
+Zu verkaufen/zu verschenken
 
 ### Hausnummergruppen
 * [R14](https://signal.group/#CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&&data=https%3A%2F%2Fsignal.group%2F%23CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT) - [r14.r4tel.de](http://r14.r4tel.de)): \
@@ -51,6 +53,7 @@ Für Bewohner der Rathausstraße 14 (und Interessierte der Hauptgruppen)
 Für Signal gibt es auch eine [Desktop-App für Windows/Macs/Linux](https://signal.org/de/download/), die man *zusätzlich* zur App auf dem Smartphone/Tablet einrichten kann.
 * Wer gerne etwas Unterstützung bei der Einrichtung von Signal auf dem Handy / Tab / PC hätte, ist herzlich eingeladen, sich unter der am Ende dieser Seite angegebenen Kontaktdaten (per Telefon, SMS, Signal) zu melden. Wenn du dich durch diese Form der Kommunikation ausgeschlossen fühlst, melde dich bitte ebenfalls, gerne mit Verbesserungsvorschlägen.
 
+
 ## Chat-Policy
 -- English Below -- 
 
@@ -60,18 +63,19 @@ Für Signal gibt es auch eine [Desktop-App für Windows/Macs/Linux](https://sign
 * Alle anderen Personengruppen bitten wir von einer Teilnahme abzusehen.
 
 ### Themen
-Bitte beschränke dich auf Themen, die direkt mit unserem Zusammenleben im Kiez und unseren Mietverhältnissen (bzw. dem jeweiligen Gruppenthema) in Zusammenhang stehen.
+Grundsätzlich gilt: Anything goes. Aber bitte beschränke dich auf Themen, die direkt mit unserem Zusammenleben im Kiez und unseren Mietverhältnissen in Zusammenhang stehen.
 
-* Kommerz\
-  Wir sind eine __non-kommerzielle Gruppe__, bitte missbraucht die Gruppe nicht für werbliche Zwecke - das gilt auch für Kunden-werben-Kunden-Programme. Falls ihr etwas anbietet oder nutzt, was lokalen Bezug hat, könnt ihr aber gerne *mal* darauf hinweisen.
-* Suche/Biete\
-  Flohmarkt-ähnliche Nachrichten sind ab und zu gerne gesehen, am Besten mit Bild.
+Ausnahmen:
+* Für Themen, für die separate Gruppen bestehen, verwendet bitte diese Gruppen.
+* Kommerz: Wir sind eine __non-kommerzielle Gruppe__, bitte missbraucht die Gruppe nicht für werbliche Zwecke - das gilt auch für Kunden-werben-Kunden-Programme. Zum privaten Verkaufen und Verschenken verwendet bitte die Kleinanzeigen-Gruppe. Falls ihr darüber etwas anbietet oder nutzt, was lokalen Bezug hat, könnt ihr aber gerne *mal* darauf hinweisen.
 
 ### Grundlagen
 * Nachrichtenfrequenz\
   Wir freuen uns über deine Beiträge! Bitte denk daran, dass deine Nachrichten in der Hauptgruppe an über 100 Bewohner (~4 Schulklassen) gehen. Für Themen, die nur für ein paar von uns interessant sind, macht es oft Sinn, eine neue Gruppe zu erstellen (und im Hauptkanal und hier darauf hinzuweisen). Wenn für dein Gefühl momentan zu viele Nachrichten ankommen, kannst Du in den Gruppeneinstellungen die Benachrichtigungen für eine Weile (oder durchgägngig) deaktivieren.
+* Uhrzeiten\
+  Bitte keine Nachrichten in der Nacht (außer in dringenden Fällen, z.B. infrastrukturelle Störungen).
 * Kinderstube\
-  Bevor du etwas schreibst, dene bitte darüber nach, wie andere das aufnehmen werden. __Vermeide polarisierende Themen__ wie Weltanschauung, Politik, Religion und alles, was dazu geeignet ist, den Gruppenzusammenhalt zu stören. __Beleidigungen__ und __Ausgrenzung__ sind nicht akzeptabel.
+  Bevor du etwas schreibst, dene bitte darüber nach, wie andere das aufnehmen werden. __Vermeide polarisierende Themen__ wie Weltanschauung, Politik, Religion und alles, was dazu geeignet ist, den Gruppenzusammenhalt zu stören. __Beleidigungen__ und __Ausgrenzung__ sind nicht akzeptabel. __Diskussionen__ sind auf der Hauptgruppe unerwünscht.
 * Jugendschutz\
   Bitte denk daran, dass in der Gruppe auch Minderjährige anwesend sind und verhalte dich entsprechend.
 * Vorname in deinem Profil\
@@ -79,7 +83,7 @@ Bitte beschränke dich auf Themen, die direkt mit unserem Zusammenleben im Kiez 
 * Adresskürzel\
   Wann immer du eine Nachricht schreibst, bei der der Ortsbezug relevant ist, gib bitte deine Straße und die Hausnummer an, z.B. als "R14" für "Rathausstr. 14". Du kannst dieses Kürzel auch in Deinem Signal-Profil eintragen (das Profil gilt allerdings für all deine Signal-Gruppen und -Kontakte).
 * Kritik\
-  Bitte denk immer daran, dass die HOWOGE, auch wenn sie aufgrund der Größe bestimmt etwas an Bürokratie krankt und das Eine oder Andere durchaus verbesserbar wäre, uns allen grundsätzlich wohlgesonnen ist und keineswegs mit einem der kommerziellen Immobilienhaie vergleichbar ist. Geht also bitte nicht grundsätzlich davon aus, dass man uns 'ausrauben' will, sondern eher davon, dass *noch* nicht alles perfekt ist. Das Glas ist halb voll, nicht halb leer.
+  Bitte denk immer daran, dass die HOWOGE, auch wenn sie aufgrund der Größe bestimmt etwas an Bürokratie krankt und das Eine oder Andere durchaus verbesserbar wäre, uns allen grundsätzlich wohlgesonnen ist und keineswegs mit einem der kommerziellen Immobilienhaie vergleichbar ist. Geht also bitte nicht grundsätzlich davon aus, dass man uns Böses will, sondern eher davon, dass *noch* nicht alles perfekt ist. Das Glas ist halb voll, nicht halb leer.
  * Fotos\
   Fotos, auf denen Personen zu erkennen sind, können nur mit der ausdrücklichen Genehmigung der abgebildeten Personen veröffentlicht werden.
 
@@ -101,26 +105,31 @@ Nicht alle Chats sind moderiert - bitte nutzt Common Sense und tragt gemeinsam a
 * As for other people we’d like to ask you not to join our group.
 
 ### Topics
-Please keep the topics in this group relevant to our communal life and everything that revolves around it. 
+Generally, anything goes. However, please keep the topics in this group relevant to our communal life and everything that revolves around it.
 
 * Commerce\
- We are a __non-commercial group__, please do not use this group for commercial purposes. This is also true for customers recruit customers-programs. However, if you use something that might be practical for people living in this area, feel free to mention it *once*.
-* Looking for/Offering\
+ * Looking for/Offering\
 Flea-market type of messages are very welcome - if possible with a picture.
+
+Exceptions:
+* Please use the existing, separate, topical groups for these very topics.
+* Commerce: We are a __non-commercial group__, please do not use this group for commercial purposes. This is also true for customers recruit customers/affiliate programs. Please use the "Kleinanzeigen" group to sell or give away personal belongings. For any other offerings with local (our Kiez) relevance, it is ok to mention it *sparingly*.
 
 ### Basics
 * Message frequency\
-We are happy about any message! Please keep in mind though, that you are sending a message in the main group to more than 100 people (almost 4 school classes) at the same time. Topics that are only relevant to a few people at the time, could be split into a separate group - these should be mentioned in the main channel so other interested members can join those particular groups. If you feel like, there are to many messages incoming at a time, you can always pause or deactivate the notifications for this channel.
+  We are happy about any message! Please keep in mind though, that you are sending a message in the main group to more than 100 people (almost 4 school classes) at the same time. Topics that are only relevant to a few people at the time, could be split into a separate group - these should be mentioned in the main channel so other interested members can join those particular groups. If you feel like, there are to many messages incoming at a time, you can always pause or deactivate the notifications for this channel.
+* Time of day\
+  Do not send messages at night (unless it is about urgent / infrastructural incidents). 
 * Manners\
-Before sending a message, please keep in mind how other could perceive it. Please avoid __polarising/sensitive topics__ such as your ideology, politics, religion and everything that could lead to clashes inside of the group.  __Insults__ and __Exclusion__ of any particular minority are not tolerated.
+  Before sending a message, please keep in mind how other could perceive it. Please avoid __polarising/sensitive topics__ such as your ideology, politics, religion and everything that could lead to clashes inside of the group.  __Insults__ and __Exclusion__ of any particular minority are not tolerated. No __discussions__ on the main group, please.
 * Youth protection\
-Please keep in mind, there might me minors in this group. Behave accordingly.
+  Please keep in mind, there might me minors in this group. Behave accordingly.
 * Given name in your profile\
   Please update your Signal profile so that it provides (at least) your given name. If this puts you into a difficult situation, please contact the admins - we will then come up with an alternative.
 * Address abbreviation\
-Whenever you write a message, that might be relevant about a certain place, please mention the street and house number, such as “R14” for “Rathausstraße 14”. You can also add this abbreviation to your Signal-Profil. (However this means all of your contacts in Signal will see this abbreviation.)
-* Critics\
-Please keep in mind that the HOWOGE, despite it being fairly big might have issues with bureaucratic problems and even though some things could be done better - only have our best interest in mind and can not be compared with other property sharks. So please do *not* assume that they want to ‘rob’ us but rather that they might not be perfect *yet*. The glass is half-full, not half-empty.
+  Whenever you write a message, that might be relevant about a certain place, please mention the street and house number, such as "R14" for "Rathausstraße 14". You can also add this abbreviation to your Signal profile. (However this means all of your contacts in Signal will see it.)
+* Criticism\
+  Please keep in mind that HOWOGE, while it is fairly big and thus may face issues with bureaucracy, and while some things could certainly be done better, have our best interest in mind and (being a city owned organization) can not be compared with property sharks. So please do *not* blindly assume that 'they want to harm us' but rather that they might not be perfect *yet*. The glass is half-full, not half-empty.
 * Pictures\
   All pictures in which persons are recognizable may only be published with the permission of these persons. 
 
