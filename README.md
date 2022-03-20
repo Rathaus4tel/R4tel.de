@@ -55,7 +55,9 @@ Für Signal gibt es auch eine [Desktop-App für Windows/Macs/Linux](https://sign
 
 
 ## Chat-Policy
--- English Below -- 
+Jetzt auf [separater Seite](/policy_de).
+
+-- English Below --
 
 ### Wer macht mit?
 * Alle Bewohner\*innen der oben angegebenen Adressen sind hier herzlich eingeladen!
