@@ -1,4 +1,4 @@
-# [R4tel.de](https://r4tel.de) - Website zum Rathausviertel in Berlin-Lichtenberg
+# [R4tel.de](https://r4tel.de) - Das Rathausviertel in Berlin-Lichtenberg
 
 ## Neuigkeiten
 
