@@ -1,6 +1,6 @@
 # [R4tel.de](https://r4tel.de) - Das Rathausviertel in Berlin-Lichtenberg
 
-## Neuigkeiten
+## Änderungen + Hinweise
 
 #### März 2022
 Nachdem wir anfangs nur eine README.MD hatten, sind die Inhalte nun auf mehrere Seiten aufgeteilt:
