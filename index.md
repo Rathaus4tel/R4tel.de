@@ -43,8 +43,7 @@ Mobilitäts- und Verkehrswende rund um das "Rathausviertel" und in Berlin
 
 ### Hausnummergruppen
 * [R14](https://signal.group/#CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT) - [r14.r4tel.de](http://r14.r4tel.de)): \
-(Kurz-Link: ): \
-Für Bewohner der Rathausstraße 14 (und Interessierte der Hauptgruppen)
+Von + für Bewohner:innen der Rathausstraße 14 (und Interessierte der Hauptgruppen)
 
 
 ## Signal kennenlernen
