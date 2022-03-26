@@ -20,27 +20,29 @@ Wir, die Bewohner\*innen und Mieter\*innen die großstädtische Anonymität in u
 
 Neue Hauptgruppe (11/2021) - einfach mit dem Handy scannen:
 
-[![QR-Code der Hauptgruppe - zum Teilnehmen einfach anklicken](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&&data=https%3A%2F%2Fsignal.group%2F%23CjQKIG0xkFOmaz3In9XdYeFPJGzr72Cx3t_cXabVaYFJbC6IEhArz8wXbuvihQPkjuiyyozl)](https://signal.group/#CjQKIG0xkFOmaz3In9XdYeFPJGzr72Cx3t_cXabVaYFJbC6IEhArz8wXbuvihQPkjuiyyozl)
+[![QR-Code der Hauptgruppe - zum Teilnehmen einfach anklicken](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIG0xkFOmaz3In9XdYeFPJGzr72Cx3t_cXabVaYFJbC6IEhArz8wXbuvihQPkjuiyyozl)](https://signal.group/#CjQKIG0xkFOmaz3In9XdYeFPJGzr72Cx3t_cXabVaYFJbC6IEhArz8wXbuvihQPkjuiyyozl)
 
-* [R4tel](https://signal.group/#CjQKIG0xkFOmaz3In9XdYeFPJGzr72Cx3t_cXabVaYFJbC6IEhArz8wXbuvihQPkjuiyyozl) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&&data=https%3A%2F%2Fsignal.group%2F%23CjQKIG0xkFOmaz3In9XdYeFPJGzr72Cx3t_cXabVaYFJbC6IEhArz8wXbuvihQPkjuiyyozl) - [join.r4tel.de](http://join.r4tel.de)): \
+* [R4tel](https://signal.group/#CjQKIG0xkFOmaz3In9XdYeFPJGzr72Cx3t_cXabVaYFJbC6IEhArz8wXbuvihQPkjuiyyozl) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIG0xkFOmaz3In9XdYeFPJGzr72Cx3t_cXabVaYFJbC6IEhArz8wXbuvihQPkjuiyyozl) - [join.r4tel.de](http://join.r4tel.de)): \
 Die aktuelle Hauptgruppe, gegründet im November 2021. \
 Aufnahme nach Anmeldung - bitte habt bis zu 48 Stunden Geduld.
-* [R4tel internationals](https://signal.group/#CjQKIFw-NdWfy_Od4WuJ9hI60YNOzvYU1kB1fhCwupB5GJ2GEhCFLlQ-6U2VrVBitUknxnDO) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&&data=https%3A%2F%2Fsignal.group%2F%23CjQKIFw-NdWfy_Od4WuJ9hI60YNOzvYU1kB1fhCwupB5GJ2GEhCFLlQ-6U2VrVBitUknxnDO) - [int.r4tel.de](http://int.r4tel.de)): \
+* [R4tel internationals](https://signal.group/#CjQKIFw-NdWfy_Od4WuJ9hI60YNOzvYU1kB1fhCwupB5GJ2GEhCFLlQ-6U2VrVBitUknxnDO) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIFw-NdWfy_Od4WuJ9hI60YNOzvYU1kB1fhCwupB5GJ2GEhCFLlQ-6U2VrVBitUknxnDO) - [int.r4tel.de](http://int.r4tel.de)): \
 International group, English (and possibly more?)
 
 ### Themengruppen
-* [E-Mobilität](https://signal.group/#CjQKIBbaJLU2Gc0zmWhTnz4hpGWYFOz71D27NOkgeOY_KLHsEhBnEmglzZU1hd4i6dCdflsR) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&&data=https%3A%2F%2Fsignal.group%2F%23CjQKIBbaJLU2Gc0zmWhTnz4hpGWYFOz71D27NOkgeOY_KLHsEhBnEmglzZU1hd4i6dCdflsR) - [emob.r4tel.de](http://emob.r4tel.de)): \
+* [E-Mobilität](https://signal.group/#CjQKIBbaJLU2Gc0zmWhTnz4hpGWYFOz71D27NOkgeOY_KLHsEhBnEmglzZU1hd4i6dCdflsR) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIBbaJLU2Gc0zmWhTnz4hpGWYFOz71D27NOkgeOY_KLHsEhBnEmglzZU1hd4i6dCdflsR) - [emob.r4tel.de](http://emob.r4tel.de)): \
 E-Mobilität und Wallboxen (installierte Ladevorrichtungen) in den Tiefgaragen
-* [Lüftung](https://signal.group/#CjQKIIe_Ibmw7Nh2b1J3wxf7mzmeWTJ11s0nhdaNWoIxdtRXEhCfJww30UdAPA0W9B_-2U8v) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&&data=https%3A%2F%2Fsignal.group%2F%23CjQKIIe_Ibmw7Nh2b1J3wxf7mzmeWTJ11s0nhdaNWoIxdtRXEhCfJww30UdAPA0W9B_-2U8v) - [luft.r4tel.de](http://luft.r4tel.de)): \
+* [Lüftung](https://signal.group/#CjQKIIe_Ibmw7Nh2b1J3wxf7mzmeWTJ11s0nhdaNWoIxdtRXEhCfJww30UdAPA0W9B_-2U8v) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIIe_Ibmw7Nh2b1J3wxf7mzmeWTJ11s0nhdaNWoIxdtRXEhCfJww30UdAPA0W9B_-2U8v) - [luft.r4tel.de](http://luft.r4tel.de)): \
 Alles über die in 'unseren' Häusern installierten Lüftungsanlagen
-* [Rathaustiere](https://signal.group/#CjQKIC2WoOENHhHterGi4otCuK8f1zG-KwNpWpCPbdTDETZJEhCsNKp3ySzzFC3s7S6xuv5j) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&&data=https%3A%2F%2Fsignal.group%2F%23CjQKIC2WoOENHhHterGi4otCuK8f1zG-KwNpWpCPbdTDETZJEhCsNKp3ySzzFC3s7S6xuv5j) - [tiere.r4tel.de](http://tiere.r4tel.de)): \
+* [Rathaustiere](https://signal.group/#CjQKIC2WoOENHhHterGi4otCuK8f1zG-KwNpWpCPbdTDETZJEhCsNKp3ySzzFC3s7S6xuv5j) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIC2WoOENHhHterGi4otCuK8f1zG-KwNpWpCPbdTDETZJEhCsNKp3ySzzFC3s7S6xuv5j) - [tiere.r4tel.de](http://tiere.r4tel.de)): \
 Menschen mit Tieren und Tierfreund:innen\
 Zum Austausch und (gegenseitigen) Aufpassen auf unsere Haustiere. English speaking pet lovers welcome!
-* [Kleinanzeigen](https://signal.group/#CjQKIH-5r3u4OFVUklYo-DxjgWmqpSOz5j3YBXkuCD1x01stEhC2UvjcjElHWWr5cFIV8jDz) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&&data=https%3A%2F%2Fsignal.group%2F%23CjQKIH-5r3u4OFVUklYo-DxjgWmqpSOz5j3YBXkuCD1x01stEhC2UvjcjElHWWr5cFIV8jDz) - [markt.r4tel.de](http://markt.r4tel.de)): \
+* [Kleinanzeigen](https://signal.group/#CjQKIH-5r3u4OFVUklYo-DxjgWmqpSOz5j3YBXkuCD1x01stEhC2UvjcjElHWWr5cFIV8jDz) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIH-5r3u4OFVUklYo-DxjgWmqpSOz5j3YBXkuCD1x01stEhC2UvjcjElHWWr5cFIV8jDz) - [markt.r4tel.de](http://markt.r4tel.de)): \
 Zu verkaufen/zu verschenken
+* [Mobilitätswende](https://signal.group/#CjQKILqJ2bCRX2HKnu0HjtPgQIbOqvNZsjOVLHQyr-0tZ1fWEhC2YclKY61a33yw5d3hpTWS) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKILqJ2bCRX2HKnu0HjtPgQIbOqvNZsjOVLHQyr-0tZ1fWEhC2YclKY61a33yw5d3hpTWS) - [mobil.r4tel.de](http://mobil.r4tel.de)): \
+Mobilitäts- und Verkehrswende rund um das "Rathausviertel" und in Berlin
 
 ### Hausnummergruppen
-* [R14](https://signal.group/#CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&&data=https%3A%2F%2Fsignal.group%2F%23CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT) - [r14.r4tel.de](http://r14.r4tel.de)): \
+* [R14](https://signal.group/#CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT) - [r14.r4tel.de](http://r14.r4tel.de)): \
 (Kurz-Link: ): \
 Für Bewohner der Rathausstraße 14 (und Interessierte der Hauptgruppen)
 
