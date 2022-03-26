@@ -10,7 +10,7 @@ Willkommen im __Rathausviertel__ ('R4tel'), dem [HOWOGE](https://www.howoge.de)-
 * Möllendorffstr. 1-3
 * Stefan-Heym-Platz 1
 
-Wir, die Bewohner\*innen und Mieter\*innen die großstädtische Anonymität in unserem Kiez etwas aufbrechen, und uns über lokal relevante Neuigkeiten austauschen. Dazu betreiben wir mehrere Chats und diese Website.
+Wir, die Bewohner:innen und Mieter:innen, wollen die großstädtische Anonymität in unserem Kiez etwas aufbrechen, und uns über lokal relevante Neuigkeiten austauschen. Dazu betreiben wir mehrere Chats und diese Website.
 
 ## Chatgruppen
 
