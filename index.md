@@ -40,6 +40,8 @@ Zum Austausch und (gegenseitigen) Aufpassen auf unsere Haustiere. English speaki
 Zu verkaufen/zu verschenken
 * [Mobilitätswende](https://signal.group/#CjQKILqJ2bCRX2HKnu0HjtPgQIbOqvNZsjOVLHQyr-0tZ1fWEhC2YclKY61a33yw5d3hpTWS) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKILqJ2bCRX2HKnu0HjtPgQIbOqvNZsjOVLHQyr-0tZ1fWEhC2YclKY61a33yw5d3hpTWS) - [mobil.r4tel.de](http://mobil.r4tel.de)): \
 Mobilitäts- und Verkehrswende rund um das "Rathausviertel" und in Berlin
+* [Wohnungstausch](https://signal.group/#CjQKIOcsHlNJsq9Q-afLO8tuqeAHFsTnfedYJSrq_LbdGDsZEhCOJMpYNP2dgFEOmHIDowfE) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIOcsHlNJsq9Q-afLO8tuqeAHFsTnfedYJSrq_LbdGDsZEhCOJMpYNP2dgFEOmHIDowfE) - [wohnung.r4tel.de](http://wohnung.r4tel.de)): \
+Wohnungstausch in unserem Kiez
 
 ### Hausnummergruppen
 * [R14](https://signal.group/#CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT) - [r14.r4tel.de](http://r14.r4tel.de)): \
