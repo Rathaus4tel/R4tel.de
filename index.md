@@ -10,7 +10,7 @@ Willkommen im __Rathausviertel__ ('R4tel'), dem [HOWOGE](https://www.howoge.de)-
 * Möllendorffstr. 1-3
 * Stefan-Heym-Platz 1
 
-Wir, die Bewohner:innen und Mieter:innen, wollen die großstädtische Anonymität in unserem Kiez etwas aufbrechen, und uns über lokal relevante Neuigkeiten austauschen. Dazu betreiben wir mehrere Chats und diese Website.
+Wir, die Bewohner:innen und Mieter:innen, wollen die großstädtische Anonymität in unserem Kiez etwas aufbrechen, uns über lokal relevante Neuigkeiten austauschen und uns gegenseitig unterstützen. Dazu betreiben wir mehrere Chats und diese Website.
 
 ## Chatgruppen
 
@@ -28,6 +28,10 @@ Aufnahme nach Anmeldung - bitte habt bis zu 48 Stunden Geduld.
 * [R4tel internationals](https://signal.group/#CjQKIFw-NdWfy_Od4WuJ9hI60YNOzvYU1kB1fhCwupB5GJ2GEhCFLlQ-6U2VrVBitUknxnDO) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIFw-NdWfy_Od4WuJ9hI60YNOzvYU1kB1fhCwupB5GJ2GEhCFLlQ-6U2VrVBitUknxnDO) - [int.r4tel.de](http://int.r4tel.de)): \
 International group, English (and possibly more?)
 
+### Hausnummergruppen
+* [R14](https://signal.group/#CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT) - [r14.r4tel.de](http://r14.r4tel.de)): \
+Von + für Bewohner:innen der Rathausstraße 14 (und Interessierte der Hauptgruppen)
+
 ### Themengruppen
 * [E-Mobilität](https://signal.group/#CjQKIBbaJLU2Gc0zmWhTnz4hpGWYFOz71D27NOkgeOY_KLHsEhBnEmglzZU1hd4i6dCdflsR) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIBbaJLU2Gc0zmWhTnz4hpGWYFOz71D27NOkgeOY_KLHsEhBnEmglzZU1hd4i6dCdflsR) - [emob.r4tel.de](http://emob.r4tel.de)): \
 E-Mobilität und Wallboxen (installierte Ladevorrichtungen) in den Tiefgaragen
@@ -42,10 +46,6 @@ Zu verkaufen/zu verschenken
 Mobilitäts- und Verkehrswende rund um das "Rathausviertel" und in Berlin
 * [Wohnungstausch](https://signal.group/#CjQKIOcsHlNJsq9Q-afLO8tuqeAHFsTnfedYJSrq_LbdGDsZEhCOJMpYNP2dgFEOmHIDowfE) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIOcsHlNJsq9Q-afLO8tuqeAHFsTnfedYJSrq_LbdGDsZEhCOJMpYNP2dgFEOmHIDowfE) - [wohnung.r4tel.de](http://wohnung.r4tel.de)): \
 Wohnungstausch in unserem Kiez
-
-### Hausnummergruppen
-* [R14](https://signal.group/#CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIM_ylv_OBN5n37DD1epbO9bxlVkFxczFzR2hOez2gdiCEhBJQK1yGTWJbOtY6Z9MWUXT) - [r14.r4tel.de](http://r14.r4tel.de)): \
-Von + für Bewohner:innen der Rathausstraße 14 (und Interessierte der Hauptgruppen)
 
 
 ## Signal kennenlernen
@@ -87,14 +87,14 @@ Now on a [separate page](/policy_en).
     [030 / 54 64 3680](tel:+493054643680)\
     Notfallkontakt. Nur Mailbox. Bitte immer zuerst den technischen Kundendienst kontaktieren!
   * Ansprechpartner Mieterstrom (Solarenergie):\
-    [030 / 54 64 3670](tel:+493054643670) (Fax -3602)\
-    eMail: [strom-energie@howoge.de](mailto:strom-energie@howoge.de)
+    [030 / 54 64 3670](tel:+493054643670) (Fax -3671)\
+    eMail: [gruenstrom@howoge.de](mailto:gruenstrom@howoge.de)
   * Zentrale:\
     [030 / 54 64 3601](tel:+493054643601) (Fax -3602)
 * [Kiezhelfer](https://www.howoge.de/mieterservice/services-fuer-mieter/kiezhelfer.html)
-* [HOWOGE-Mieterportal](https://mieterportal.howoge.de/nc/mieterportal/willkommen/meine-wohnung.html)
-* [HOWOGE-Mieterrat](https://www.howoge-mieterrat.com/)
-* [Mieterbeirat (Alt-Lichtenberg)](https://www.howoge.de/mieterservice/mieterbeiraete.html)
+* [HOWOGE-Mieterportal](https://mieterportal.howoge.de/nc/mieterportal/willkommen/meine-wohnung.html) - derzeit (Juli 2022) außer Betrieb
+* [HOWOGE-Mieterräte](https://www.howoge-mieterrat.com/) (zentral)
+* [Mieterbeirat (Alt-Lichtenberg)](https://www.howoge.de/mieterservice/mieterbeiraete.html) (dezentral)
 * Weitere Infos und Öffnungszeiten:\
   [HOWOGE.de: Ansprechpartner für Mieter](https://www.howoge.de/mieterservice/ansprechpartner-fuer-mieter.html)
 * HOWOGE-Präsentationen:
@@ -108,17 +108,26 @@ Now on a [separate page](/policy_en).
 * Corona-Hotline (Beratung):\
   [030 / 90 28 28 28](tel:+493090282828)
 
-### Ver- und Entsorgung
-#### Wasser
-Die Wasserversorgung geschieht zentral über die HOWOGE Wärme und von ihre Vetragspartner. In Deiner Wohnung befindet sich in der Wand des Abstellraums ein Wartungsschacht, hinter dem sich der Heizungsverteiler und die Wasserzähler befinden. Die Verbrauchsstände sind dort immer mit Stichtag 31.12. des Vorjahres ablesbar. Diese Werte werden durch die HOWOGE jährlich per Funk angerufen.
-Bei Störungen der Warmwasserversorgung bitte unbedingt die Havariehotline kontaktieren und in der Signal-Gruppe Bescheid geben. Bei längeren Ausfällen (>1 Tag) auch die Kundenzentrale Alt-Lichtenberg einschalten (ggf. Mietminderung beantragen).
+### Infrastruktur, Ver- und Entsorgung
+#### Wasser und Heizung
+Die Wasserversorgung wird zentral über die HOWOGE Wärme und ihren Vetragspartnern erbracht, und über die Nebenkosten abgerechnet. Jede Wohnung hat einen Kalt- und einen Warmwasseranschluss - der Warmwasseranschluss bringt die Fernwärme vom [Heizkraftwerk Klingenberg](https://de.wikipedia.org/wiki/Heizkraftwerk_Klingenberg) zu uns. In deiner Wohnung befindet sich in der Wand des Abstellraums ein Wartungsschacht, hinter dem sich eine Fernwärme-Wohnungsstation mit Wasserzählern und Fußbodenheizung ([Beispiel]([https://www.pewo.com/produkte/uebergabestationen/hausanschlussstation/b-idd-35-1hk/](https://wohnungsstationen-mit-behaglichkeitsfaktor.de/)) befinden. Die vollelektrische Hausanschlusstation (Sicherungskasten: "HKW") verteilt die über die Fernwärme eingebrachte Wärme. Sie liefert Warmwasser für Bäder und Küche, und bedient die Fußbodenheizung. Die Fußbodenheizung wird über die Raumregler geregelt: Dreht man diese höher, dann wird diese Information elektronisch an die zentrale Fußbodenheizung übertragen und dort dreht ein Motor ein Ventil auf, so dass (mehr) Heißwasser in die Fußbodenheitung einläuft.
+
+Die Verbrauchsstände sind an den Wasserzählern immer mit Stichtag 31.12. des Vorjahres durch dich ablesbar. Zudem werden sie durch die HOWOGE regelmäßig per Funk abgerufen (über die in den Hausflurdecken installierten Geräte).
+
+Bei Wasserrohrbrüchen, undichten Leitungen und Störungen der Warmwasserversorgung kontaktiere bitte unbedingt den HOWOGE-Havarie-Notdienst und gib den betroffenen Nachbar:innen / R4tel-Gruppen Bescheid. Bei mehrtägigen Ausfällen sollte auch die Kundenzentrale Alt-Lichtenberg eingeschaltet werden.
 
 #### Strom
-Die Stromversorgung geschieht über den von Dir gewählten Anbieter. Die HOWOGE bietet auf den Dächern der Wohnungen erzeugten Mieterstrom an. Als lokal erzeugter grüner Strom ist der besonders sinnvoll und im Vergleich zu anderen Anbietern von grünem Strom ist er auch durchaus preislich attraktiv.
+Die Stromversorgung geschieht technisch über die [Stromnetz Berlin](https://de.wikipedia.org/wiki/Stromnetz_Berlin) im Auftrag des von Dir gewählten Anbieters.
 
-#### Müllentsorgung, Recycling
+Die HOWOGE-Tochter HOWOGE Wärme bietet auf den Dächern der Wohnungen erzeugten [Mieterstrom](https://de.wikipedia.org/wiki/Mieterstrom) unter der Marke [HOWOGE Grünstrom](https://www.howoge.de/unternehmen/tochterunternehmen/howoge-waerme-gmbh/howoge-gruenstrom.html) an. Als lokal erzeugter Ökostrom ist Mieterstrom sowohl sehr wirtschaftlich als auch ökologisch sinnvoll. Im Vergleich zur Grundversorgung (per Gesetz >= 10% Einsparung), aber auch zu anderen Anbietern von grünem Strom ist er auch preislich attraktiv.
 
-### Infos der Entsorger
+Weitere Stromanbieter lassen sich zum Beispiel [über Finanztip.de recherchieren](https://www.finanztip.de/stromvergleich/).
+
+Störungen in der Stromversorgung können [bei der Stromnetz Berlin geprüft und gemeldet](https://www.stromnetz.berlin/technik-und-innovationen/storungsmanagement) ([Twitter](https://twitter.com/stromstoerung)) werden. Über die davon unabhängige Website [stoerungsauskunft.de](https://xn--strungsauskunft-9sb.de/stromausfall/10367-Berlin%20Lichtenberg) lassen sich Großstörungen erkennen.
+
+#### Abfall und Wertstoffe
+
+##### Infos der Entsorger
 **BSR**
 * [Abfuhrkalender](https://www.bsr.de/abfuhrkalender-20520.php)
 * [Feiertagsregelungen](https://www.bsr.de/feiertagsregelungen-21790.php)
@@ -129,20 +138,28 @@ Die Stromversorgung geschieht über den von Dir gewählten Anbieter. Die HOWOGE 
 * [App mit Abfuhrkalender](https://berlin.alba.info/service/abfallkalender/)
 * [Feiertagsregelungen](https://berlin.alba.info/fileadmin/user_upload/ALBA_Berlin/pdf/Feiertagsentsorgung_2021.pdf)
 
-### Termine nach Wohnadresse
+##### Termine nach Wohnadresse
 
-#### Rathausstraße 11, 11a-f
-unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
+###### Rathausstraße 11, 11a-f
+_Hausmüll, Wertstoffe, Bioabfälle, Altpapier:_\
+Termine unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
 
-(Stand: 12.10.2021)
+_Glas:_\
+Siehe Frankfurter Allee
 
-#### Rathausstraße 12, 12a
-unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
+(Stand: Juli 2022)
 
-(Stand: 12.10.2021)
+###### Rathausstraße 12, 12a
+_Hausmüll, Wertstoffe, Bioabfälle, Altpapier:_\
+Termine unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
 
-#### Rathausstraße 14-15
-Die Sammelstelle (Unterflurbodenlagerung) befindet sich im Hinterhof zwischen Frankfurter Allee 147-149 (alter Hochhauskomplex) und Frankfurter Allee 15-17 (Neubau). Die Biotonne steht gegebenenfalls etwas abseits.
+_Glas:_\
+Siehe Frankfurter Allee
+
+(Stand: Juli 2022)
+
+###### Rathausstraße 14-15
+Die Sammelstelle (Unterflurbodenlagerung) befindet sich im Innenhof / an der Versorgungsstraße zwischen Frankfurter Allee 147-149 (alter Hochhauskomplex) und Frankfurter Allee 15-17 (Neubau), in der Nähe des Spielplatzes. Die Biotonne befindet sich ebenfalls dort.
 
 _Hausmüll (BSR):_\
 freitags in geraden Kalenderwochen
@@ -154,35 +171,56 @@ _Bio (BSR):_\
 donnerstags in ungeraden Kalenderwochen
 
 _Papier:_\
-unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
+Termine unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
 
 _Glas:_\
-Siehe Frankfurter Allee - diese Container sind unverschlossen, zur gemeinsamen Nutzung vorgesehen.
+Siehe Frankfurter Allee
 
-(Stand: 12.10.2021)
+(Stand: Juli 2022)
 
-#### Rathausstraße 16-17
-unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
+###### Rathausstraße 16-17
+_Hausmüll, Wertstoffe, Bioabfälle, Altpapier:_\
+Termine unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
 
-(Stand: 12.10.2021)
+_Glas:_\
+Siehe Frankfurter Allee
 
-#### Frankfurter Allee 129, 131, 133, 135 und 137
+(Stand: Juli 2022)
+
+###### Frankfurter Allee 129, 131, 133, 135 und 137
 _Hausmüll (BSR):_\
 montags + donnerstags
 
 _Wertstoffe (ALBA):_\
-unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
+Termine unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
 
 _Bio (BSR):_\
 wöchentlich donnerstags
 
 _Papier:_\
-unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
+Termine unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
 
 _Glas:_\
-unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
+(Ausschließlich) Die Glascontainer vor der Frankfurter Allee 129/131 sind unverschlossen, zur gemeinsamen Nutzung durch alle Mieter vorgesehen.
+Termin unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten - danke!)
 
-(Stand: 12.10.2021)
+(Stand: Juli 2022)
+
+#### Internetzugang, Telefon
+
+Nicht in allen, aber in vielen Fällen ist es weiterhin sinnvoll, einen ortsgebundenen Internetanschluss (mit oder ohne Telefon) zuhause zu haben, insbesondere wenn hohe Bandbreiten, hoher monatlicher Datentransfer, Stabilität und Ausfallsicherheit/Verfügbarkeit eine Rolle spielen. Mehr Infos dazu findet man zum Beispiel bei [finanztip.de](https://www.finanztip.de/internetanbieter/).
+
+Bei uns spielen vor allem die folgenden Anbieter von leitungsgebundenen Internetzugangswegen eine Rolle:
+* [Deutsche Telekom](https://www.telekom.de/netz/dsl-vdsl-lte-verfuegbarkeit)
+* [Vodafone](https://zuhauseplus.vodafone.de/verfuegbarkeitspruefung/)
+* [O2/Telefonica](https://www.o2online.de/e-shop/internet-festnetz)
+* [1&1](https://dsl.1und1.de/dsl-verfuegbarkeit) (verwendet Telekom-Netz)
+
+Vom Preis-/Leistungsverhältnis her machen derzeit (Stand: Juli 2022) vor allem die günstigeren [FTTB](https://de.wikipedia.org/wiki/Glasfasernetz#Fibre_to_the_Basement)-Angebote von Vodafone und O2 und die teureren [FTTH](https://de.wikipedia.org/wiki/Glasfasernetz#Fibre_to_the_Home)-Angebote von Telekom und 1&1 Sinn. Die meisten Nutzer sind mit dem FTTB-Angebot gut bedient, für Viel- und Home-Office-Nutzer ist ein qualitativer Unterschied zwischen den FTTB- und FTTH-Angeboten spür- und messbar - und das weniger aufgrund der eingesetzten Technik, sondern mehr aufgrund der Art und Weise, wie diese Netzwerke verwaltet werden.
+
+Die Tarife dieser Anbieter gibt es bei Wiederverkäufern zum Teil mit wesentlichen Einsparpotenzialen durch Preisreduktionen oder Cash-Back-Angebote, man kann hier insbesondere bei Verträgen mit 2-Jahres-Bindung schnell über 100 Euro sparen. So zum Beispiel bei den (nur) scheinbar 'unabhängigen' großen Vergleichsportalen Check24 und Verivox, bei denen man viel Zeit und Kenntnisse mitbringen muss, um Fallstricke zu vermeiden.
+
+Wer eh viel unterwegs ist und weniger Bedarf an Echtzeit-Internetanwendungen (Audio-/Videochats/-konferenzen, Multiplayer-Spiele, stabile HD-Telefonie) hat, kann mit Verzicht auf einen Hausanschluss und alleine mit einer Mobilfunk-Flatrate eventuell viel Geld sparen - soweit die stationäre Nutzung dabei nicht vertraglich ausgeschlossen ist. Das empfiehlt sich auch für den schmalen Geldbeutel.
 
 ## Mitmachen
 
