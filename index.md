@@ -222,6 +222,11 @@ Die Tarife dieser Anbieter gibt es bei Wiederverkäufern zum Teil mit wesentlich
 
 Wer eh viel unterwegs ist und weniger Bedarf an Echtzeit-Internetanwendungen (Audio-/Videochats/-konferenzen, Multiplayer-Spiele, stabile HD-Telefonie) hat, kann mit Verzicht auf einen Hausanschluss und alleine mit einer Mobilfunk-Flatrate eventuell viel Geld sparen - soweit die stationäre Nutzung dabei nicht vertraglich ausgeschlossen ist. Das empfiehlt sich auch für den schmalen Geldbeutel.
 
+## Downloads
+
+* [Technische Merkblätter, Rathausstr. 14-17](assets/TechnischeMerkblaetter_R14-17.pdf)\
+Diese wurden mit Vertragsschluss ausgehändigt und bieten Hinweise zur Handhabung lokaler Wohnungsinstallationen und -gegebenheiten. Sie ergänzen damit die neuen Mietern ausgehändigte Mieterfibel, die auch online in Form des mehrsprachigen ["Ratgeber und Häufige Fragen"](https://www.howoge.de/mieterservice/ratgeber-und-haeufige-fragen.html) verfügbar ist.
+
 ## Mitmachen
 
 ### Signal-Gruppen
