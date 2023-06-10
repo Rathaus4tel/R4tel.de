@@ -18,9 +18,9 @@ Wir, die Bewohner:innen und Mieter:innen, wollen die großstädtische Anonymitä
 
 ### Hauptgruppen
 
-Neue Hauptgruppe (11/2021) - einfach mit dem Handy scannen:
+Neue Hauptgruppe (11/2021) - einfach mit der Handykamera scannen:
 
-[![QR-Code der Hauptgruppe - zum Teilnehmen einfach anklicken](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIG0xkFOmaz3In9XdYeFPJGzr72Cx3t_cXabVaYFJbC6IEhArz8wXbuvihQPkjuiyyozl)](https://signal.group/#CjQKIG0xkFOmaz3In9XdYeFPJGzr72Cx3t_cXabVaYFJbC6IEhArz8wXbuvihQPkjuiyyozl)
+[![QR-Code der Hauptgruppe](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=250x250&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIG0xkFOmaz3In9XdYeFPJGzr72Cx3t_cXabVaYFJbC6IEhArz8wXbuvihQPkjuiyyozl)](https://signal.group/#CjQKIG0xkFOmaz3In9XdYeFPJGzr72Cx3t_cXabVaYFJbC6IEhArz8wXbuvihQPkjuiyyozl)
 
 * [R4tel](https://signal.group/#CjQKIG0xkFOmaz3In9XdYeFPJGzr72Cx3t_cXabVaYFJbC6IEhArz8wXbuvihQPkjuiyyozl) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIG0xkFOmaz3In9XdYeFPJGzr72Cx3t_cXabVaYFJbC6IEhArz8wXbuvihQPkjuiyyozl) - [join.r4tel.de](http://join.r4tel.de)): \
 Die aktuelle Hauptgruppe, gegründet im November 2021. \
@@ -46,6 +46,8 @@ Zu verkaufen/zu verschenken
 Mobilitäts- und Verkehrswende rund um das "Rathausviertel" und in Berlin
 * [Wohnungstausch](https://signal.group/#CjQKIOcsHlNJsq9Q-afLO8tuqeAHFsTnfedYJSrq_LbdGDsZEhCOJMpYNP2dgFEOmHIDowfE) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIOcsHlNJsq9Q-afLO8tuqeAHFsTnfedYJSrq_LbdGDsZEhCOJMpYNP2dgFEOmHIDowfE) - [wohnung.r4tel.de](http://wohnung.r4tel.de)): \
 Wohnungstausch in unserem Kiez
+* [Abrechnung](https://signal.group/#CjQKIFInNY51IZ_BVSftMf7temRP4wXGQsDQ0GcVOmqCG4RtEhBoN2slvYofsUiR_n7fNnZh) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIFInNY51IZ_BVSftMf7temRP4wXGQsDQ0GcVOmqCG4RtEhBoN2slvYofsUiR_n7fNnZh) - [abrechnung.r4tel.de](http://abrechnung.r4tel.de)): \
+Alles zu den gängigen Abrechnungen wie z.B. Betriebskosten (BK), Nebenkosten (NK), unterjährige Verbrauchsinformation (uVi)
 
 
 ## Signal kennenlernen
@@ -104,9 +106,6 @@ Now on a [separate page](/policy_en).
 
 #### Bezirk
 * [Bezirksamt Lichtenberg](https://www.berlin.de/ba-lichtenberg/)
-* [Corona-Infos](https://www.berlin.de/ba-lichtenberg/aktuelles/artikel.905911.php)
-* Corona-Hotline (Beratung):\
-  [030 / 90 28 28 28](tel:+493090282828)
 
 ### Infrastruktur, Ver- und Entsorgung
 #### Wasser und Heizung
@@ -248,7 +247,7 @@ Wir suchen noch mehr Leute um:
 Klingt das nach was, was du mal probieren könntest? Dann meld dich gerne in der Signal-Hauptgruppe ober bei den Administrator\*innen der Gruppe. Oder mach einen [Issue auf dem GitHub-Repository](https://github.com/Rathaus4tel/r4tel.de/issues) auf. Falls Du schon ein [GitHub-Konto](https://www.youtube.com/watch?v=3J_PmMdo9aI) hast, nenn uns bitte deinen Benutzernamen. Falls nicht, unterstützen wir gerne bei der [Einrichtung eines GitHub-Kontos](https://github.com/join).
 
 Beim Editieren bitte beachten:
-* Externe Inhalte ausschließlich von folgenden Organisationen einbetten (weitere können wir gerne diskutieren!): HOWOGE, berlin.de
+* Externe Inhalte ausschließlich von folgenden Organisationen / Domains einbetten (weitere können wir gerne diskutieren!): HOWOGE (howoge.de), berlin.de, api.qrserver.com
 * Besser als externe Inhalte einzubinden ist es, eigene Inhalte zu erstellen und diese ins GitHub-Repository zu laden (und dann von dort einzubinden). Aber:
   * Nur Inhalte hochladen, für die Du das Copyright hast, oder die CC-0 lizenziert sind (andere Lizenzen können wir diskutieren, bitte einen Issue erstellen). 
   * Für jeden Upload in der Datei (anlegen, falls sie nicht existiert) /COPYING sowohl Copyright-Owner als auch Lizenz dokumentieren.
