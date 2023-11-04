@@ -109,7 +109,17 @@ Now on a [separate page](/policy_en).
 
 ### Infrastruktur, Ver- und Entsorgung
 #### Wasser und Heizung
-Die Wasserversorgung wird zentral über die HOWOGE Wärme und ihren Vetragspartnern erbracht, und über die Nebenkosten abgerechnet. Jede Wohnung hat einen Kalt- und einen Warmwasseranschluss - der Warmwasseranschluss bringt die Fernwärme vom [Heizkraftwerk Klingenberg](https://de.wikipedia.org/wiki/Heizkraftwerk_Klingenberg) zu uns. In deiner Wohnung befindet sich in der Wand des Abstellraums ein Wartungsschacht, hinter dem sich eine Fernwärme-Wohnungsstation mit Wasserzählern und Fußbodenheizungssteuerung ([Beispiel](https://wohnungsstationen-mit-behaglichkeitsfaktor.de/)) befinden. Die elektrisch betriebene Wohnungsstation (Sicherungskasten: "HKW") verteilt die über die Fernwärme eingebrachte Wärme. Sie liefert so Warmwasser für Bäder und Küche, und bedient die Fußbodenheizung. Die Fußbodenheizung wird über die Raumregler geregelt: Dreht man diese höher, dann wird diese Information elektronisch an die zentrale Fußbodenheizung übertragen und dort dreht ein Motor ein Ventil auf, so dass (mehr) Heißwasser in die Fußbodenheizung einläuft.
+Die lokale Wasserverteilung auf dem Grundstück wird durch die Howoge Wärme erbracht. 
+
+Die Wasserversorgung wird zentral über die HOWOGE Wärme und ihren Vetragspartnern erbracht, und über die Nebenkosten abgerechnet. 
+
+Das Warmwasser bringt uns - wenn auch undirekt - die Fernwärme vom [Heizkraftwerk Klingenberg](https://de.wikipedia.org/wiki/Heizkraftwerk_Klingenberg), betrieben von Vattenfall Wärme. Dort erzeugte Wärme wird wird über durch das ebenfalls [von Vattenfall Wärme betriebene](https://www.vattenfall.de/stoerung-melden) Fernwärmenetz zu einem zentralen Verteiler auf dem Howoge-Grundstück, betrieben von der Howoge Wärme, geleitet. 
+
+Von dort geht zu jeder Wohnung eine Kalt- und eine Warmwasserleitung. In den Wohnungsstationen nimmt ein Wärmetauscher die angelieferte Hitze auf und leitet sie in den wohnugsinternen Heißwasserkreislauf. Auf diesem Weg kann heißes Wasser hygienisch bereitgestellt werden. Das Heißwasser wird an den Waschbecken und der Dusche bereitgestellt, sowie auch am Handtuchwärmer-Radiator. Das Kaltwasser geht direkt ins wohnungsinterne Wassernetz. Kalt- und Warmwasserversorgung funktionieren also erst einmal unabhängig von der Heizung und ohne dass in der Wohnung Strom zugeführt wird (Sicherung "HKW" aus). 
+
+Die Fußbodenheizung erhitzt angeliefertes Kaltwasser mittels Strom (Sicherung "HKW" an) und führt es in den Heizungs-Wasserkreislauf ein. Die Bedarfsregler in den Räumen entscheiden, wie weit die Heizungsventile geöffnet werden und somit, wie viel heißes Wasser in die fußbodenheizung nachfließt. Das vollständige Hochfahren der Fußbodenheizung dauert allerdings ca.6-8 Stunden.
+
+In deiner Wohnung befindet sich in der Wand des Abstellraums ein Wartungsschacht, hinter dem sich eine Fernwärme-Wohnungsstation mit Wasserzählern und Fußbodenheizungssteuerung ([Beispiel](https://wohnungsstationen-mit-behaglichkeitsfaktor.de/)) befinden. Die elektrisch betriebene Wohnungsstation (Sicherungskasten: "HKW") verteilt die über die Fernwärme eingebrachte Wärme. Sie liefert so Warmwasser für Bäder und Küche, und bedient die Fußbodenheizung. Die Fußbodenheizung wird über die Raumregler geregelt: Dreht man diese höher, dann wird diese Information elektronisch an die zentrale Fußbodenheizung übertragen und dort dreht ein Motor ein Ventil auf, so dass (mehr) Heißwasser in die Fußbodenheizung einläuft.
 
 Die Verbrauchsstände sind an den Wasserzählern immer mit Stichtag 31.12. des Vorjahres durch dich ablesbar. Zudem werden sie durch die HOWOGE regelmäßig per Funk abgerufen (über die in den Hausflurdecken installierten Geräte).
 
@@ -207,19 +217,27 @@ Termin unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei dies
 
 #### Internetzugang, Telefon
 
+##### Ortsgebunden
+
 Nicht in allen, aber in vielen Fällen ist es weiterhin sinnvoll, einen ortsgebundenen Internetanschluss (mit oder ohne Telefon) zuhause zu haben, insbesondere wenn hohe Bandbreiten, hoher monatlicher Datentransfer, Stabilität und Ausfallsicherheit/Verfügbarkeit eine Rolle spielen. Mehr Infos dazu findet man zum Beispiel bei [finanztip.de](https://www.finanztip.de/internetanbieter/).
 
-Bei uns spielen vor allem die folgenden Anbieter von leitungsgebundenen Internetzugangswegen eine Rolle:
-* [Deutsche Telekom](https://www.telekom.de/netz/dsl-vdsl-lte-verfuegbarkeit)
-* [Vodafone](https://zuhauseplus.vodafone.de/verfuegbarkeitspruefung/)
-* [O2/Telefonica](https://www.o2online.de/e-shop/internet-festnetz)
-* [1&1](https://dsl.1und1.de/dsl-verfuegbarkeit) (verwendet Telekom-Netz)
+Früher (bis Ende 2023) waren in einigen Gebäuden ausschließlich Kabelinternet-Anschlüsse von Vodafone verfügbar, mittlerweile sind aber in allen Gebäuden auch Glasfaseranschlüsse buchbar. Die Kabelinternet-Zugänge sind ein Bisschen günstiger, aber der Glasfaser-Service ist in der Regel besser. Beide Anschlusstypen können gute Optionen sein - je nach Bedarf: während für viele Nutzer die Kabelinternet-Angebote ausreichen, ist für Home-Office-Nutzer (stabile Videocalls) und insbesondere für Content-Produzenten (hohe Uploadraten) Glasfaser die bessere Option.
 
-Vom Preis-/Leistungsverhältnis her machen derzeit (Stand: Juli 2022) vor allem die günstigeren [FTTB](https://de.wikipedia.org/wiki/Glasfasernetz#Fibre_to_the_Basement)-Angebote von Vodafone und O2 und die teureren [FTTH](https://de.wikipedia.org/wiki/Glasfasernetz#Fibre_to_the_Home)-Angebote von Telekom und 1&1 Sinn. Die meisten Nutzer sind mit dem FTTB-Angebot gut bedient, für Viel- und Home-Office-Nutzer ist ein qualitativer Unterschied zwischen den FTTB- und FTTH-Angeboten spür- und messbar - und das weniger aufgrund der eingesetzten Technik, sondern mehr aufgrund der Art und Weise, wie diese Netzwerke verwaltet werden.
+Bei uns spielen vor allem folgende Anbieter leitungsgebundener Internetzugänge eine Rolle:
+* [Deutsche Telekom](https://www.telekom.de/netz/dsl-vdsl-lte-verfuegbarkeit) - Glasfaser
+* [Vodafone](https://zuhauseplus.vodafone.de/verfuegbarkeitspruefung/) - Glasfaser und Kabelinternet
+* [O2/Telefonica](https://www.o2online.de/e-shop/internet-festnetz) - Glasfaser und Kabelinternet
+* [1&1](https://dsl.1und1.de/dsl-verfuegbarkeit) - Glasfaser (über Telekom-Netz)
 
-Die Tarife dieser Anbieter gibt es bei Wiederverkäufern zum Teil mit wesentlichen Einsparpotenzialen durch Preisreduktionen oder Cash-Back-Angebote, man kann hier insbesondere bei Verträgen mit 2-Jahres-Bindung schnell über 100 Euro sparen. So zum Beispiel bei den (nur) scheinbar 'unabhängigen' großen Vergleichsportalen Check24 und Verivox, bei denen man viel Zeit und Kenntnisse mitbringen muss, um Fallstricke zu vermeiden.
+Die Tarife dieser Anbieter gibt es bei Wiederverkäufern (z.B. Check24, Verivox) oft günstiger. Bei Neuverträgen mit Zwei-Jahres-Bindung lassen sich schnell über 100 Euro sparen. 
 
-Wer eh viel unterwegs ist und weniger Bedarf an Echtzeit-Internetanwendungen (Audio-/Videochats/-konferenzen, Multiplayer-Spiele, stabile HD-Telefonie) hat, kann mit Verzicht auf einen Hausanschluss und alleine mit einer Mobilfunk-Flatrate eventuell viel Geld sparen - soweit die stationäre Nutzung dabei nicht vertraglich ausgeschlossen ist. Das empfiehlt sich auch für den schmalen Geldbeutel.
+##### Mobil
+
+Wer eh viel unterwegs ist und zuhause weniger Bedarf an Echtzeit-Internetanwendungen (Audio-/Videochats/-konferenzen, Multiplayer-Spiele, stabile HD-Telefonie) hat, kann mit einer reinen Mobilfunk-Flatrate, die zuhause und unterwegs verwendet wird, viel Geld sparen - soweit die stationäre Nutzung dabei nicht vertraglich ausgeschlossen ist.
+
+Interessante Anbieter in diesem Bereich sind derzeit (Stand: Ende 2023) Freenet Mobilfunk mit den "o2 Mobile Unlimited"-Verträgen, Telefonica/O2 selbst mit den "Mobile Unlimited"-Verträgen (in Kombination mit 50% "Priority"-Gutscheincode - sonst zu teuer) und freenet FUNK. Während der Datentransfer unlimitiert ist, unterliegt aber jeder dieser Tarife immer noch Geschwindigkeitsbegrenzungen (Drosselungen).
+
+Achtung: Beim Ausfall des nächstgelegenen Funkmasts und damit des Internetzugangs von zuhause ist bei diesen nicht ortsgebundenen Verträgen der Anbieter nicht in der Pflicht, für kurzfristige Wiederherstellung zu sorgen - es kann im ungünstigsten Fall also zu mehrwöchigen Ausfällen z.B. zuhause kommen - solange das Mobilfunk-Internet woanders noch funktioniert, besteht dann kein Sonderkündigungsrecht.
 
 ## Downloads
 
