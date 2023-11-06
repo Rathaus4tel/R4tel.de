@@ -239,10 +239,24 @@ Interessante Anbieter in diesem Bereich sind derzeit (Stand: Ende 2023) Freenet 
 
 Achtung: Beim Ausfall des nächstgelegenen Funkmasts und damit des Internetzugangs von zuhause ist bei diesen nicht ortsgebundenen Verträgen der Anbieter nicht in der Pflicht, für kurzfristige Wiederherstellung zu sorgen - es kann im ungünstigsten Fall also zu mehrwöchigen Ausfällen z.B. zuhause kommen - solange das Mobilfunk-Internet woanders noch funktioniert, besteht dann kein Sonderkündigungsrecht.
 
-## Downloads
+### Umgang mit den Wohnungen und den Nachbarn
+
+#### Technische Merkblätter
 
 * [Technische Merkblätter, Rathausstr. 14-17](assets/TechnischeMerkblaetter_R14-17.pdf)\
 Diese wurden mit Vertragsschluss ausgehändigt und bieten Hinweise zur Handhabung lokaler Wohnungsinstallationen und -gegebenheiten. Sie ergänzen damit die neuen Mietern ausgehändigte Mieterfibel, die auch online in Form des mehrsprachigen ["Ratgeber und Häufige Fragen"](https://www.howoge.de/mieterservice/ratgeber-und-haeufige-fragen.html) verfügbar ist.
+
+#### Hausordnung
+
+Die Hausordnung ist auf [Deutsch](https://www.howoge.de/fileadmin/user_upload/Mieterservice/Ratgeber/Hausordnungen/HOWOGE-Hausordnung-de.pdf) und auf [Englisch](https://www.howoge.de/fileadmin/user_upload/Mieterservice/Ratgeber/Hausordnungen/HOWOGE-Hausordnung-en.pdf) verfügbar.
+
+#### Renovierungen
+
+Die vor Erstbezug angebrachte Wandinnenfarbe war nach Auskunft des damaligen Hausmeisters (Herr I.) "Caparol MattLatex Altweiß 10 (RAL 9010)". Dieses [Auslaufprodukt](https://www.caparol.de/caparol_pim_import/caparol_de/products/ti/2737/TI_315.pdf) wurde nach Auskunft der Firma DAW SE, der Inhaberin der Marke 'Caparol', mittlerweile (Stand: November 2023) durch ein neues Produkt ersetzt. Zitat: "Alternativ zur Caparol MattLatex im Farbton RAL 9010 können wir unsere [CapaMaXX](https://www.caparol.de/produkte/farben/innenfarben/nassabriebklasse-2-matt-scheuerbestaendig/capamaxx) im Farbton Altweiß 10 (entspricht RAL 9010) vorschlagen. CapaMaXX kann [ebenfalls als Latexfarbe deklariert](https://www.caparol.de/caparol_pim_import/caparol_de/products/ti/2749/TI_331.pdf) werden."
+
+Auf Preisvergleichsportalen finden sich für 'CapaMaxx Altweiß' Angebote ab ca. €7,-/Liter (Stand November 2023): [Idealo.de](https://www.idealo.de/preisvergleich/OffersOfProduct/201075677_-capamaxx-altweiss-12-5-l-caparol.html), [Billiger.de](https://www.billiger.de/search?filter=f_category_3254&searchstring=caparol+capamaxx+%22altwei%C3%9F%22) .
+
+Es besteht bei Renovierungen allerdings _keine_ Pflicht dazu, die ursprüngliche Farbe zu verwenden. Zum Auszug muss die Wohnung aber in hellen und dezenten Farbtönen zurückgeben werden (Quelle: [Mieterbund.de](https://www.mieterbund.de/mietrecht/mietrecht-a-z/stichworte-zum-mietrecht-s/schoenheitsreparaturen.html)).
 
 ## Mitmachen
 
