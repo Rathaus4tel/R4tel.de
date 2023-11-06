@@ -64,51 +64,62 @@ Jetzt auf [separater Seite](/policy_de).
 
 Now on a [separate page](/policy_en).
 
-## Wichtige Infos und Links
+## Kontakte
 
-### Kontakte
+### HOWOGE
+Die aktuellen Kontaktdaten lassen sich immer unter [Ansprechpartner für Mieter (howoge.de)](https://www.howoge.de/mieterservice/ansprechpartner-fuer-mieter.html) recherchieren.
 
-#### HOWOGE
-* Kundenzentrum Alt-Lichtenberg:\
-  Frankfurtter Allee 172\
-  10365 Berlin\
-  eMail: [kuzal@howoge.de](mailto:kuzal@howoge.de)\
-  [030 / 54 64 3000](tel:+493054643000) (Fax -3001)
-* Technischer Kundendienst (ALBA):\
-  [030 / 54 64 4000](tel:+493054644000)\
-  '3' drücken für 'Alt-Lichtenberg'
-* Havarie-Notdienst (ALBA):\
-  [030 / 54 64 4023](tel:+493054644023)\
-  (auch für Warmwasserausfälle)
+Wir befnden uns im Quartier ___Frankfurter Allee Nord___.
+#### Vertragliches
+Bei vertraglichen Themen benötigt Ihr Eure zehnstellige Mieternummer, die in allen Schreiben der HOWOGE angegeben ist.
+* Geschäftssitz:\
+  HOWOGE Wohnungsbaugesellschaft mbH\
+  Stefan-Heym-Platz 1\
+  10367 Berlin
+* Postanschrift:\
+  HOWOGE Wohnungsbaugesellschaft mbH\
+  Postfach 100319\
+  57003 Siegen
+* E-Mail:\
+  [kundenzentrum@howoge.de](mailto:kundenzentrum@howoge.de)
+* Telefon:\
+  [54 64-3000](tel:+493054643000) (Fax -3001)
+
+#### Technisches
+Bei technischen Themen benötigt Ihr nur Eure Straße, Haus- und Wohnungsnummer.
+* Reparaturen + __technische Notfälle__\
+  Telefon:\
+  [54 64-4054](tel:+493054644054)
 * [Hausmeister](https://www.howoge.de/mieterservice/services-fuer-mieter/hausmeister.html):\
-  Name und Rufnummer des Hausmeisters sind hier aus Datenschutzgründen nicht veröffentlicht. Bitte unter [Ansprechpartner für Mieter](https://www.howoge.de/mieterservice/ansprechpartner-fuer-mieter.html) recherchieren.
+  Bitte unter [Ansprechpartner für Mieter](https://www.howoge.de/mieterservice/ansprechpartner-fuer-mieter.html) recherchieren.
 * [Mobile Hausmeister](https://www.howoge.de/mieterservice/services-fuer-mieter/mobiler-hausmeister.html) (Nebenzeit):\
-  [030 / 54 64 1300](tel:+493054641300)
+  [54 64-1300](tel:+493054641300)
 * [HOWOGE Wärme](https://www.howoge.de/unternehmen/tochterunternehmen/howoge-waerme-gmbh.html):
   * Ansprechpartner Warmwasser:\
-    [030 / 54 64 3680](tel:+493054643680)\
-    Notfallkontakt. Nur Mailbox. Bitte immer zuerst den technischen Kundendienst kontaktieren!
-  * Ansprechpartner Mieterstrom (Solarenergie):\
-    [030 / 54 64 3670](tel:+493054643670) (Fax -3671)\
-    eMail: [gruenstrom@howoge.de](mailto:gruenstrom@howoge.de)
+    [54 64-3680](tel:+493054643680)\
+    Notfallkontakt - nur Mailbox. Bitte *zuerst immer* die Rufnummer für technische Notfälle kontaktieren!
+  * HOWOGE Grünstrom (Mieterstrom/Solarenergie):\
+    [54 64-3670](tel:+493054643670) (Fax -3671)\
+    E-Mail: [gruenstrom@howoge.de](mailto:gruenstrom@howoge.de)
   * Zentrale:\
-    [030 / 54 64 3601](tel:+493054643601) (Fax -3602)
+    [54 64-3601](tel:+493054643601) (Fax -3602)
 * [Kiezhelfer](https://www.howoge.de/mieterservice/services-fuer-mieter/kiezhelfer.html)
-* [HOWOGE-Mieterportal](https://mieterportal.howoge.de/nc/mieterportal/willkommen/meine-wohnung.html) - derzeit (Juli 2022) außer Betrieb
-* [HOWOGE-Mieterräte](https://www.howoge-mieterrat.com/) (zentral)
-* [Mieterbeirat (Alt-Lichtenberg)](https://www.howoge.de/mieterservice/mieterbeiraete.html) (dezentral)
-* Weitere Infos und Öffnungszeiten:\
-  [HOWOGE.de: Ansprechpartner für Mieter](https://www.howoge.de/mieterservice/ansprechpartner-fuer-mieter.html)
+
+#### Mitmachen!
+* [HOWOGE-Mieterrat](https://www.howoge-mieterrat.com/) (zentral)
+* [Mieterbeiräte](https://www.howoge.de/mieterservice/mieterbeiraete.html) (dezentral, Alt-Lichtenberg)
+
+#### Unser Quartier
 * HOWOGE-Präsentationen:
   * ["Quartier am Rathauspark"](https://www.quartier-am-rathauspark.de/)
   * [Neubau Frankfurter Allee 135](https://www.howoge.de/wohnungsbau/neubauprojekte/frankfurter-allee-135.html)
   * [Neubau Rathausstraße 11-12](https://www.howoge.de/wohnungsbau/neubauprojekte/rathausstrasse.html)
 
-#### Bezirk
+### Bezirk
 * [Bezirksamt Lichtenberg](https://www.berlin.de/ba-lichtenberg/)
 
-### Infrastruktur, Ver- und Entsorgung
-#### Wasser und Heizung
+## Infrastruktur, Ver- und Entsorgung
+### Wasser und Heizung
 Die lokale Wasserverteilung auf dem Grundstück wird durch die Howoge Wärme erbracht. 
 
 Die Wasserversorgung wird zentral über die HOWOGE Wärme und ihren Vetragspartnern erbracht, und über die Nebenkosten abgerechnet. 
@@ -125,7 +136,7 @@ Die Verbrauchsstände sind an den Wasserzählern immer mit Stichtag 31.12. des V
 
 Bei Wasserrohrbrüchen, undichten Leitungen und Störungen der Warmwasserversorgung kontaktiere bitte unbedingt den HOWOGE-Havarie-Notdienst und gib den betroffenen Nachbar:innen / R4tel-Gruppen Bescheid. Bei mehrtägigen Ausfällen sollte auch die Kundenzentrale Alt-Lichtenberg eingeschaltet werden.
 
-#### Strom
+### Strom
 Die Stromversorgung geschieht technisch über die [Stromnetz Berlin](https://de.wikipedia.org/wiki/Stromnetz_Berlin) im Auftrag des von Dir gewählten Anbieters.
 
 Die HOWOGE-Tochter HOWOGE Wärme bietet auf den Dächern der Wohnungen erzeugten [Mieterstrom](https://de.wikipedia.org/wiki/Mieterstrom) unter der Marke [HOWOGE Grünstrom](https://www.howoge.de/unternehmen/tochterunternehmen/howoge-waerme-gmbh/howoge-gruenstrom.html) an. Als lokal erzeugter Ökostrom ist Mieterstrom sowohl sehr wirtschaftlich als auch ökologisch sinnvoll. Im Vergleich zur Grundversorgung (per Gesetz >= 10% Einsparung), aber auch zu anderen Anbietern von grünem Strom ist er auch preislich attraktiv.
@@ -134,9 +145,9 @@ Weitere Stromanbieter lassen sich zum Beispiel [über Finanztip.de recherchieren
 
 Störungen in der Stromversorgung können [bei der Stromnetz Berlin geprüft und gemeldet](https://www.stromnetz.berlin/technik-und-innovationen/storungsmanagement) ([Twitter](https://twitter.com/stromstoerung)) werden. Über die davon unabhängige Website [stoerungsauskunft.de](https://xn--strungsauskunft-9sb.de/stromausfall/10367-Berlin%20Lichtenberg) lassen sich Großstörungen erkennen.
 
-#### Abfall und Wertstoffe
+### Abfall und Wertstoffe
 
-##### Infos der Entsorger
+#### Infos der Entsorger
 **BSR**
 * [Abfuhrkalender](https://www.bsr.de/abfuhrkalender-20520.php)
 * [Feiertagsregelungen](https://www.bsr.de/feiertagsregelungen-21790.php)
@@ -147,9 +158,9 @@ Störungen in der Stromversorgung können [bei der Stromnetz Berlin geprüft und
 * [App mit Abfuhrkalender](https://berlin.alba.info/service/abfallkalender/)
 * [Feiertagsregelungen](https://berlin.alba.info/fileadmin/user_upload/ALBA_Berlin/pdf/Feiertagsentsorgung_2021.pdf)
 
-##### Termine nach Wohnadresse
+#### Termine nach Wohnadresse
 
-###### Rathausstraße 11, 11a-f
+##### Rathausstraße 11, 11a-f
 _Hausmüll, Wertstoffe, Bioabfälle, Altpapier:_\
 Termine unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
 
@@ -158,7 +169,7 @@ Siehe Frankfurter Allee
 
 (Stand: Juli 2022)
 
-###### Rathausstraße 12, 12a
+##### Rathausstraße 12, 12a
 _Hausmüll, Wertstoffe, Bioabfälle, Altpapier:_\
 Termine unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
 
@@ -167,7 +178,7 @@ Siehe Frankfurter Allee
 
 (Stand: Juli 2022)
 
-###### Rathausstraße 14-15
+##### Rathausstraße 14-15
 Die Sammelstelle (Unterflurbodenlagerung) befindet sich im Innenhof / an der Versorgungsstraße zwischen Frankfurter Allee 147-149 (alter Hochhauskomplex) und Frankfurter Allee 15-17 (Neubau), in der Nähe des Spielplatzes. Die Biotonne befindet sich ebenfalls dort.
 
 _Hausmüll (BSR):_\
@@ -187,7 +198,7 @@ Siehe Frankfurter Allee
 
 (Stand: Juli 2022)
 
-###### Rathausstraße 16-17
+##### Rathausstraße 16-17
 _Hausmüll, Wertstoffe, Bioabfälle, Altpapier:_\
 Termine unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei diesem erfragen, dann hier updaten)
 
@@ -196,7 +207,7 @@ Siehe Frankfurter Allee
 
 (Stand: Juli 2022)
 
-###### Frankfurter Allee 129, 131, 133, 135 und 137
+##### Frankfurter Allee 129, 131, 133, 135 und 137
 _Hausmüll (BSR):_\
 montags + donnerstags
 
@@ -215,9 +226,9 @@ Termin unbekannt (bitte bei HOWOGE den Versorger erfragen, dann Termine bei dies
 
 (Stand: Juli 2022)
 
-#### Internetzugang, Telefon
+### Internetzugang, Telefon
 
-##### Ortsgebunden
+#### Ortsgebunden
 
 Nicht in allen, aber in vielen Fällen ist es weiterhin sinnvoll, einen ortsgebundenen Internetanschluss (mit oder ohne Telefon) zuhause zu haben, insbesondere wenn hohe Bandbreiten, hoher monatlicher Datentransfer, Stabilität und Ausfallsicherheit/Verfügbarkeit eine Rolle spielen. Mehr Infos dazu findet man zum Beispiel bei [finanztip.de](https://www.finanztip.de/internetanbieter/).
 
@@ -231,7 +242,7 @@ Bei uns spielen vor allem folgende Anbieter leitungsgebundener Internetzugänge 
 
 Die Tarife dieser Anbieter gibt es bei Wiederverkäufern (z.B. Check24, Verivox) oft günstiger. Bei Neuverträgen mit Zwei-Jahres-Bindung lassen sich schnell über 100 Euro sparen. 
 
-##### Mobil
+#### Mobil
 
 Wer eh viel unterwegs ist und zuhause weniger Bedarf an Echtzeit-Internetanwendungen (Audio-/Videochats/-konferenzen, Multiplayer-Spiele, stabile HD-Telefonie) hat, kann mit einer reinen Mobilfunk-Flatrate, die zuhause und unterwegs verwendet wird, viel Geld sparen - soweit die stationäre Nutzung dabei nicht vertraglich ausgeschlossen ist.
 
@@ -239,18 +250,18 @@ Interessante Anbieter in diesem Bereich sind derzeit (Stand: Ende 2023) Freenet 
 
 Achtung: Beim Ausfall des nächstgelegenen Funkmasts und damit des Internetzugangs von zuhause ist bei diesen nicht ortsgebundenen Verträgen der Anbieter nicht in der Pflicht, für kurzfristige Wiederherstellung zu sorgen - es kann im ungünstigsten Fall also zu mehrwöchigen Ausfällen z.B. zuhause kommen - solange das Mobilfunk-Internet woanders noch funktioniert, besteht dann kein Sonderkündigungsrecht.
 
-### Umgang mit den Wohnungen und den Nachbarn
+## Umgang mit den Wohnungen und den Nachbarn
 
-#### Technische Merkblätter
+### Technische Merkblätter
 
 * [Technische Merkblätter, Rathausstr. 14-17](assets/TechnischeMerkblaetter_R14-17.pdf)\
 Diese wurden mit Vertragsschluss ausgehändigt und bieten Hinweise zur Handhabung lokaler Wohnungsinstallationen und -gegebenheiten. Sie ergänzen damit die neuen Mietern ausgehändigte Mieterfibel, die auch online in Form des mehrsprachigen ["Ratgeber und Häufige Fragen"](https://www.howoge.de/mieterservice/ratgeber-und-haeufige-fragen.html) verfügbar ist.
 
-#### Hausordnung
+### Hausordnung
 
 Die Hausordnung ist auf [Deutsch](https://www.howoge.de/fileadmin/user_upload/Mieterservice/Ratgeber/Hausordnungen/HOWOGE-Hausordnung-de.pdf) und auf [Englisch](https://www.howoge.de/fileadmin/user_upload/Mieterservice/Ratgeber/Hausordnungen/HOWOGE-Hausordnung-en.pdf) verfügbar.
 
-#### Renovierungen
+### Renovierungen
 
 Die vor Erstbezug angebrachte Wandinnenfarbe war nach Auskunft des damaligen Hausmeisters (Herr I.) "Caparol MattLatex Altweiß 10 (RAL 9010)". Dieses [Auslaufprodukt](https://www.caparol.de/caparol_pim_import/caparol_de/products/ti/2737/TI_315.pdf) wurde nach Auskunft der Firma DAW SE, der Inhaberin der Marke 'Caparol', mittlerweile (Stand: November 2023) durch ein neues Produkt ersetzt. Zitat: "Alternativ zur Caparol MattLatex im Farbton RAL 9010 können wir unsere [CapaMaXX](https://www.caparol.de/produkte/farben/innenfarben/nassabriebklasse-2-matt-scheuerbestaendig/capamaxx) im Farbton Altweiß 10 (entspricht RAL 9010) vorschlagen. CapaMaXX kann [ebenfalls als Latexfarbe deklariert](https://www.caparol.de/caparol_pim_import/caparol_de/products/ti/2749/TI_331.pdf) werden."
 
@@ -289,8 +300,8 @@ Links:
 * [Letzte Änderungen](https://github.com/Rathaus4tel/r4tel.de/commits/main)
 * [GitHub Pages-Dokumentation](https://docs.github.com/categories/github-pages-basics/)
 
-## Administrativer Kontakt
-Bei dringenden Fragen zur Administration der Website und Signal-Hauptgruppe bitte kontaktieren:
+## Impressum
+In dringenden Fällen bitte kontaktieren:
 
 Moritz Naumann\
 Rathausstr. 14\
