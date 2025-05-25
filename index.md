@@ -41,7 +41,7 @@ Alles über die in 'unseren' Häusern installierten Lüftungsanlagen
 Menschen mit Tieren und Tierfreund:innen\
 Zum Austausch und (gegenseitigen) Aufpassen auf unsere Haustiere. English speaking pet lovers welcome!
 * [Kleinanzeigen](https://signal.group/#CjQKIH-5r3u4OFVUklYo-DxjgWmqpSOz5j3YBXkuCD1x01stEhC2UvjcjElHWWr5cFIV8jDz) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIH-5r3u4OFVUklYo-DxjgWmqpSOz5j3YBXkuCD1x01stEhC2UvjcjElHWWr5cFIV8jDz) - [markt.r4tel.de](http://markt.r4tel.de)): \
-Zu verkaufen/zu verschenken
+Zu verkaufen/zu verschenken, Nachbarschaftshilfe, lokale Empfehlungen
 * [Mobilitätswende](https://signal.group/#CjQKILqJ2bCRX2HKnu0HjtPgQIbOqvNZsjOVLHQyr-0tZ1fWEhC2YclKY61a33yw5d3hpTWS) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKILqJ2bCRX2HKnu0HjtPgQIbOqvNZsjOVLHQyr-0tZ1fWEhC2YclKY61a33yw5d3hpTWS) - [mobil.r4tel.de](http://mobil.r4tel.de)): \
 Mobilitäts- und Verkehrswende rund um das "Rathausviertel" und in Berlin
 * [Wohnungstausch](https://signal.group/#CjQKIOcsHlNJsq9Q-afLO8tuqeAHFsTnfedYJSrq_LbdGDsZEhCOJMpYNP2dgFEOmHIDowfE) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIOcsHlNJsq9Q-afLO8tuqeAHFsTnfedYJSrq_LbdGDsZEhCOJMpYNP2dgFEOmHIDowfE) - [wohnung.r4tel.de](http://wohnung.r4tel.de)): \
