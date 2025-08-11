@@ -33,21 +33,23 @@ International group, English (and possibly more?)
 Von + für Bewohner:innen der Rathausstraße 14 (und Interessierte der Hauptgruppen)
 
 ### Themengruppen
+* [Abrechnung](https://signal.group/#CjQKIFInNY51IZ_BVSftMf7temRP4wXGQsDQ0GcVOmqCG4RtEhBoN2slvYofsUiR_n7fNnZh) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIFInNY51IZ_BVSftMf7temRP4wXGQsDQ0GcVOmqCG4RtEhBoN2slvYofsUiR_n7fNnZh) - [abrechnung.r4tel.de](http://abrechnung.r4tel.de)): \
+Alles zu den gängigen Abrechnungen wie z.B. Betriebskosten (BK), Nebenkosten (NK), unterjährige Verbrauchsinformation (uVi)
 * [E-Mobilität](https://signal.group/#CjQKIBbaJLU2Gc0zmWhTnz4hpGWYFOz71D27NOkgeOY_KLHsEhBnEmglzZU1hd4i6dCdflsR) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIBbaJLU2Gc0zmWhTnz4hpGWYFOz71D27NOkgeOY_KLHsEhBnEmglzZU1hd4i6dCdflsR) - [emob.r4tel.de](http://emob.r4tel.de)): \
 E-Mobilität und Wallboxen (installierte Ladevorrichtungen) in den Tiefgaragen
+* [Kleinanzeigen](https://signal.group/#CjQKIH-5r3u4OFVUklYo-DxjgWmqpSOz5j3YBXkuCD1x01stEhC2UvjcjElHWWr5cFIV8jDz) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIH-5r3u4OFVUklYo-DxjgWmqpSOz5j3YBXkuCD1x01stEhC2UvjcjElHWWr5cFIV8jDz) - [markt.r4tel.de](http://markt.r4tel.de)): \
+Zu verkaufen/zu verschenken, Nachbarschaftshilfe, lokale Empfehlungen
 * [Lüftung](https://signal.group/#CjQKIIe_Ibmw7Nh2b1J3wxf7mzmeWTJ11s0nhdaNWoIxdtRXEhCfJww30UdAPA0W9B_-2U8v) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIIe_Ibmw7Nh2b1J3wxf7mzmeWTJ11s0nhdaNWoIxdtRXEhCfJww30UdAPA0W9B_-2U8v) - [luft.r4tel.de](http://luft.r4tel.de)): \
 Alles über die in 'unseren' Häusern installierten Lüftungsanlagen
+* [Mobilitätswende](https://signal.group/#CjQKILqJ2bCRX2HKnu0HjtPgQIbOqvNZsjOVLHQyr-0tZ1fWEhC2YclKY61a33yw5d3hpTWS) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKILqJ2bCRX2HKnu0HjtPgQIbOqvNZsjOVLHQyr-0tZ1fWEhC2YclKY61a33yw5d3hpTWS) - [mobil.r4tel.de](http://mobil.r4tel.de)): \
+Mobilitäts- und Verkehrswende rund um das "Rathausviertel" und in Berlin
 * [Rathaustiere](https://signal.group/#CjQKIC2WoOENHhHterGi4otCuK8f1zG-KwNpWpCPbdTDETZJEhCsNKp3ySzzFC3s7S6xuv5j) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIC2WoOENHhHterGi4otCuK8f1zG-KwNpWpCPbdTDETZJEhCsNKp3ySzzFC3s7S6xuv5j) - [tiere.r4tel.de](http://tiere.r4tel.de)): \
 Menschen mit Tieren und Tierfreund:innen\
 Zum Austausch und (gegenseitigen) Aufpassen auf unsere Haustiere. English speaking pet lovers welcome!
-* [Kleinanzeigen](https://signal.group/#CjQKIH-5r3u4OFVUklYo-DxjgWmqpSOz5j3YBXkuCD1x01stEhC2UvjcjElHWWr5cFIV8jDz) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIH-5r3u4OFVUklYo-DxjgWmqpSOz5j3YBXkuCD1x01stEhC2UvjcjElHWWr5cFIV8jDz) - [markt.r4tel.de](http://markt.r4tel.de)): \
-Zu verkaufen/zu verschenken, Nachbarschaftshilfe, lokale Empfehlungen
-* [Mobilitätswende](https://signal.group/#CjQKILqJ2bCRX2HKnu0HjtPgQIbOqvNZsjOVLHQyr-0tZ1fWEhC2YclKY61a33yw5d3hpTWS) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKILqJ2bCRX2HKnu0HjtPgQIbOqvNZsjOVLHQyr-0tZ1fWEhC2YclKY61a33yw5d3hpTWS) - [mobil.r4tel.de](http://mobil.r4tel.de)): \
-Mobilitäts- und Verkehrswende rund um das "Rathausviertel" und in Berlin
+* [Veranstaltungsplanung](https://signal.group/#CjQKIHjNFC-uU894Y66A9QRtGGAMQdPgwwx33GTgXazl2aOqEhDx7d1dlbBus3XIjJaFfbH7) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIHjNFC-uU894Y66A9QRtGGAMQdPgwwx33GTgXazl2aOqEhDx7d1dlbBus3XIjJaFfbH7) - [events.r4tel.de](http://events.r4tel.de)): \
+Planung von Veranstaltungen im R4tel-Umfeld
 * [Wohnungstausch](https://signal.group/#CjQKIOcsHlNJsq9Q-afLO8tuqeAHFsTnfedYJSrq_LbdGDsZEhCOJMpYNP2dgFEOmHIDowfE) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIOcsHlNJsq9Q-afLO8tuqeAHFsTnfedYJSrq_LbdGDsZEhCOJMpYNP2dgFEOmHIDowfE) - [wohnung.r4tel.de](http://wohnung.r4tel.de)): \
 Wohnungstausch in unserem Kiez
-* [Abrechnung](https://signal.group/#CjQKIFInNY51IZ_BVSftMf7temRP4wXGQsDQ0GcVOmqCG4RtEhBoN2slvYofsUiR_n7fNnZh) ([QR-Code](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&qzone=1&margin=0&size=400x400&ecc=L&data=https%3A%2F%2Fsignal.group%2F%23CjQKIFInNY51IZ_BVSftMf7temRP4wXGQsDQ0GcVOmqCG4RtEhBoN2slvYofsUiR_n7fNnZh) - [abrechnung.r4tel.de](http://abrechnung.r4tel.de)): \
-Alles zu den gängigen Abrechnungen wie z.B. Betriebskosten (BK), Nebenkosten (NK), unterjährige Verbrauchsinformation (uVi)
 
 
 ## Signal kennenlernen
