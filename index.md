@@ -305,15 +305,6 @@ Links:
 * [GitHub Pages-Dokumentation](https://docs.github.com/categories/github-pages-basics/)
 
 ## Impressum
-In dringenden Fällen bitte kontaktieren:
-
-Moritz Naumann\
-Rathausstr. 14\
+r4tel e.V.
+Rathausstr. 11c
 10367 Berlin
-
-Telefon- und Signal-Nummer:
-
-![Telefon](https://user-images.githubusercontent.com/3409697/141753365-dcf3e6ac-2c18-4723-b805-473dea7b9c12.jpg)
-
-Email:\
-`r4tel` auf der Domain `moritz-naumann.de`
