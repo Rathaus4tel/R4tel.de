@@ -7,16 +7,15 @@ Der r4tel e.V. ist ein gemeinnütziger Nachbarschaftsverein. Er wurde am 03.10.2
 Lust Mitglied zu werden? Dann sende uns den Unterschriebenen Mitgliedsantrag per eMail an info@r4tel.de oder per Post an:
 
 r4tel e.V.<br>
-c/o Andre Korthaus<br>
 Rathausstraße 11c<br>
 10367 Berlin<br>
 
 [Mitgliedsantrag](antrag.pdf)
 
-# Geschäftsordnungen
+# Beitragsordnung
 
-[Vorstand](Geschäftsordnung.pdf)
+[Beitragsordnung](beitragsordnung.pdf)
 
 # Satzung
 
-[Unsere Aktuelle Satzung findet ihr hier](satzung.pdf) 
+[Unsere Aktuelle Satzung findet ihr hier](satzung-2.pdf) 
