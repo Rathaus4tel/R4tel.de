@@ -7,7 +7,7 @@ _Rathaus Lichtenberg, im Hintergrund der HOWOGE-Turm_
 
 Willkommen im __Rathausviertel__ ('R4tel'), dem [HOWOGE](https://www.howoge.de)-Neubaugebiet in [Berlin - (Alt) Lichtenberg (Frankfurter Allee Nord)](https://www.openstreetmap.org/#map=19/52.51372/13.47996)!
 
-Wir, die Bewohner:innen und Mieter:innen, wollen die großstädtische Anonymität in unserem Kiez etwas aufbrechen, uns über lokal relevante Neuigkeiten austauschen und uns gegenseitig unterstützen. Dazu betreiben wir mehrere Chats, diese Website sowie unseren Verein für die Anwohner*innen um das Rathaus Lichtenberg.
+Wir, die Bewohner:innen und Mieter:innen, wollen die großstädtische Anonymität in unserem Kiez etwas aufbrechen, uns über lokal relevante Neuigkeiten austauschen und uns gegenseitig unterstützen. Dazu betreiben wir mehrere Chats, diese Website sowie unseren Verein für die Anwohner:innen um das Rathaus Lichtenberg.
 
 ## Chatgruppen
 
@@ -15,7 +15,8 @@ Wir, die Bewohner:innen und Mieter:innen, wollen die großstädtische Anonymitä
 
 ### Hauptgruppen
 
-Die Hauptgruppe für die Mieter*innen der Addressen:
+Die Hauptgruppe für die Mieter:innen der Adressen:
+
 * Rathausstr. 11a-f, 12, 14 - 17
 * Frankfurter Allee 129, 131, 133, 135 und 137
 * Möllendorffstr. 1-3
