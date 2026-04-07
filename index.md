@@ -5,20 +5,21 @@
 [![Foto: Rathaus Lichtenberg, im Hintergrund der HOWOGE-Turm](https://www.quartier-am-rathauspark.de/fileadmin/ffa/Hotspot_Nachhaltigkeit/Nachhaltigkeit_6_1.jpg)](https://www.openstreetmap.org/#map=19/52.51372/13.47996) \
 _Rathaus Lichtenberg, im Hintergrund der HOWOGE-Turm_
 
-Willkommen im __Rathausviertel__ ('R4tel'), dem [HOWOGE](https://www.howoge.de)-Neubaugebiet in [Berlin - (Alt) Lichtenberg (Frankfurter Allee Nord)](https://www.openstreetmap.org/#map=19/52.51372/13.47996) mit den Adressen 
+Willkommen im __Rathausviertel__ ('R4tel'), dem [HOWOGE](https://www.howoge.de)-Neubaugebiet in [Berlin - (Alt) Lichtenberg (Frankfurter Allee Nord)](https://www.openstreetmap.org/#map=19/52.51372/13.47996)!
 
-* Rathausstr. 11a-f, 12, 14 - 17
-* Frankfurter Allee 129, 131, 133, 135 und 137
-* Möllendorffstr. 1-3
-* Stefan-Heym-Platz 1
-
-Wir, die Bewohner:innen und Mieter:innen, wollen die großstädtische Anonymität in unserem Kiez etwas aufbrechen, uns über lokal relevante Neuigkeiten austauschen und uns gegenseitig unterstützen. Dazu betreiben wir mehrere Chats und diese Website.
+Wir, die Bewohner:innen und Mieter:innen, wollen die großstädtische Anonymität in unserem Kiez etwas aufbrechen, uns über lokal relevante Neuigkeiten austauschen und uns gegenseitig unterstützen. Dazu betreiben wir mehrere Chats, diese Website sowie unseren Verein für die Anwohner*innen um das Rathaus Lichtenberg.
 
 ## Chatgruppen
 
 Über den kostenlosen und privatsphärefreundlichen Messaging-Dienst [Signal](https://signal.org/de/) haben wir mehrere Chatgruppen eingerichtet. Als Anwohner\*in bist Du herzlich eingeladen!
 
 ### Hauptgruppen
+
+Die Hauptgruppe für die Mieter*innen der Addressen:
+* Rathausstr. 11a-f, 12, 14 - 17
+* Frankfurter Allee 129, 131, 133, 135 und 137
+* Möllendorffstr. 1-3
+* Stefan-Heym-Platz 1
 
 Neue Hauptgruppe (11/2021) - einfach mit der Handykamera scannen:
 
