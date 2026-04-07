@@ -12,7 +12,7 @@ r4tel e.V.<br>
 Rathausstraße 11c<br>
 10367 Berlin<br>
 
-[Mitgliedsantrag](antrag.pdf)
+[Mitgliedsantrag](Mitgliedsantrag.pdf)
 
 # Beitragsordnung
 
