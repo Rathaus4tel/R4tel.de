@@ -14,6 +14,6 @@
 	<li><input type="text" name="mail" required></li>
 	<li><label for="phone">Telefon</label></li>
 	<li><input type="text" name="phone"><br></li>
-	<li><input type="checkbox" required>Mit dem Absenden des Mitgliedsantrags erkenne ich die aktuelle [Satzung](satzung-2.pdf), sowie die [Beitragsordnung](beitragsordnung.pdf) an.</li>
+	<li><input type="checkbox" required>Mit dem Absenden des Mitgliedsantrags erkenne ich die aktuelle <a href="satzung-2.pdf">Satzung</a>, sowie die <a href="beitragsordnung.pdf">Beitragsordnung</a></li>
 	
 	<li><input type="submit" value="Absenden"></li>
